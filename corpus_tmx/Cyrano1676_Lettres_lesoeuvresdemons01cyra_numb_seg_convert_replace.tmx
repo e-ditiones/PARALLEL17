@@ -1,0 +1,3302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+   <header creationtool="NA"
+           creationtoolversion="NA"
+           datatype="XML"
+           segtype="sub-sentence"
+           adminlang="fr-FR"
+           srclang="FRM"
+           o-tmf="XML"/>
+   <body>
+ 
+      <tu tuid="s1">
+         <tuv xml:lang="FRM">
+            <seg>Je ſçay que vous eſtes trop ſage pour conſeiller jamais un Duel;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je sais que vous êtes trop sage pour conseiller jamais un Duel;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s2">
+         <tuv xml:lang="FRM">
+            <seg>c’eſt pourquoy je vous demande voſtre avis ſur celuy que j’ay reſolu de faire;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>c’est pourquoi je vous demande votre avis sur celui que j’ai résolu de faire;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s3">
+         <tuv xml:lang="FRM">
+            <seg>car enfin (comme vous ſçavez) l’honneur ſaly ne ſe lave qu’avec du ſang.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car enfin (comme vous savez) l’honneur sali ne se lave qu’avec du sang.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s4">
+         <tuv xml:lang="FRM">
+            <seg>Hier je fus apellé ſot, &amp; l’on s’émancipa de me donner un ſoufflet en ma preſence:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Hier je fus appellé sot, et l’on s’émancipa de me donner un soufflet en ma présence:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s5">
+         <tuv xml:lang="FRM">
+            <seg>Il eſt vray que ce fut en une compagnie fort honorable.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il est vrai que ce fut en une compagnie fort honorable.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s6">
+         <tuv xml:lang="FRM">
+            <seg>Certains ſtupides en matiere de démélez, diſent qu’il faut que je periſſe, ou que je me vange.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Certains stupides en matière de démêlés, disent qu’il faut que je périsse, ou que je me venge.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s7">
+         <tuv xml:lang="FRM">
+            <seg>Vous, Monſieur, dites-moy, vous, mon plus cher Amy, &amp; que j’eſtime trop ſage pour m’exciter à aucune action cruelle;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous, Monsieur, dites-moi, vous, mon plus cher Ami, et que j’estime trop sage pour m’exciter à aucune action cruelle;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s8">
+         <tuv xml:lang="FRM">
+            <seg>Ne ſuis-je pas aſſez maltraitté de la langue, &amp; de la main de ce Poltron, ſans irriter encore ſon épée;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ne suis-je pas assez maltraité de la langue, et de la main de ce Poltron, sans irriter encore son épée;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s9">
+         <tuv xml:lang="FRM">
+            <seg>car quoy que je ſois mary d’eſtre appellé ſot, je ſerois bien plus fâché qu’on me reprochât d’eſtre défunt.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car quoi que je sois marri d’être appellé sot, je serais bien plus fâché qu’on me reprochât d’être défunt.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s10">
+         <tuv xml:lang="FRM">
+            <seg>Si j’eſtois enfermé dans un ſepulchre, il pourroit à ſon aiſe, &amp; en ſeureté, mal parler de mon courage.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Si j’étais enfermé dans un sépulcre, il pourrait à son aise, et en sûreté, mal parler de mon courage.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s11">
+         <tuv xml:lang="FRM">
+            <seg>Ne ſeray-je donc pas mieux de demeurer au monde, afin d’eſtre toûjours preſent pour le châtier quand ſa temerité m’en donnera ſujet.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ne serai-je donc pas mieux de demeurer au monde, afin d’être toujours présent pour le châtier quand sa témérité m’en donnera sujet.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s12">
+         <tuv xml:lang="FRM">
+            <seg>Infailliblement ceux qui me conſeillent la tragedie, ne jugent pas que ſi j’en ſuis la caſtatrophe, il ſe moquera de ma valeur:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Infailliblement ceux qui me conseillent la tragédie, ne jugent pas que si j’en suis la castatrophe, il se moquera de ma valeur:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s13">
+         <tuv xml:lang="FRM">
+            <seg>Si je le tuë, on croira que je l’ay chaſſé du monde, parce que je n’oſois y demeurer tant qu’il y ſeroit;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Si je le tue, on croira que je l’ai chassé du monde, parce que je n’osais y demeurer tant qu’il y serait;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s14">
+         <tuv xml:lang="FRM">
+            <seg>Si je luy oſte la rapiere, on dira que j’apprehendois qu’il demeurât armé:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Si je lui ôte la rapière, on dira que j’appréhendais qu’il demeurât armé:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s15">
+         <tuv xml:lang="FRM">
+            <seg>Si nous demeurons égaux, à quoy bon ſe mettre au hazard du plus grand de tous les malheurs, qui eſt la mort, pour ne rien décider:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Si nous demeurons égaux, à quoi bon se mettre au hasard du plus grand de tous les malheurs, qui est la mort, pour ne rien décider:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s16">
+         <tuv xml:lang="FRM">
+            <seg>Et puis quand j’aurois lettre du Dieu Mars, de ſortir de ce combat à mon honneur, il pourroit au moins ſe vanter de m’avoir contraint à commettre une inſigne folie:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et puis quand j’aurais lettre du Dieu Mars, de sortir de ce combat à mon honneur, il pourrait au moins se vanter de m’avoir contraint à commettre une insigne folie:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s17">
+         <tuv xml:lang="FRM">
+            <seg>Non, non, je ne déguaiſne point;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Non, non, je ne déguaisne point;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s18">
+         <tuv xml:lang="FRM">
+            <seg>c’eſt craindre ſon ennemy de vouloir par le moyen de la mort, ou l’éloigner de ſoy, ou s’éloigner de luy:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>c’est craindre son ennemi de vouloir par le moyen de la mort, ou l’éloigner de soi, ou s’éloigner de lui:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s19">
+         <tuv xml:lang="FRM">
+            <seg>Pour moy je n’apprehende pas qu’il ſoit où je ſeray.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour moi je n’appréhende pas qu’il soit où je serai.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s20">
+         <tuv xml:lang="FRM">
+            <seg>Il tient à gloire de n’avoir jamais redouté les Parques;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il tient à gloire de n’avoir jamais redouté les Parques;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s21">
+         <tuv xml:lang="FRM">
+            <seg>s’il veut que je le croye, qu’il ſe tuë, j’iray conſulter tous les Sages pendant ſoixante ou quatre-vingts ans, pour ſçavoir s’il a bien fait;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>s’il veut que je le croie, qu’il se tue, j’irai consulter tous les Sages pendant soixante ou quatre-vingts ans, pour savoir s’il a bien fait;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s22">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ſi l’on me répond qu’oüy alors je tâcheray d’en vivre encore autant pour faire le reſte de mes jours penitence de ma poltronnerie.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et si l’on me répond que oui alors je tâcherai d’en vivre encore autant pour faire le reste de mes jours pénitence de ma poltronnerie.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s23">
+         <tuv xml:lang="FRM">
+            <seg>Vous trouverez peut-eſtre ce procedé fort étrange dans un homme de cœur comme moy:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous trouverez peut-être ce procédé fort étrange dans un homme de cœur comme moi:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s24">
+         <tuv xml:lang="FRM">
+            <seg>Mais, Monſieur, à parler franc, je trouve que j’aime mieux me tenir à ma carte, que de mettre au hazard en les broüillant, d’en avoir une pire.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais, Monsieur, à parler franc, je trouve que j’aime mieux me tenir à ma carte, que de mettre au hasard en les brouillant, d’en avoir une pire.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s25">
+         <tuv xml:lang="FRM">
+            <seg>Ce Monſieur le Matamore veut peut eſtre mourir bien-toſt, afin d’en eſtre quitte de bonne heure;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ce Monsieur le Matamore veut peut-être mourir bientôt, afin d’en être quitte de bonne heure;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s26">
+         <tuv xml:lang="FRM">
+            <seg>mais moy qui ſuis plus genereux, je tâche de vivre plus long-temps, au riſque d’eſtre long-temps en eſtat de pouvoir mourir.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais moi qui suis plus généreux, je tâche de vivre plus longtemps, au risque d’être longtemps en état de pouvoir mourir.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s27">
+         <tuv xml:lang="FRM">
+            <seg>Penſe-t’il ſe rendre fort recommandable, pour témoigner qu’il s’ennuye de ne pas retourner à la nuit ſa premiere maiſon, eſt-ce qu’il a peur du Soleil?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pense-t-il se rendre fort recommandable, pour témoigner qu’il s’ennuie de ne pas retourner à la nuit sa première maison, est-ce qu’il a peur du Soleil?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s28">
+         <tuv xml:lang="FRM">
+            <seg>Helas!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Hélas!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s29">
+         <tuv xml:lang="FRM">
+            <seg>le pauvre bufle, s’il ſçavoit ce que c’eſt que d’eſtre trépaſſé, rien ne le preſſeroit.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>le pauvre buffle, s’il savait ce que c’est que d’être trépassé, rien ne le presserait.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s30">
+         <tuv xml:lang="FRM">
+            <seg>Un homme ne fait rien d’illuſtre qui devant trente ans met ſa vie en danger, parce qu’il expoſe ce qu’il ne connoiſt pas;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Un homme ne fait rien d’illustre qui devant trente ans met sa vie en danger, parce qu’il expose ce qu’il ne connaît pas;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s31">
+         <tuv xml:lang="FRM">
+            <seg>mais lors qu’il la hazarde depuis cét âge-là, je ſoûtiens qu’il eſt enragé de la riſquer, l’ayant connuë.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais lorsqu’il la hasarde depuis cet âge-là, je soutiens qu’il est enragé de la risquer, l’ayant connue.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s32">
+         <tuv xml:lang="FRM">
+            <seg>Quant à moy je trouve le jour tres-beau, &amp; je n’aime point à dormir ſous terre, à cauſe qu’on n’y voit goutte.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Quant à moi je trouve le jour très-beau, et je n’aime point à dormir sous terre, à cause qu’on n’y voit goutte.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s33">
+         <tuv xml:lang="FRM">
+            <seg>Qu’il ne s’enfle point pourtant de ce refus, car je veux bien qu’il ſçache que je ſçay une botte à tuer meſme un Geant charmé, &amp; qu’à cauſe de cela je ne veux point me battre, de peur qu’on ne l’apprenne.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qu’il ne s’enfle point pourtant de ce refus, car je veux bien qu’il sache que je sais une botte à tuer même un Géant charmé, et qu’à cause de cela je ne veux point me battre, de peur qu’on ne l’apprenne.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s34">
+         <tuv xml:lang="FRM">
+            <seg>Il y a encore cent autres raiſons qui me font abhorrer le Duel;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il y a encore cent autres raisons qui me font abhorrer le Duel;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s35">
+         <tuv xml:lang="FRM">
+            <seg>Moy j’irois ſur le pré, &amp; là fauché parmy l’herbe m’embarquer poſſible pour l’autre monde:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Moi j’irais sur le pré, et là fauché parmi l’herbe m’embarquer possible pour l’autre monde:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s36">
+         <tuv xml:lang="FRM">
+            <seg>Helas!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Hélas!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s37">
+         <tuv xml:lang="FRM">
+            <seg>mes creanciers n’attendent que cela pour m’accuſer de banqueroute;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mes créanciers n’attendent que cela pour m’accuser de banqueroute;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s38">
+         <tuv xml:lang="FRM">
+            <seg>mais penſeroit-il meſme m’avoir mis à jubé, quand il m’auroit oſté la vie, au contraire j’en deviendrois plus terrible, &amp; je ſuis aſſuré qu’il ne pourroit me regarder quinze jours aprés, ſans que je luy fiſſe peur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais penserait-il même m’avoir mis à jubé, quand il m’aurait ôté la vie, au contraire j’en deviendrais plus terrible, et je suis assuré qu’il ne pourrait me regarder quinze jours après, sans que je lui fisse peur.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s39">
+         <tuv xml:lang="FRM">
+            <seg>S’il aſpire à la gloire de m’avoir égorgé pourveu que je me porte bien, je luy permets de ſe vanter par tout d’eſtre mon bourreau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>S’il aspire à la gloire de m’avoir égorgé pourvu que je me porte bien, je lui permets de se vanter par tout d’être mon bourreau;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s40">
+         <tuv xml:lang="FRM">
+            <seg>auſſi-bien quand il m’auroit tué, la gloire ne ſeroit pas grande, une poignée de cyguë en feroit bien autant.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>aussi bien quand il m’aurait tué, la gloire ne serait pas grande, une poignée de ciguë en ferait bien autant.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s41">
+         <tuv xml:lang="FRM">
+            <seg>Il va s’imaginer peut-eſtre que la Nature m’a fort mal-traitté en me refuſant du courage;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il va s’imaginer peut-être que la Nature m’a fort mal-traité en me refusant du courage;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s42">
+         <tuv xml:lang="FRM">
+            <seg>mais qu’il apprenne que la Nature ne ſçauroit nous joüer un plus vilain trait, que de ſe ſervir contre nous de celuy du fort;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais qu’il apprenne que la Nature ne saurait nous jouer un plus vilain trait, que de se servir contre nous de celui du fort;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s43">
+         <tuv xml:lang="FRM">
+            <seg>que la moindre Puce en vie, vaut mieux que le grand Alexandre decedé;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>que la moindre Puce en vie, vaut mieux que le grand Alexandre decedé;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s44">
+         <tuv xml:lang="FRM">
+            <seg>&amp; qu’enfin je me ſens indigne d’obliger des Torches beniſtes à pleurer ſur mes armoiries:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et qu’enfin je me sens indigne d’obliger des Torches bénites à pleurer sur mes armoiries:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s45">
+         <tuv xml:lang="FRM">
+            <seg>J’aime veritablement qu’on me flate de toutes les qualitez d’un bel eſprit, horſmis de celle d’heureuſe memoire, qui m’eſt inſupportable, &amp; pour cauſe;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>J’aime véritablement qu’on me flatte de toutes les qualités d’un bel esprit, hormis de celle d’heureuse mémoire, qui m’est insupportable, et pour cause;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s46">
+         <tuv xml:lang="FRM">
+            <seg>Une autre raiſon me défend encore les batailles;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Une autre raison me défend encore les batailles;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s47">
+         <tuv xml:lang="FRM">
+            <seg>J’ay compoſé mon Epitaphe, dont la pointe eſt fort bonne, pourveu que je vive cent ans;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>J’ai composé mon Épitaphe, dont la pointe est fort bonne, pourvu que je vive cent ans;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s48">
+         <tuv xml:lang="FRM">
+            <seg>&amp; j’en ruinerois la rencontre heureuſe, ſi je m’hazardois de mourir plus jeûne:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et j’en ruinerais la rencontre heureuse, si je m’hasardais de mourir plus jeûne:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s49">
+         <tuv xml:lang="FRM">
+            <seg>Ajoutez à cela que j’abhorre ſur toutes choſes les maladies, &amp; qu’il n’y a rien de plus nuiſible à la ſanté que la mort;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ajoutez à cela que j’abhorre sur toutes choses les maladies, et qu’il n’y a rien de plus nuisible à la santé que la mort;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s50">
+         <tuv xml:lang="FRM">
+            <seg>Ne vaut-il donc pas bien mieux s’encourager à devenir Poltron, que de ſe rendre la cauſe de tant de deſaſtres.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ne vaut-il donc pas bien mieux s’encourager à devenir Poltron, que de se rendre la cause de tant de désastres.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s51">
+         <tuv xml:lang="FRM">
+            <seg>Ainſi (forts de noſtre foibleſſe) on ne nous verra jamais ny pâlir, ny trembler que d’apprehenſion d’avoir trop de cœur:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ainsi (forts de notre faiblesse) on ne nous verra jamais ni pâlir, ni trembler que d’appréhension d’avoir trop de cœur:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s52">
+         <tuv xml:lang="FRM">
+            <seg>Et toy, ô ſalutaire poltronnerie!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et toi, ô salutaire poltronnerie!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s53">
+         <tuv xml:lang="FRM">
+            <seg>je te vouë un Autel, &amp; je promets de te ſervir avec un culte ſi devot, que pour commencer dés aujourd’huy, je dédie cette Epiſtre au Lâche le plus confirmé de tes enfans, de peur que quelque Brave, à qui je l’euſſe envoyée, ne ſe fût imaginé que j’eſtois homme à le ſervir pour ces quatre méchans mots qu’on eſt obligé d’écrire à la fin de toutes les Lettres;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>je te voue un Autel, et je promets de te servir avec un culte si dévot, que pour commencer dès aujourd’hui, je dédie cette Épître au Lâche le plus confirmé de tes enfants, de peur que quelque Brave, à qui je l’eusse envoyée, ne se fût imaginé que j’étais homme à le servir pour ces quatre méchants mots qu’on est obligé d’écrire à la fin de toutes les Lettres;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s54">
+         <tuv xml:lang="FRM">
+            <seg>Je ſuis,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je suis,</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s55">
+         <tuv xml:lang="FRM">
+            <seg>Je ſçay bien qu’une ame baſſe comme la voſtre, ne ſçauroit naturellement s’empêcher de médire, auſſi n’eſt-ce pas une abſtinence où je vous veüille condamner:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je sais bien qu’une âme basse comme la vôtre, ne saurait naturellement s’empêcher de médire, aussi n’est-ce pas une abstinence où je vous veuille condamner:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s56">
+         <tuv xml:lang="FRM">
+            <seg>La ſeule courtoiſie que je veux de vous, c’eſt de me déchirer ſi doucement, que je puiſſe faire ſemblant de ne le pas ſentir.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La seule courtoisie que je veux de vous, c’est de me déchirer si doucement, que je puisse faire semblant de ne le pas sentir.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s57">
+         <tuv xml:lang="FRM">
+            <seg>Vous pouvez connoiſtre par là qu’on m’envoye la Gazette du Païs Latin;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous pouvez connaître par là qu’on m’envoie la Gazette du Pays Latin;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s58">
+         <tuv xml:lang="FRM">
+            <seg>Remerciez Dieu, de ce qu’il m’a donné une ame aſſez raiſonnable, pour ne croire pas tout le monde de toutes choſes, à cauſe que tout le monde peut dire toutes choſes;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Remerciez Dieu, de ce qu’il m’a donné une âme assez raisonnable, pour ne croire pas tout le monde de toutes choses, à cause que tout le monde peut dire toutes choses;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s59">
+         <tuv xml:lang="FRM">
+            <seg>autrement j’aurois appliqué à vos maux de ratte un plus ſolide &amp; plus puiſſant antidote que le diſcours.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>autrement j’aurais appliqué à vos maux de rate un plus solide et plus puissant antidote que le discours.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s60">
+         <tuv xml:lang="FRM">
+            <seg>Ce n’eſt pas que j’aye jamais attendu des actions fort humaines d’une perſonne qui ſortoit de l’humanité;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ce n’est pas que j’aie jamais attendu des actions fort humaines d’une personne qui sortait de l’humanité;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s61">
+         <tuv xml:lang="FRM">
+            <seg>mais je ne pouvois croire, que voſtre cervelle euſt ſi generalement échoüé contre les bancs de la Rhetorique, que vous euſſiez porté en Philoſophie un homme ſans teſte.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais je ne pouvais croire, que votre cervelle eût si généralement échoué contre les bancs de la Rhétorique, que vous eussiez porté en Philosophie un homme sans tête.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s62">
+         <tuv xml:lang="FRM">
+            <seg>On auroit à la verité trouvé fort étrange, que dans un corps ſi vaſte, voſtre petit eſprit ne ſe fût pas perdu;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>On aurait à la vérité trouvé fort étrange, que dans un corps si vaste, votre petit esprit ne se fût pas perdu;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s63">
+         <tuv xml:lang="FRM">
+            <seg>auſſi ne l’a-t’il pas fait longue, &amp; j’ay oüy dire qu’il y a de bonnes années que vous ne ſçauriez plus abandonner la vie, que voſtre trépas accompagné de miracles ne vous faſſe canoniſer:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>aussi ne l’a-t’il pas fait longue, et j’ai ouï dire qu’il y a de bonnes années que vous ne sauriez plus abandonner la vie, que votre trépas accompagné de miracles ne vous fasse canoniser:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s64">
+         <tuv xml:lang="FRM">
+            <seg>Ouy, prenez congé du Soleil quand il vous plaira, vous eſtes aſſuré d’une ligne dans nos Litanies, quand le Conſiſtoire apprendra que vous ſerez mort ſans avoir rendu l’eſprit;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Oui, prenez congé du Soleil quand il vous plaira, vous êtes assuré d’une ligne dans nos Litanies, quand le Consistoire apprendra que vous serez mort sans avoir rendu l’esprit;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s65">
+         <tuv xml:lang="FRM">
+            <seg>mais conſolez vous, vous n’en durerez pas moins pour cela;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais consolez vous, vous n’en durerez pas moins pour cela;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s66">
+         <tuv xml:lang="FRM">
+            <seg>Les Cerfs &amp; les Corbeaux, dont l’eſprit eſt taillé à la meſure du voſtre, vivent quatre cens ans;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Les Cerfs et les Corbeaux, dont l’esprit est taillé à la mesure du vôtre, vivent quatre cents ans;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s67">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ſi le manque de genie eſt la cauſe de leur durée, vous devez eſtre celuy qui fera l’Epitaphe du Genre humain.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et si le manque de génie est la cause de leur durée, vous devez être celui qui fera l’Épitaphe du Genre humain.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s68">
+         <tuv xml:lang="FRM">
+            <seg>C’eſt ſans doute en conſequence de ce brutal inſtinct de voſtre nature, que vous choiſiſſez l’or &amp; les pierres precieuſes pour répandre deſſus voſtre venin.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>C’est sans doute en conséquence de ce brutal instinct de votre nature, que vous choisissez l’or et les pierres précieuses pour répandre dessus votre venin.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s69">
+         <tuv xml:lang="FRM">
+            <seg>Souffrez donc, encore que vous pretendiez vous ſouſtraire de l’empire que Dieu a donné aux hommes ſur les bêtes, que je vous commande de vomir ſur quelque choſe de plus ſale que mon nom, &amp; de vous reſſouvenir (car je croy que les animaux comme vous ont quelque reminiſcence) que le Createur n’a donné à ceux de voſtre eſpece une langue que pour avaler, &amp; non pas pour parler:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Souffrez donc, encore que vous prétendiez vous soustraire de l’empire que Dieu a donné aux hommes sur les bêtes, que je vous commande de vomir sur quelque chose de plus sale que mon nom, et de vous ressouvenir (car je crois que les animaux comme vous ont quelque réminiscence) que le Créateur n’a donné à ceux de votre espèce une langue que pour avaler, et non pas pour parler:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s70">
+         <tuv xml:lang="FRM">
+            <seg>Souvenez-vous-en donc, c’eſt le meilleur conſeil que vous puiſſiez prendre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Souvenez-vous-en donc, c’est le meilleur conseil que vous puissiez prendre;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s71">
+         <tuv xml:lang="FRM">
+            <seg>car quoy que voſtre foibleſſe faſſe pitié, celles des Poux &amp; des Puces qui nous importunent, ne nous obligent pas à leur pardonner.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car quoi que votre faiblesse fasse pitié, celles des Poux et des Puces qui nous importunent, ne nous obligent pas à leur pardonner.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s72">
+         <tuv xml:lang="FRM">
+            <seg>Enfin ceſſez de mordre, Simulacre de l’envie;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Enfin cessez de mordre, Simulacre de l’envie;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s73">
+         <tuv xml:lang="FRM">
+            <seg>car quoy que je ſois peu ſenſible à l’injure, je ſuis ſevere à la punir, rien n’empêcheroit la vertu d’un Elebore, qu’on appelle en François Tricot, duquel pour vous montrer que je ſuis Philoſophe (ce que vous ne croyez pas) je vous châtierois avec ſi peu d’animoſité, que le chapeau dans une main, &amp; dans l’autre un bâton, je vous dirois en vous briſant les os;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car quoi que je sois peu sensible à l’injure, je suis sévère à la punir, rien n’empêcherait la vertu d’un Ellébore, qu’on appelle en Français Tricot, duquel pour vous montrer que je suis Philosophe (ce que vous ne croyez pas) je vous châtierais avec si peu d’animosité, que le chapeau dans une main, et dans l’autre un bâton, je vous dirais en vous brisant les os;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s74">
+         <tuv xml:lang="FRM">
+            <seg>Je ſuis,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je suis,</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s75">
+         <tuv xml:lang="FRM">
+            <seg>Si tout le monde eſtoit obligé comme moy, pour faciliter la lecture de ſes Lettre, d’envoyer de l’argent, les Balzacs, n’auroient jamais écrit, &amp; les Aveugles ſçauroient lire;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Si tout le monde était obligé comme moi, pour faciliter la lecture de ses Lettre, d’envoyer de l’argent, les Balzacs, n’auraient jamais écrit, et les Aveugles sauraient lire;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s76">
+         <tuv xml:lang="FRM">
+            <seg>Mais quoy, ſi les miennes ne ſont éclairées par la reflexion de l’or de quelque Loüys, vous n’y voyez que du noir de Grimoire;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais quoi, si les miennes ne sont éclairées par la réflexion de l’or de quelque Louis, vous n’y voyez que du noir de Grimoire;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s77">
+         <tuv xml:lang="FRM">
+            <seg>&amp; quand meſme je les aurois priſes dans Polexandre, je ſuis aſſuré d’avoir pour vous écrit en Hebreu;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et quand même je les aurais prises dans Polexandre, je suis assuré d’avoir pour vous écrit en Hébreu;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s78">
+         <tuv xml:lang="FRM">
+            <seg>Ouvrir la bouche, &amp; mouvoir les levres en toutes les façons neceſſaires à l’expreſſion de noſtre langue, ne vous fait entendre que de l’Arabe:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ouvrir la bouche, et mouvoir les lèvres en toutes les façons nécessaires à l’expression de notre langue, ne vous fait entendre que de l’Arabe:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s79">
+         <tuv xml:lang="FRM">
+            <seg>Pour vous parler François, il faut ouvrir la main, ainſi ma bourſe devient chez moy le ſeul organe, par lequel je vous puiſſe éclaircir les difficultez de la Bible, &amp; vous rendre les Centuries de Noſtradamus auſſi faciles que le Pater.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour vous parler Français, il faut ouvrir la main, ainsi ma bourse devient chez moi le seul organe, par lequel je vous puisse éclaircir les difficultés de la Bible, et vous rendre les Centuries de Nostradamus aussi faciles que le Pater.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s80">
+         <tuv xml:lang="FRM">
+            <seg>Enfin, Mademoiſelle, c’eſt de vous ſeule que l’on peut dire avec verité, point d’argent point de Suiſſe.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Enfin, Mademoiselle, c’est de vous seule que l’on peut dire avec vérité, point d’argent point de Suisse.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s81">
+         <tuv xml:lang="FRM">
+            <seg>Je me conſole aiſément de voſtre humeur, parce que tant que vous ne changerez point, je ſuis aſſuré d’eſtre en puiſſance avec la Croix de quelques piſtoles, de chaſſer plus facilement, qu’avec l’eau beniſte &amp; l’exorciſme, le Demon d’avarice;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je me console aisément de votre humeur, parce que tant que vous ne changerez point, je suis assuré d’être en puissance avec la Croix de quelques pistoles, de chasser plus facilement, qu’avec l’eau bénite et l’exorcisme, le Démon d’avarice;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s82">
+         <tuv xml:lang="FRM">
+            <seg>mais j’ay tort de vous reprocher une ſi grande baſſeſſe, ce ſont au contraire des motifs de vertu qui vous font agir de la ſorte;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais j’ai tort de vous reprocher une si grande bassesse, ce sont au contraire des motifs de vertu qui vous font agir de la sorte;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s83">
+         <tuv xml:lang="FRM">
+            <seg>car ſi vous tombez plus ſouvent ſous la Croix, que les malfaicteurs de Judée, c’eſt parce que vous croyez pieuſement que les Juſtes ne vous ſçauroient rien demander injuſtement, &amp; que l’or, ce ſymbole de la pureté, ne vous ſçauroit eſtre donné qu’avec des intentions tres-pures.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car si vous tombez plus souvent sous la Croix, que les malfaiteurs de Judée, c’est parce que vous croyez pieusement que les Justes ne vous sauraient rien demander injustement, et que l’or, ce symbole de la pureté, ne vous saurait être donné qu’avec des intentions très pures.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s84">
+         <tuv xml:lang="FRM">
+            <seg>Je penſe meſme, comme vous eſtes, auſſi bien que bonne Chreſtienne, encore meilleure Françoiſe, que vous vous abaiſſez devant tous ceux qui vous preſentent les Images de nos Roys;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je pense même, comme vous êtes, aussi bien que bonne Chrétienne, encore meilleure Française, que vous vous abaissez devant tous ceux qui vous présentent les Images de nos Rois;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s85">
+         <tuv xml:lang="FRM">
+            <seg>&amp; que meſme comme vous eſtes d’une probité exemplaire, qui ne veut faire tort à perſonne, vous eſtes tellement ſcrupuleuſe à la diſtribution de vos faveurs, que vous vous appuyez davantage ſur les baiſers de dix piſtoles, que ſur ceux de neuf.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et que même comme vous êtes d’une probité exemplaire, qui ne veut faire tort à personne, vous êtes tellement scrupuleuse à la distribution de vos faveurs, que vous vous appuyez davantage sur les baisers de dix pistoles, que sur ceux de neuf.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s86">
+         <tuv xml:lang="FRM">
+            <seg>Cette œconomie ne me déplaiſt pas, car je ſuis aſſuré, tenant ma bourſe dans une main, de tenir voſtre cœur dans l’autre.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Cette économie ne me déplaît pas, car je suis assuré, tenant ma bourse dans une main, de tenir votre cœur dans l’autre.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s87">
+         <tuv xml:lang="FRM">
+            <seg>Tout ce qui me fâche, c’eſt de ce que cette chere Image, que vous juriez autrefois avoir imprimé fort avant dans voſtre cœur, vous la mettez hors de chez vous par les épaules, ſi toſt qu’elle y a demeuré trois jours ſans payer ſon giſte.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tout ce qui me fâche, c’est de ce que cette chère Image, que vous juriez autrefois avoir imprimé fort avant dans votre cœur, vous la mettez hors de chez vous par les épaules, si tôt qu’elle y a demeuré trois jours sans payer son gîte.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s88">
+         <tuv xml:lang="FRM">
+            <seg>Pour moy je penſe que vous avez oublié la definition de l’homme, car toutes vos actions me prouvent que vous ne me prenez que pour un animal donnant, cependant je croyois eſtre par l’opinion d’Ariſtote un animal raiſonnable;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour moi je pense que vous avez oublié la définition de l’homme, car toutes vos actions me prouvent que vous ne me prenez que pour un animal donnant, cependant je croyais être par l’opinion d’Aristote un animal raisonnable;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s89">
+         <tuv xml:lang="FRM">
+            <seg>mais je voy bien qu’il me faut reſoudre à ceſſer d’eſtre ce que je ſuis, du moment que je ceſſe de foüiller à ma poche.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais je vois bien qu’il me faut résoudre à cesser d’être ce que je suis, du moment que je cesse de fouiller à ma poche.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s90">
+         <tuv xml:lang="FRM">
+            <seg>Corrigez, je vous prie, cette humeur qui convient fort mal à voſtre jeuneſſe &amp; à cette generoſité dont vous vous faites toute blanche;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Corrigez, je vous prie, cette humeur qui convient fort mal à votre jeunesse et à cette générosité dont vous vous faites toute blanche;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s91">
+         <tuv xml:lang="FRM">
+            <seg>car il vous eſt honteux d’eſtre à mes gages, moy qui ſuis,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car il vous est honteux d’être à mes gages, moi qui suis,</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s92">
+         <tuv xml:lang="FRM">
+            <seg>Par l’affection que je vous ay portée dont vous eſtes indigne, je vous ay fait meriter d’eſtre mon ennemy.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par l’affection que je vous ai portée dont vous êtes indigne, je vous ai fait mériter d’être mon ennemi.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s93">
+         <tuv xml:lang="FRM">
+            <seg>Si les Philiſtins autrefois n’euſſent laiſſé leurs vies ſous le bras de Samſon, nous ne ſçaurions pas aujourd’huy que la Terre eut porté des Philiſtins:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Si les Philistins autrefois n’eussent laissé leurs vies sous le bras de Samson, nous ne saurions pas aujourd’hui que la Terre eut porté des Philistins:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s94">
+         <tuv xml:lang="FRM">
+            <seg>Ils doivent leur vie à leur mort, &amp; s’ils euſſent vécu dix ans plus tard, ils fuſſent morts trente Siecles plûtoſt;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ils doivent leur vie à leur mort, et s’ils eussent vécu dix ans plus tard, ils fussent morts trente Siècles plus tôt;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s95">
+         <tuv xml:lang="FRM">
+            <seg>Ainſi vous moiſſonnez malgré moy cette gloire de voſtre lâcheté, de m’avoir contraint de vous en punir.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ainsi vous moissonnez malgré moi cette gloire de votre lâcheté, de m’avoir contraint de vous en punir.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s96">
+         <tuv xml:lang="FRM">
+            <seg>On me dira, je le ſçay bien, que pour avoir détruit un Pigmée, je n’attacheray pas à mon ſort la matière d’une illuſtre Epitaphe.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>On me dira, je le sais bien, que pour avoir détruit un Pygmée, je n’attacherai pas à mon sort la matière d’une illustre Épitaphe.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s97">
+         <tuv xml:lang="FRM">
+            <seg>Mais à regarder ſans intereſt le revers du paradoxe, ce Marius qui fit en trois Combats un Cimetiere à trois Nations, ne fut pas cenſé Poltron, lors qu’il frappoit les Grenoüilles du Marais, où il s’eſtoit jetté:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais à regarder sans intérêt le revers du paradoxe, ce Marius qui fit en trois Combats un Cimetière à trois Nations, ne fut pas censé Poltron, lorsqu’il frappait les Grenouilles du Marais, où il s’était jetté:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s98">
+         <tuv xml:lang="FRM">
+            <seg>Et Socrate ne ceſſa pas d’eſtre le premier homme de l’Univers, quand il eut écraſé les poux qui le mordoient dans ſon cachot:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et Socrate ne cessa pas d’être le premier homme de l’Univers, quand il eut écrasé les poux qui le mordaient dans son cachot:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s99">
+         <tuv xml:lang="FRM">
+            <seg>Non, non petit Nain, ne penſez pas eſtre quelqu’autre choſe;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Non, non petit Nain, ne pensez pas être quelqu’autre chose;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s100">
+         <tuv xml:lang="FRM">
+            <seg>eſſayez de vous humilier en voſtre neant, &amp; croyez, comme une article de Foy, que ſi vous eſtes encore auſſi petit qu’au jour de voſtre naiſſance, le Ciel l’a permis ainſi, pour empêcher un petit mal de devenir grand:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>essayez de vous humilier en votre néant, et croyez, comme une article de Foi, que si vous êtes encore aussi petit qu’au jour de votre naissance, le Ciel l’a permis ainsi, pour empêcher un petit mal de devenir grand:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s101">
+         <tuv xml:lang="FRM">
+            <seg>Enfin vous n’eſtes pas homme;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Enfin vous n’êtes pas homme;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s102">
+         <tuv xml:lang="FRM">
+            <seg>&amp; que Diable eſtes-vous donc?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et que Diable êtes-vous donc?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s103">
+         <tuv xml:lang="FRM">
+            <seg>Vous eſtes peut-eſtre une Momie que quelque Farfadet aura volée à l’Eſcole de Medecine pour en effrayer le monde:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous êtes peut-être une Momie que quelque Farfadet aura volée à l’École de Médecine pour en effrayer le monde:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s104">
+         <tuv xml:lang="FRM">
+            <seg>Encore cela n’eſt-il point trop éloigné du vray-ſemblable, puis que ſi les yeux ſont les miroirs de l’ame, voſtre ame eſt quelque choſe de bien laid, cependant vous vous vantez de mon amitié.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Encore cela n’est-il point trop éloigné du vraisemblable, puis que si les yeux sont les miroirs de l’âme, votre âme est quelque chose de bien laid, cependant vous vous vantez de mon amitié.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s105">
+         <tuv xml:lang="FRM">
+            <seg>O Ciel!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ô Ciel!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s106">
+         <tuv xml:lang="FRM">
+            <seg>puniſſeur des hereſies, châtiez celle-cy du Tonnerre.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>punisseur des hérésies, châtiez celle-ci du Tonnerre.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s107">
+         <tuv xml:lang="FRM">
+            <seg>Je vous ay donc aimé?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je vous ai donc aimé?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s108">
+         <tuv xml:lang="FRM">
+            <seg>Je vous ay donc porté mon cœur en offrande, donc vous m’eſtimiez ſot, au point d’avoir par charité donné mon ame au Diable;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je vous ai donc porté mon cœur en offrande, donc vous m’estimiez sot, au point d’avoir par charité donné mon âme au Diable;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s109">
+         <tuv xml:lang="FRM">
+            <seg>mais ce n’eſt pas de moy ſeul que vous avez médit, les plus chatoüillans Eloges qui partent de vous ſont des Satyres, &amp; Dieu ne vous eut point échappé ſi vous l’euſſiez connu.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais ce n’est pas de moi seul que vous avez médit, les plus chatouillants Éloges qui partent de vous sont des Satyres, et Dieu ne vous eut point échappé si vous l’eussiez connu.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s110">
+         <tuv xml:lang="FRM">
+            <seg>Tout ce qui reſpire, intereſſé à la perte des Monſtres, auroit déja tenté mes bonnes grâces par voſtre mort, mais il la neglige comme un coup ſeur, ſçachant que vous aviez en moy ſeul,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tout ce qui respire, intéressé à la perte des Monstres, aurait déjà tenté mes bonnes grâces par votre mort, mais il la néglige comme un coup sûr, sachant que vous aviez en moi seul,</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s111">
+         <tuv xml:lang="FRM">
+            <seg>HÉ!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>HÉ!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s112">
+         <tuv xml:lang="FRM">
+            <seg>par la mort, Monſieur le Coquin, je trouve que vous eſtes bien impudent de demeurer en vie aprés m’avoir offenſé:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>par la mort, Monsieur le Coquin, je trouve que vous êtes bien impudent de demeurer en vie après m’avoir offensé:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s113">
+         <tuv xml:lang="FRM">
+            <seg>Vous qui ne tenez lieu de rien au monde, ou qui n’eſtes plus qu’un clou aux feſſes de la Nature;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous qui ne tenez lieu de rien au monde, ou qui n’êtes plus qu’un clou aux fesses de la Nature;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s114">
+         <tuv xml:lang="FRM">
+            <seg>Vous qui tomberez ſi bas, ſi je ceſſe de vous ſoûtenir, qu’une Puce en lêchant la terre, ne vous diſtinguera pas du pavé;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous qui tomberez si bas, si je cesse de vous soutenir, qu’une Puce en léchant la terre, ne vous distinguera pas du pavé;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s115">
+         <tuv xml:lang="FRM">
+            <seg>Vous enfin ſi ſale &amp; ſi puant, qu’on doute (en vous voyant) ſi voſtre Mère n’a point accouché de vous par le derriere;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous enfin si sale et si puant, qu’on doute (en vous voyant) si votre Mère n’a point accouché de vous par le derrière;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s116">
+         <tuv xml:lang="FRM">
+            <seg>encore ſi vous m’euſſiez envoyé demander le temps d’un Peccavi:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>encore si vous m’eussiez envoyé demander le temps d’un Peccavi:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s117">
+         <tuv xml:lang="FRM">
+            <seg>Mais ſans vous enquêter ſi je trouve bon que vous viviez encore demain, ou que vous mouriez dés aujourd’huy, vous avez l’impudence de boire &amp; de manger, comme ſi vous n’eſtiez pas mort.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais sans vous enquêter si je trouve bon que vous viviez encore demain, ou que vous mouriez dès aujourd’hui, vous avez l’impudence de boire et de manger, comme si vous n’étiez pas mort.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s118">
+         <tuv xml:lang="FRM">
+            <seg>Ah!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ah!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s119">
+         <tuv xml:lang="FRM">
+            <seg>je vous proteſte de renverſer ſur vous un ſi long aneantiſſement, qu’il ne ſera pas vray de dire que vous ayez jamais vécu;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>je vous proteste de renverser sur vous un si long anéantissement, qu’il ne sera pas vrai de dire que vous ayez jamais vécu;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s120">
+         <tuv xml:lang="FRM">
+            <seg>Vous eſperez ſans doute m’attendrir par la dedicace de quelque ennuyeux Burleſque;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous espèrez sans doute m’attendrir par la dédicace de quelque ennuyeux Burlesque;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s121">
+         <tuv xml:lang="FRM">
+            <seg>Point, point, je ſuis inexorable, je veux que vous mouriez tout preſentement;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Point, point, je suis inexorable, je veux que vous mouriez tout présentement;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s122">
+         <tuv xml:lang="FRM">
+            <seg>puis ſelon que ma belle humeur me rendra miſericordieux, je vous reſſuſciteray pour lire ma Lettre, auſſi bien quand pour regagner mes bonnes graces, vous me dedierez une Farce;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>puis selon que ma belle humeur me rendra miséricordieux, je vous ressusciterai pour lire ma Lettre, aussi bien quand pour regagner mes bonnes grâces, vous me dédieriez une Farce;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s123">
+         <tuv xml:lang="FRM">
+            <seg>je ſçay que tout ce qui eſt ſot ne fait pas rire, &amp; qu’encore que pour faire quelque choſe de bien ridicule, vous n’ayez qu’à parler ſerieuſement, voſtre Poeſie eſt trop des Halles, &amp; je penſe que c’eſt la raiſon pourquoy voſtre Jugement de Pâris n’a point de debit:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>je sais que tout ce qui est sot ne fait pas rire, et qu’encore que pour faire quelque chose de bien ridicule, vous n’ayez qu’à parler sérieusement, votre Poésie est trop des Halles, et je pense que c’est la raison pourquoi votre Jugement de Pâris n’a point de débit:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s124">
+         <tuv xml:lang="FRM">
+            <seg>Donc ſi vous m’en croyez, ſauvez-vous au Barreau des ruades de Pegaſe;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Donc si vous m’en croyez, sauvez-vous au Barreau des ruades de Pégase;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s125">
+         <tuv xml:lang="FRM">
+            <seg>vous y ſerez ſans doute un Juge incorruptible, puis que voſtre Jugement ne ſe peut acheter.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>vous y serez sans doute un Juge incorruptible, puisque votre Jugement ne se peut acheter.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s126">
+         <tuv xml:lang="FRM">
+            <seg>Au reſte ce n’eſt point de voſtre Libraire ſeul, que j’ay appris que vous rimaſſiez:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Au reste ce n’est point de votre Libraire seul, que j’ai appris que vous rimassiez:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s127">
+         <tuv xml:lang="FRM">
+            <seg>Je m’en doutois déja bien, parce que c’eût eſté un grand miracle ſi les Vers ne s’eſtoient pas mis dans un homme ſi corrompu:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je m’en doutais déjà bien, parce que c’eût été un grand miracle si les Vers ne s’étaient pas mis dans un homme si corrompu:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s128">
+         <tuv xml:lang="FRM">
+            <seg>Voſtre haleine ſeule ſuffit à faire croire que vous eſtes d’intelligence avec la mort, pour ne reſpirer que la peſte;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Votre haleine seule suffit à faire croire que vous êtes d’intelligence avec la mort, pour ne respirer que la peste;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s129">
+         <tuv xml:lang="FRM">
+            <seg>&amp; les muſcadins ne ſçauroient empêcher que vous ne ſoyez par tout le monde en fort mauvaiſe odeur:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et les muscadins ne sauraient empêcher que vous ne soyez par tout le monde en fort mauvaise odeur:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s130">
+         <tuv xml:lang="FRM">
+            <seg>Je ne m’irrite point contre cette putrefaction, c’eſt un crime de vos Peres ladres:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je ne m’irrite point contre cette putrefaction, c’est un crime de vos Pères ladres:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s131">
+         <tuv xml:lang="FRM">
+            <seg>Voſtre chair meſme n’eſt autre choſe que de la terre crevaſſée par le Soleil, &amp; tellement fumée, que ſi tout ce qu’on y a ſemé avoit pris racine, vous auriez maintenant ſur les épaules un grand bois de haute fuſtaye;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Votre chair même n’est autre chose que de la terre crevassée par le Soleil, et tellement fumée, que si tout ce qu’on y a semé avait pris racine, vous auriez maintenant sur les épaules un grand bois de haute futaie;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s132">
+         <tuv xml:lang="FRM">
+            <seg>aprés cela, je ne m’étonne plus de ce que vous prouvez qu’on ne vous a point encore connu;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>après cela, je ne m’étonne plus de ce que vous prouvez qu’on ne vous a point encore connu;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s133">
+         <tuv xml:lang="FRM">
+            <seg>Il s’en faut en effet plus de quatre pieds de crote, qu’on ne vous puiſſe voir:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il s’en faut en effet plus de quatre pieds de crotte, qu’on ne vous puisse voir:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s134">
+         <tuv xml:lang="FRM">
+            <seg>Vous eſtes enſevely ſous le fumier avec tant de grace, que s’il ne vous manquoit un pot caſſé pour vous gratter, vous ſeriez un Job accomply.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous êtes enseveli sous le fumier avec tant de grâce, que s’il ne vous manquait un pot cassé pour vous gratter, vous sériez un Job accompli.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s135">
+         <tuv xml:lang="FRM">
+            <seg>Ma foy vous donnez un beau démenty à ces Philoſophes qui ſe mocquent de la Création.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ma foi vous donnez un beau démenti à ces Philosophes qui se moquent de la Création.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s136">
+         <tuv xml:lang="FRM">
+            <seg>S’il s’en trouve encore, je ſouhaite qu’ils vous rencontrent;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>S’il s’en trouve encore, je souhaite qu’ils vous rencontrent;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s137">
+         <tuv xml:lang="FRM">
+            <seg>car je ſuis aſſuré qu’après voſtre veuë, ils croiroit aiſément que l’homme peut avoir eſté fait de bouë.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car je suis assuré qu’après votre vue, ils croirait aisément que l’homme peut avoir été fait de boue.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s138">
+         <tuv xml:lang="FRM">
+            <seg>Ils vous prêcheront, &amp; ſe ſerviront de vous-meſme, pour vous retirer de ce malheureux Atheïſme où vous croupiſſez.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ils vous prêcheront, et se serviront de vous-même, pour vous retirer de ce malheureux Athéisme où vous croupissez.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s139">
+         <tuv xml:lang="FRM">
+            <seg>Vous ſçavez que je ne parle point par cœur, &amp; que je ne ſuis pas le ſeul qui vous a entendu prier Dieu, qu’il vous fit la grace de ne point croire en luy.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous savez que je ne parle point par cœur, et que je ne suis pas le seul qui vous a entendu prier Dieu, qu’il vous fit la grâce de ne point croire en lui.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s140">
+         <tuv xml:lang="FRM">
+            <seg>Comment, petit Impie, Dieu n’oſeroit avoir laiſſé fermer une porte quand vous fuyez le bâton, qu’il ne ſoit par vous aneanty;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Comment, petit Impie, Dieu n’oserait avoir laissé fermer une porte quand vous fuyez le bâton, qu’il ne soit par vous anéanti;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s141">
+         <tuv xml:lang="FRM">
+            <seg>&amp; vous ne commencez à le recroire, que pour avoir contre qui jurer, quand vos Dezeſcamotez répondent mal à voſtre avarice.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et vous ne commencez à le recroire, que pour avoir contre qui jurer, quand vos Désescamotés répondent mal à votre avarice.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s142">
+         <tuv xml:lang="FRM">
+            <seg>J’avouë que voſtre ſort n’eſt pas de ceux qui puiſſent patiemment porter la perte, car vous eſtes gueux comme un Diogene, &amp; à peine le Chaos entier ſuffiroit-il pour vous raſſaſier, c’eſt ce qui vous a obligé d’affronter tant de monde:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>J’avoue que votre sort n’est pas de ceux qui puissent patiemment porter la perte, car vous êtes gueux comme un Diogène, et à peine le Chaos entier suffirait-il pour vous rassasier, c’est ce qui vous a obligé d’affronter tant de monde:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s143">
+         <tuv xml:lang="FRM">
+            <seg>Il n’y a plus moyen que vous trouviez pour marcher en cette Ville une ruë non creanciere, à moins que le Roy faſſe bâtir un Paris en l’air.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il n’y a plus moyen que vous trouviez pour marcher en cette Ville une rue non créancière, à moins que le Roi fasse bâtir un Paris en l’air.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s144">
+         <tuv xml:lang="FRM">
+            <seg>L’autre jour au Conſeil de Guerre, on donna avis à Monſieur de Turenne de vous mettre dans un Mortier, pour vous faire ſauter comme une bombe dans Sainte Menehould, pour contraindre en moins de trois jours par la faim, les Habitans de ſe rendre.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’autre jour au Conseil de Guerre, on donna avis à Monsieur de Turenne de vous mettre dans un Mortier, pour vous faire sauter comme une bombe dans Sainte Menehould, pour contraindre en moins de trois jours par la faim, les Habitants de se rendre.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s145">
+         <tuv xml:lang="FRM">
+            <seg>Je penſe, en verité, que ce ſtratagéme là reüſſiroit, puis que voſtre nez qui n’a pas l’uſage de raiſon;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je pense, en vérité, que ce stratagème-là reussirait, puisque votre nez qui n’a pas l’usage de raison;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s146">
+         <tuv xml:lang="FRM">
+            <seg>ce pauvre nez, le repoſoir &amp; le paradis des chiquenodes, ſemble ne s’eſtre retrouſſé, que pour s’éloigner de voſtre bouche affamée:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ce pauvre nez, le reposoir et le paradis des chiquenaudes, semble ne s’être retroussé, que pour s’éloigner de votre bouche affamée:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s147">
+         <tuv xml:lang="FRM">
+            <seg>Vos dents?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vos dents?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s148">
+         <tuv xml:lang="FRM">
+            <seg>Mais bons Dieux!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais bons Dieux!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s149">
+         <tuv xml:lang="FRM">
+            <seg>où m’embaraſſay-je, elles ſont plus à craindre que vos bras, leur chancre &amp; leur longueur m’épouvante;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>où m’embarassai-je, elles sont plus à craindre que vos bras, leur chancre et leur longueur m’épouvante;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s150">
+         <tuv xml:lang="FRM">
+            <seg>auſſi bien quelqu’un me reprocheroit que c’eſt trop berner un homme, qui dit m’eſtimer beaucoup:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>aussi bien quelqu’un me reprocherait que c’est trop berner un homme, qui dit m’estimer beaucoup:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s151">
+         <tuv xml:lang="FRM">
+            <seg>Donc, ô plaiſant petit Singe, ô Marionnette incarnée, cela ſeroit-il poſſible;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Donc, ô plaisant petit Singe, ô Marionnette incarnée, cela serait-il possible;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s152">
+         <tuv xml:lang="FRM">
+            <seg>mais je voy que vous vous cabrez de ce glorieux ſobriquet!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais je vois que vous vous cabrez de ce glorieux sobriquet!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s153">
+         <tuv xml:lang="FRM">
+            <seg>Helas demandez ce que vous eſtes à tout le monde, &amp; vous verrez ſi tout le monde ne dit pas que vous n’avez rien d’homme que la reſſemblance d’un Magot:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Hélas demandez ce que vous êtes à tout le monde, et vous verrez si tout le monde ne dit pas que vous n’avez rien d’homme que la ressemblance d’un Magot:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s154">
+         <tuv xml:lang="FRM">
+            <seg>Ce n’eſt pas pourtant, quoy que je vous compare à ce petit homme à quatre pattes, ny que je penſe que vous raiſonniez auſſi bien qu’un Singe:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ce n’est pas pourtant, quoi que je vous compare à ce petit homme à quatre pattes, ni que je pense que vous raisonniez aussi bien qu’un Singe:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s155">
+         <tuv xml:lang="FRM">
+            <seg>Non, non, méler gambade;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Non, non, méler gambade;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s156">
+         <tuv xml:lang="FRM">
+            <seg>car quand je vous contemple ſi décharné, je m’imagine que vos nerfs ſont aſſez ſecs &amp; aſſez preparez pour exciter, en vous remuant, ce bruit que vous appellez parole, c’eſt infailliblement ce qui eſt cauſe que vous jaſez &amp; fretillez ſans intervalle:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car quand je vous contemple si décharné, je m’imagine que vos nerfs sont assez secs et assez preparés pour exciter, en vous remuant, ce bruit que vous appellez parole, c’est infailliblement ce qui est cause que vous jasez et fretillez sans intervalle:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s157">
+         <tuv xml:lang="FRM">
+            <seg>Mais puis que parler y a;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais puisque parler y a;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s158">
+         <tuv xml:lang="FRM">
+            <seg>Apprenez-moy de grace, ſi vous parlez à force de remuer, ou ſi vous remuez à force de parler;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Apprenez-moi de grâce, si vous parlez à force de remuer, ou si vous remuez à force de parler;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s159">
+         <tuv xml:lang="FRM">
+            <seg>ce qui fait ſoupçonner que tout le tintamarre que vous faites ne vient pas de voſtre langue, c’eſt qu’une langue ſeule ne ſçauroit dire le quart de ce que vous dites, &amp; que la plûpart de vos diſcours ſont tellement éloignez de la raiſon, qu’on void bien que vous parlez par un endroit qui n’eſt pas fort prés du cerveau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ce qui fait soupçonner que tout le tintamarre que vous faites ne vient pas de votre langue, c’est qu’une langue seule ne saurait dire le quart de ce que vous dites, et que la plupart de vos discours sont tellement éloignez de la raison, qu’on voit bien que vous parlez par un endroit qui n’est pas fort près du cerveau;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s160">
+         <tuv xml:lang="FRM">
+            <seg>Enfin, mon petit gentil godenot, il eſt vray que vous eſtes toute langue, que s’il n’y avoit point d’impiété d’adapter les choſes ſaintes aux prophanes, je croirois que S.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Enfin, mon petit gentil godenot, il est vrai que vous êtes toute langue, que s’il n’y avait point d’impiété d’adapter les choses saintes aux profanes, je croirais que S.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s161">
+         <tuv xml:lang="FRM">
+            <seg>Jean prophetiſoit de vous, quand il écrivit que la parole s’étoit fait chair;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Jean prophetisait de vous, quand il écrivit que la parole s’était fait chair;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s162">
+         <tuv xml:lang="FRM">
+            <seg>En effet, s’il me falloit écrire autant que vous parlez, j’aurois beſoin de devenir plume;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>En effet, s’il me fallait écrire autant que vous parlez, j’aurais besoin de devenir plume;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s163">
+         <tuv xml:lang="FRM">
+            <seg>mais puis que cela ne ſe peut, vous me permettrez de vous dire adieu;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais puis que cela ne se peut, vous me permettrez de vous dire adieu;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s164">
+         <tuv xml:lang="FRM">
+            <seg>Adieu donc, mon Camarade, ſans compliment, auſſi bien ſeriez vous trop mal obey, ſi j’eſtois</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Adieu donc, mon Camarade, sans compliment, aussi bien sériez-vous trop mal obéi, si j’étais</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s165">
+         <tuv xml:lang="FRM">
+            <seg>Tant de careſſes de la Fortune que j’ay perduës en perdant voſtre amitié, me perſuadent enfin de me repentir d’avoir ſi fort contribué à ſa perte;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tant de caresses de la Fortune que j’ai perdues en perdant votre amitié, me persuadent enfin de me repentir d’avoir si fort contribué à sa perte;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s166">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ſi je ſuis en diſgrace, je confeſſe que je la merite, pour ne m’eſtre pas conſervé plus ſoigneuſement, &amp; l’eſtime &amp; la veuë d’une perſonne qui fait paſſer les moindres, dont il eſt viſité, ſous le titre de Comtes &amp; de Marquis:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et si je suis en disgrâce, je confesse que je la mérite, pour ne m’être pas conservé plus soigneusement, et l’estime et la vue d’une personne qui fait passer les moindres, dont il est visité, sous le titre de Comtes et de Marquis:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s167">
+         <tuv xml:lang="FRM">
+            <seg>Certes, Monſieur, vous vous faites le Pere de force grands Seigneurs qui ne croyoient pas l’eſtre, &amp; je commence à m’appercevoir que j’ay tort d’avoir ainſi negligé ma fortune, car j’aurois poſſible gagné à ce jeu-là une Principauté.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Certes, Monsieur, vous vous faites le Père de force grands Seigneurs qui ne croyaient pas l’être, et je commence à m’apercevoir que j’ai tort d’avoir ainsi négligé ma fortune, car j’aurais possible gagné à ce jeu-là une Principauté.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s168">
+         <tuv xml:lang="FRM">
+            <seg>Quelques-uns blâment cette humeur prodigue;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Quelques-uns blâment cette humeur prodigue;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s169">
+         <tuv xml:lang="FRM">
+            <seg>mais ils ne ſçavent pas que ce qui vous engage à ces magnificences, eſt le paſſionné deſir qui vous emporte pour la multiplication de la Nobleſſe &amp; que c’eſt pour cela, que ne pouvant mettre au jour de Gentils-hommes ſelon la chair, vous en voulez du moins produire ſpirituellement.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais ils ne savent pas que ce qui vous engage à ces magnificences, est le passionné désir qui vous emporte pour la multiplication de la Noblesse et que c’est pour cela, que ne pouvant mettre au jour de Gentilshommes selon la chair, vous en voulez du moins produire spirituellement.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s170">
+         <tuv xml:lang="FRM">
+            <seg>Les Autheurs Romaneſques que vous connoiſſez donnent bien des Empires, à tel qui ſouvent n’avoit pas poſſedé deux arpens de terre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Les Auteurs Romanesques que vous connaissez donnent bien des Empires, à tel qui souvent n’avait pas possédé deux arpents de terre;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s171">
+         <tuv xml:lang="FRM">
+            <seg>mais voſtre talent eſt ſi égal au leur, qu’il vous met en droit d’uſer des meſmes privileges:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais votre talent est si égal au leur, qu’il vous met en droit d’user des mêmes privilèges:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s172">
+         <tuv xml:lang="FRM">
+            <seg>On ſçait aſſez que tous ces grands Autheurs ne parlent pas mieux que vous, puis que vous parlez tout comme eux, &amp; qu’à chaque moment vous vomiſſez &amp; Caſſandre &amp; Polexandre ſi crus, qu’on penſe voir dans voſtre bouche le papier deſſous les paroles.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>On sait assez que tous ces grands Auteurs ne parlent pas mieux que vous, puisque vous parlez tout comme eux, et qu’à chaque moment vous vomissez et Cassandre et Polexandre si crus, qu’on pense voir dans votre bouche le papier dessous les paroles.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s173">
+         <tuv xml:lang="FRM">
+            <seg>Les Critiques murmurent que le grand bruit dont vous éclatez n’eſt pas la marque d’un grand eſprit, que les vaiſſeaux vuides en excitent plus que ceux qui ſont pleins, &amp; que peut-eſtre à cauſe du concave de voſtre cerveau remply de rien, voſtre bouche à l’exemple des cavernes, fait un écho mal diſtinct de tous les ſons qui la frappent;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Les Critiques murmurent que le grand bruit dont vous éclatez n’est pas la marque d’un grand esprit, que les vaisseaux vides en excitent plus que ceux qui sont pleins, et que peut-être à cause du concave de votre cerveau rempli de rien, votre bouche à l’exemple des cavernes, fait un écho mal distinct de tous les sons qui la frappent;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s174">
+         <tuv xml:lang="FRM">
+            <seg>mais quoy il ſe faut conſoler, celuy là eſt encore à naiſtre, qui a ſceu le moyen d’empêcher l’envie de mordre la vertu;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais quoi il se faut consoler, celui là est encore à naître, qui a sceu le moyen d’empêcher l’envie de mordre la vertu;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s175">
+         <tuv xml:lang="FRM">
+            <seg>car je veux meſme, comme ils le diſent, que vous ne fuſſiez pas un grand Genie, vous eſtes toutefois un grand homme:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car je veux même, comme ils le disent, que vous ne fussiez pas un grand Génie, vous êtes toutefois un grand homme:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s176">
+         <tuv xml:lang="FRM">
+            <seg>Comment vous eſtes capable par voſtre ombre ſeule, de noircir un Jeu de Paulme tout entier;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Comment vous êtes capable par votre ombre seule, de noircir un Jeu de Paume tout entier;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s177">
+         <tuv xml:lang="FRM">
+            <seg>perſonne n’entend parler de voſtre taille, qu’il ne croye qu’on faſſe l’hiſtoire d’un Cedre ou d’un Sapin;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>personne n’entend parler de votre taille, qu’il ne croie qu’on fasse l’histoire d’un Cèdre ou d’un Sapin;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s178">
+         <tuv xml:lang="FRM">
+            <seg>&amp; d’autres qui vous connoiſſent un peu plus particulierement, prouvant que vous n’avez rien d’homme que le ſon de la voix, aſſurent qu’ils ont appris par tradition que vous eſtes un Chêne tranſplanté de la Foreſt de Dodone:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et d’autres qui vous connaissent un peu plus particulièrement, prouvant que vous n’avez rien d’homme que le son de la voix, assurent qu’ils ont appris par tradition que vous êtes un Chêne transplanté de la Forêt de Dodone:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s179">
+         <tuv xml:lang="FRM">
+            <seg>Ce n’eſt pas de mon avis qu’ils portent ce jugement;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ce n’est pas de mon avis qu’ils portent ce jugement;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s180">
+         <tuv xml:lang="FRM">
+            <seg>au contraire, je leur ay dit cent fois qu’il n’y avoit point d’apparence que vous fuſſiez un Chêne, puis que les plus ſenſez tombent d’accord que vous n’eſtes qu’une bûche.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>au contraire, je leur ai dit cent fois qu’il n’y avait point d’apparence que vous fussiez un Chêne, puis que les plus sensés tombent d’accord que vous n’êtes qu’une bûche.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s181">
+         <tuv xml:lang="FRM">
+            <seg>Pour moy qui penſe vous connoiſtre de plus longue main, je leur ſoûtiens qu’il eſt tout à fait éloigné du vray-ſemblable d’imaginer que vous ſoyez un arbre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour moi qui pense vous connaître de plus longue main, je leur soutiens qu’il est tout à fait éloigné du vraisemblable d’imaginer que vous soyez un arbre;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s182">
+         <tuv xml:lang="FRM">
+            <seg>car encore que cette partie ſuperieure de voſtre tout (qu’à cauſe du lieu de ſa ſcituation on appelle voſtre teſte) ne faſſe aucune fonction raiſonnable, ny meſme ſenſitive, je ne me perſuade pas pourtant qu’elle ſoit de bois, mais je m’imagine qu’elle a eſté privée de l’uſage des ſens, à cauſe qu’une ame humaine n’eſtant pas aſſez grande pour animer de bout en bout un ſi vaſte Coloſſe, la Nature a eſté contrainte de laiſſer en friche la Région d’enhaut:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car encore que cette partie supérieure de votre tout (qu’à cause du lieu de sa situation on appelle votre teste) ne fasse aucune fonction raisonnable, ni même sensitive, je ne me persuade pas pourtant qu’elle soit de bois, mais je m’imagine qu’elle a été privée de l’usage des senss, à cause qu’une âme humaine n’étant pas assez grande pour animer de bout en bout un si vaste Colosse, la Nature a été contrainte de laisser en friche la Région d’enhaut:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s183">
+         <tuv xml:lang="FRM">
+            <seg>Et en effet, y a-t’il quelqu’un qui ne ſçache que quand elle logea ce qu’en d’autres on nomme l’Eſprit dans voſtre corps demeſuré, elle eut beau le tirer &amp; l’allonger, elle ne pût jamais le faire arriver juſqu’à voſtre cervelle;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et en effet, y a-t’il quelqu’un qui ne sache que quand elle logea ce qu’en d’autres on nomme l’Esprit dans votre corps démesuré, elle eut beau le tirer et l’allonger, elle ne pût jamais le faire arriver jusqu’à votre cervelle;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s184">
+         <tuv xml:lang="FRM">
+            <seg>Vos membres meſme ſont ſi prodigieux, qu’à les conſiderer, on croit que vous avez deux Geans pendus au bas du ventre, à la place de vos cuiſſes;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vos membres même sont si prodigieux, qu’à les considérer, on croit que vous avez deux Géants pendus au bas du ventre, à la place de vos cuisses;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s185">
+         <tuv xml:lang="FRM">
+            <seg>&amp; vous avez la bouche ſi large, que je crains quelquefois que voſtre teſte ne tombe dedans.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et vous avez la bouche si large, que je crains quelquefois que votre tête ne tombe dedans.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s186">
+         <tuv xml:lang="FRM">
+            <seg>En verité s’il eſtoit de la Foy de croire que vous fuſſiez homme, j’aurois un grand motif à ſoupçonner, qu’il a donc fallu mettre dans voſtre corps pour luy donner la vie, l’ame univerſelle du monde.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>En vérité s’il était de la Foi de croire que vous fussiez homme, j’aurais un grand motif à soupçonner, qu’il a donc fallu mettre dans votre corps pour lui donner la vie, l’âme universelle du monde.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s187">
+         <tuv xml:lang="FRM">
+            <seg>Il faut en effet que vous ſoyez quelque choſe de bien ample, puis que toute la Communauté des Frippiers eſt occupée à vous veſtir, ou bien que ces gens-là qui cherchent le debit, ne pouvant amener toutes les ruës de Paris à la Halle, ayent chargé ſur vous leurs guenilles, afin de promener la Halle par tout Paris.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il faut en effet que vous soyez quelque chose de bien ample, puis que toute la Communauté des Fripiers est occupée à vous vêtir, ou bien que ces gens-là qui cherchent le débit, ne pouvant amener toutes les rues de Paris à la Halle, aient chargé sur vous leurs guenilles, afin de promener la Halle par tout Paris.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s188">
+         <tuv xml:lang="FRM">
+            <seg>Au reſte ce reproche ne vous doit point offencer, au contraire il vous eſt avantageux, il fait connoiſtre que vous eſtes une perſonne publique, puis que le public vous habille à ſes dépens, &amp; puis aſſez d’autres choſes vous rendent conſiderable;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Au reste ce reproche ne vous doit point offencer, au contraire il vous est avantageux, il fait connaître que vous êtes une personne publique, puis que le public vous habille à ses dépens, et puis assez d’autres choses vous rendent considérable;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s189">
+         <tuv xml:lang="FRM">
+            <seg>Je dis meſme ſans mettre en ligne de compte, que comme de l’épaiſſeur de la Vaſe du Nil, en ſuite de ſon débordement, les Egyptiens jugent de leur abondance, on peut ſupputer par l’épaiſſeur de noſtre embonpoint, le nombre des embraſſemens illegitimes qui ſe ſont faits en voſtre Fauxbourg:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je dis même sans mettre en ligne de compte, que comme de l’épaisseur de la Vase du Nil, ensuite de son débordement, les Égyptients jugent de leur abondance, on peut supputer par l’épaisseur de notre embonpoint, le nombre des embrassements illégitimes qui se sont faits en votre Faubourg:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s190">
+         <tuv xml:lang="FRM">
+            <seg>Et enfin, à propos d’arbre à qui je vous comparois tantoſt, on dit que vous en eſtes un ſi fertile, qu’il n’y a point de jour que vous ne produiſiez;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et enfin, à propos d’arbre à qui je vous comparais tantôt, on dit que vous en êtes un si fertile, qu’il n’y a point de jour que vous ne produisiez;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s191">
+         <tuv xml:lang="FRM">
+            <seg>mais je ſçay bien que ces ſortes d’injures paſſent fort loin de vous, &amp; que vos calomniateurs n’euſſent oſé vous ſoûtenir en face tant d’injures, du temps que la troiſiéme peinture des Cartes eſtoit vôtre portrait, vous traîniez alors une brette, qui vous auroit vangé d’eux, ils ne vous euſſent pas accuſé, comme aujourd’huy, d’effronterie en un eſtat de condition, où vous changiez ſi ſouvent de couleur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais je sais bien que ces sortes d’injures passent fort loin de vous, et que vos calomniateurs n’eussent osé vous soutenir en face tant d’injures, du temps que la troisième peinture des Cartes était vôtre portrait, vous traîniez alors une brette, qui vous aurait vengé d’eux, ils ne vous eussent pas accusé, comme aujourd’hui, d’effronterie en un état de condition, où vous changiez si souvent de couleur.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s192">
+         <tuv xml:lang="FRM">
+            <seg>Voila, Monſieur, les peaux d’Aſnes, à peu prés dont ils perſecutent voſtre déplorable renommée:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Voilà, Monsieur, les peaux d’Ânes, à peu près dont ils persécutent votre déplorable renommée:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s193">
+         <tuv xml:lang="FRM">
+            <seg>J’en ferois l’Apologie un peu plus longue, mais la fin du papier m’oblige de finir;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>J’en ferais l’Apologie un peu plus longue, mais la fin du papier m’oblige de finir;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s194">
+         <tuv xml:lang="FRM">
+            <seg>Permettez donc que je prenne congé de vous ſans les ceremonies accoûtumées, parce que ces Meſſieurs qui vous mépriſent fort, &amp; dont je fais beaucoup d’eſtime, penſeroient que je fuſſe le valet du valet des Tambourineux, ſi j’avois mis au bas de cette Lettre, que je ſuis,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Permettez donc que je prenne congé de vous sans les cérémonies accoutumées, parce que ces Messieurs qui vous méprisent fort, et dont je fais beaucoup d’estime, penseraient que je fusse le valet du valet des Tambourineux, si j’avais mis au bas de cette Lettre, que je suis,</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s195">
+         <tuv xml:lang="FRM">
+            <seg>La Faculté bien mieux que moy, vous mettra quelque jour à couvert de la vie de ce perſonnage;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La Faculté bien mieux que moi, vous mettra quelque jour à couvert de la vie de ce personnage;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s196">
+         <tuv xml:lang="FRM">
+            <seg>Laiſſez-la donc faire, elle a des bras dont perſonne ne pare les coups:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Laissez-la donc faire, elle a des bras dont personne ne pare les coups:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s197">
+         <tuv xml:lang="FRM">
+            <seg>Vous me répondrez ſans doute qu’il a paſſé déja plus de dix fois le temps de mourir, que la Parque ne s’eſt pas ſouvenuë de luy, &amp; que maintenant qu’elle a tant marché depuis, elle ſera honteuſe &amp; pareſſeuſe de revenir le prendre ſi loin.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous me répondrez sans doute qu’il a passé déjà plus de dix fois le temps de mourir, que la Parque ne s’est pas souvenue de lui, et que maintenant qu’elle a tant marché depuis, elle sera honteuse et paresseuse de revenir le prendre si loin.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s198">
+         <tuv xml:lang="FRM">
+            <seg>Non, non, Monſieur, eſperez toûjours juſqu’à ce qu’il ait paſſé neuf cens ans, l’âge de Mathuſalem;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Non, non, Monsieur, espèrez toujours jusqu’à ce qu’il ait passé neuf cents ans, l’âge de Mathusalem;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s199">
+         <tuv xml:lang="FRM">
+            <seg>mais enfin parlez-luy ſans ceſſe en grondant, criez, peſtez, tonnez dans ſa maiſon, croiſſez par tout à ſes yeux, &amp; faites en ſorte qu’il ſe dépite contre le jour, n’eſt-il pas temps auſſi bien qu’il faſſe place à d’autres;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais enfin parlez-lui sans cesse en grondant, criez, pestez, tonnez dans sa maison, croissez partout à ses yeux, et faites en sorte qu’il se dépite contre le jour, n’est-il pas temps aussi bien qu’il fasse place à d’autres;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s200">
+         <tuv xml:lang="FRM">
+            <seg>Comment Artephius &amp; la Sybille Cumée au prix de luy n’ont fait que ſemblant de vivre.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Comment Artéphius et la Sybille Cumée au prix de lui n’ont fait que semblant de vivre.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s201">
+         <tuv xml:lang="FRM">
+            <seg>Il nâquit auparavant que la Mort fut faite, &amp; la Mort à cauſe de cela n’oſeroit tirer ſur luy, parce qu’elle craint de tuer ſon Pere;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il naquit auparavant que la Mort fut faite, et la Mort à cause de cela n’oserait tirer sur lui, parce qu’elle craint de tuer son Père;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s202">
+         <tuv xml:lang="FRM">
+            <seg>&amp; puis même quand cette conſideration ne l’empêcheroit pas, elle le void ſi foible de vieilleſſe, qu’il n’auroit pas la force de marcher juſqu’en l’autre monde;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et puis même quand cette considération ne l’empêcherait pas, elle le voit si faible de vieillesse, qu’il n’aurait pas la force de marcher jusqu’en l’autre monde;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s203">
+         <tuv xml:lang="FRM">
+            <seg>Et je penſe qu’une autre raiſon encore le fait demeurer debout, c’eſt que la Mort qui ne luy voit faire aucune action de vie, le prenant plutoſt pour une ſtatuë que pour un vivant, penſe qu’il eſt du devoir, ou du temps, ou de la Fortune, de le faire tomber.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et je pense qu’une autre raison encore le fait demeurer debout, c’est que la Mort qui ne lui voit faire aucune action de vie, le prenant plutôt pour une statue que pour un vivant, pense qu’il est du devoir, ou du temps, ou de la Fortune, de le faire tomber.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s204">
+         <tuv xml:lang="FRM">
+            <seg>Aprés cela, Monſieur, je m’étonne fort que vous diſiez qu’eſtant preſt de fermer le cercle de ſes jours, &amp; arrivant au premier poinct, dont il eſt party, il redevienne enfant:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Après cela, Monsieur, je m’étonne fort que vous disiez qu’étant prêt de fermer le cercle de ses jours, et arrivant au premier point, dont il est parti, il redevienne enfant:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s205">
+         <tuv xml:lang="FRM">
+            <seg>Ah!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ah!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s206">
+         <tuv xml:lang="FRM">
+            <seg>vous vous mocquez, &amp; pour moy je ne ſçaurois pas meſme m’imaginer qu’il l’ait jamais eſté, quoy luy petit garçon?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>vous vous moquez, et pour moi je ne saurais pas même m’imaginer qu’il l’ait jamais été, quoi lui petit garçon?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s207">
+         <tuv xml:lang="FRM">
+            <seg>non, non, il ne le fut jamais, ou Moïſe s’eſt trompé au calcul qu’il a fait de la Creation du Monde:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>non, non, il ne le fut jamais, ou Moïse s’est trompé au calcul qu’il a fait de la Création du Monde:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s208">
+         <tuv xml:lang="FRM">
+            <seg>S’il eſt permis toutefois de nommer ainſi tout ce qui peut à peine faire les fonctions d’un enfant, je vous donne les mains;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>S’il est permis toutefois de nommer ainsi tout ce qui peut à peine faire les fonctions d’un enfant, je vous donne les mains;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s209">
+         <tuv xml:lang="FRM">
+            <seg>car il faut en effet qu’il ſoit plus ignorant qu’une Plante meſme, de ne ſçavoir pas mourir, choſe que tout ce qui a vie ſçait faire ſans Precepteur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car il faut en effet qu’il soit plus ignorant qu’une Plante même, de ne savoir pas mourir, chose que tout ce qui a vie sait faire sans Précepteur.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s210">
+         <tuv xml:lang="FRM">
+            <seg>O!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ô!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s211">
+         <tuv xml:lang="FRM">
+            <seg>que n’a-t’il eſté connu d’Ariſtote, ce Philoſophe n’euſt pas définy l’Homme Animal raiſonnable.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>que n’a-t’il été connu d’Aristote, ce Philosophe n’eût pas défini l’Homme Animal raisonnable.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s212">
+         <tuv xml:lang="FRM">
+            <seg>Ceux de la Secte d’Epicure, qui démontrent que les beſtes uſent de la raiſon, en doivent excepter celle-là encore, s’il eſtoit bien vray qu’il fût beſte;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ceux de la Secte d’Épicure, qui démontrent que les bêtes usent de la raison, en doivent excepter celle-là encore, s’il était bien vrai qu’il fût bête;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s213">
+         <tuv xml:lang="FRM">
+            <seg>Mais, helas!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais, hélas!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s214">
+         <tuv xml:lang="FRM">
+            <seg>dans l’ordre des eſtres animez, il eſt un peu plus qu’un Artichaut, &amp; un peu moins qu’une Huiſtre à l’Eſcaille;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>dans l’ordre des êtres animés, il est un peu plus qu’un Artichaut, et un peu moins qu’une Huître à l’Écaille;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s215">
+         <tuv xml:lang="FRM">
+            <seg>de ſorte que j’aurois crû, ſi ce n’eſtoit que vous le ſoupçonnez de ladrerie, qu’il eſt ce qu’on appelle la plante ſenſitive.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>de sorte que j’aurais crû, si ce n’était que vous le soupçonnez de ladrerie, qu’il est ce qu’on appelle la plante sensitive.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s216">
+         <tuv xml:lang="FRM">
+            <seg>Avoüez donc que vous avez tort de vous ennuyer de ſa vie;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Avouez donc que vous avez tort de vous ennuyer de sa vie;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s217">
+         <tuv xml:lang="FRM">
+            <seg>il n’a pas encore vécu, il n’a que dormy, attendez au moins qu’il ait achevé un ſomme:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>il n’a pas encore vécu, il n’a que dormi, attendez au moins qu’il ait achevé un somme:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s218">
+         <tuv xml:lang="FRM">
+            <seg>Eſtes-vous aſſuré qu’on ne luy ait pas dit que le Sommeil &amp; la Mort ſont freres, il fait peut-eſtre ſcrupule (ayant bonne conſcience) aprés avoir joüy de l’une, d’avoir affaire à l’autre.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Êtes-vous assuré qu’on ne lui ait pas dit que le Sommeil et la Mort sont frères, il fait peut-être scrupule (ayant bonne conscience) après avoir joui de l’une, d’avoir affaire à l’autre.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s219">
+         <tuv xml:lang="FRM">
+            <seg>N’inferez-pas cependant, enſuite de cela, que je veüille prouver par cette enfilade, que le perſonnage dont il eſt queſtion ſoit un ſot homme, point du tout, il n’eſt rien moins qu’homme;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>N’inférez-pas cependant, ensuite de cela, que je veuille prouver par cette enfilade, que le personnage dont il est question soit un sot homme, point du tout, il n’est rien moins qu’homme;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s220">
+         <tuv xml:lang="FRM">
+            <seg>car outre qu’il nous reſſemble par le Bapteſme, c’eſt un privilege dont joüiſſent auſſi bien que luy les Cloches de ſa Paroiſſe.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car outre qu’il nous ressemble par le Baptême, c’est un privilège dont jouissent aussi bien que lui les Cloches de sa Paroisse.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s221">
+         <tuv xml:lang="FRM">
+            <seg>Je parlerois de cette vie juſqu’à la mort pour ſoulager voſtre ennuy;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je parlerais de cette vie jusqu’à la mort pour soulager votre ennui;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s222">
+         <tuv xml:lang="FRM">
+            <seg>mais le ſommeil commence de cauſer à ma main de ſi grandes foibleſſes, que ma teſte par compagnie tombe ſur mon oreille.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais le sommeil commence de causer à ma main de si grandes faiblesses, que ma tête par compagnie tombe sur mon oreille.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s223">
+         <tuv xml:lang="FRM">
+            <seg>Ah!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ah!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s224">
+         <tuv xml:lang="FRM">
+            <seg>par ma foy, je ne ſçay plus ce que j’écris.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>par ma foi, je ne sais plus ce que j’écris.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s225">
+         <tuv xml:lang="FRM">
+            <seg>Adieu, bonſoir,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Adieu, bonsoir,</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s226">
+         <tuv xml:lang="FRM">
+            <seg>Puis que noſtre Amy butine nos Penſées, c’eſt une marque qu’il nous eſtime, il ne les prendroit pas s’il ne les croyoit bonnes, &amp; nous avons grand tort de nous eſtomaquer de ce que n’ayant point d’enfans, il adopte les noſtres;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Puis que notre Ami butine nos Pensées, c’est une marque qu’il nous estime, il ne les prendrait pas s’il ne les croyait bonnes, et nous avons grand tort de nous estomaquer de ce que n’ayant point d’enfants, il adopte les nôtres;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s227">
+         <tuv xml:lang="FRM">
+            <seg>Pour moy ce qui m’offence en mon particulier (car vous ſçavez que j’ay un eſprit vangeur de torts, &amp; fort enclin à la juſtice diſtributive) c’eſt de voir qu’il attribuë à ſon ingrate imagination les bons ſervices que luy rend ſa memoire, &amp; qu’il ſe diſe le pere de mille hautes conceptions, dont il n’a eſté au plus que la Sage-Femme;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour moi ce qui m’offence en mon particulier (car vous savez que j’ai un esprit vengeur de torts, et fort enclin à la justice distributive) c’est de voir qu’il attribue à son ingrate imagination les bons services que lui rend sa mémoire, et qu’il se dise le père de mille hautes conceptions, dont il n’a été au plus que la Sage-Femme;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s228">
+         <tuv xml:lang="FRM">
+            <seg>Allons, Monſieur, aprés cela nous vanter d’écrire mieux que luy, lors qu’il écrit tout comme nous, &amp; tournons en ridicule qu’à ſon âge il ait encore un Eſcrivain chez luy, puis qu’il ne nous fait point en cela d’autre mal que de rendre nos œuvres plus liſibles;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Allons, Monsieur, après cela nous vanter d’écrire mieux que lui, lorsqu’il écrit tout comme nous, et tournons en ridicule qu’à son âge il ait encore un Écrivain chez lui, puisqu’il ne nous fait point en cela d’autre mal que de rendre nos œuvres plus lisibles;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s229">
+         <tuv xml:lang="FRM">
+            <seg>Nous devrions, au contraire, recevoir avec reſpect tant de ſages avertiſſemens moraux, dont il tâche de reprimer les emportemens de noſtre jeuneſſe;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Nous devrions, au contraire, recevoir avec respect tant de sages avertissements moraux, dont il tâche de réprimer les emportements de notre jeunesse;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s230">
+         <tuv xml:lang="FRM">
+            <seg>Oüy, certes, nous devrions y ajoûter plus de foy, &amp; n’en douter non plus que de l’Evangile;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Oui, certes, nous devrions y ajouter plus de foi, et n’en douter non plus que de l’Évangile;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s231">
+         <tuv xml:lang="FRM">
+            <seg>car tout le monde ſçait que ce ne ſont pas des choſes qu’il ait inventées.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car tout le monde sait que ce ne sont pas des choses qu’il ait inventées.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s232">
+         <tuv xml:lang="FRM">
+            <seg>À la verité d’avoir un Amy de la ſorte, c’eſt entretenir une Imprimerie à bon marché;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>À la vérité d’avoir un Ami de la sorte, c’est entretenir une Imprimerie à bon marché;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s233">
+         <tuv xml:lang="FRM">
+            <seg>Pour moy je m’imagine, en dépit de tous ſes grands Manuſcrits, que ſi quelque jour aprés ſa mort, on inventorie le Cabinet de ſes Livres, c’eſt à dire de ceux qui ſont ſortis de ſon Genie, tous ſes ouvrages enſemble, oſtant ce qui n’eſt pas de luy, compoſeront une Bibliotheque de papier blanc.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour moi je m’imagine, en dépit de tous ses grands Manuscrits, que si quelque jour après sa mort, on inventorie le Cabinet de ses Livres, c’est à dire de ceux qui sont sortis de son Génie, tous ses ouvrages ensemble, ôtant ce qui n’est pas de lui, composeront une Bibliothèque de papier blanc.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s234">
+         <tuv xml:lang="FRM">
+            <seg>Il ne laiſſe pas de vouloir s’attribuer les dépoüilles des morts, &amp; de croire inventer ce dont il ſe ſouvient;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il ne laisse pas de voulair s’attribuer les dépouilles des morts, et de croire inventer ce dont il se souvient;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s235">
+         <tuv xml:lang="FRM">
+            <seg>mais de cette façon il prouve mal la noble extraction de ſes penſées, de n’en tirer l’antiquité que d’un homme qui vit encore;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais de cette façon il prouve mal la noble extraction de ses pensées, de n’en tirer l’antiquité que d’un homme qui vit encore;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s236">
+         <tuv xml:lang="FRM">
+            <seg>mais il veut par là conclure à la Metempſicoſe, &amp; montrer que quand il ſe ſerviroit des imaginations de Socrate, il ne les voleroit point, ayant eſté jadis ce meſme Socrate qui les imagina;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais il veut par là conclure à la Métempsycose, et montrer que quand il se servirait des imaginations de Socrate, il ne les volerait point, ayant été jadis ce même Socrate qui les imagina;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s237">
+         <tuv xml:lang="FRM">
+            <seg>&amp; puis n’a-t’il pas aſſez de memoire pour eſtre riche de ce bien-là ſeul?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et puis n’a-t’il pas assez de mémoire pour être riche de ce bien-là seul?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s238">
+         <tuv xml:lang="FRM">
+            <seg>Comment il l’a ſi grande, qu’il ſe ſouvient de ce qu’on a dit trente Siecles auparavant qu’il fut au monde.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Comment il l’a si grande, qu’il se souvient de ce qu’on a dit trente Siècles auparavant qu’il fut au monde.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s239">
+         <tuv xml:lang="FRM">
+            <seg>Quant à moy qui ſuis un peu moins ſouffrant que les morts, obtenez de luy qu’il me permette de datter mes penſées, afin que ma poſterité ne ſoit point douteuſe:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Quant à moi qui suis un peu moins souffrant que les morts, obtenez de lui qu’il me permette de dater mes pensées, afin que ma postérité ne soit point douteuse:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s240">
+         <tuv xml:lang="FRM">
+            <seg>Il y eut jadis une Déeſſe Echo;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il y eut jadis une Déesse Écho;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s241">
+         <tuv xml:lang="FRM">
+            <seg>celuy-cy ſans doute, en doit eſtre le Dieu;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>celui-ci sans doute, en doit être le Dieu;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s242">
+         <tuv xml:lang="FRM">
+            <seg>car de meſme qu’elle il ne dit jamais que ce que les autres ont dit, &amp; le repete ſi mot à mot, que tranſcrivant l’autre jour une de mes Lettres (il appelloit cela compoſer) il eut toutes les peines du monde à s’empêcher de mettre, Voſtre Serviteur, Beaulieu, parce qu’il y avoit au bas,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car de même qu’elle il ne dit jamais que ce que les autres ont dit, et le répète si mot à mot, que transcrivant l’autre jour une de mes Lettres (il appelait cela composer) il eut toutes les peines du monde à s’empêcher de mettre, Votre Serviteur, Beaulieu, parce qu’il y avait au bas,</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s243">
+         <tuv xml:lang="FRM">
+            <seg>Aprés avoir échauffé contre nous cét homme qui n’eſt que flegme, n’apprehendons-nous point qu’un de ces jours on nous accuſe d’avoir brûlé la riviere.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Après avoir échauffé contre nous cet homme qui n’est que flegme, n’appréhendons-nous point qu’un de ces jours on nous accuse d’avoir brûlé la rivière.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s244">
+         <tuv xml:lang="FRM">
+            <seg>Cét eſprit aquatique murmure continuellement comme les fontaines, ſans que l’on puiſſe entendre ce qu’il dit.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Cet esprit aquatique murmure continuellement comme les fontaines, sans que l’on puisse entendre ce qu’il dit.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s245">
+         <tuv xml:lang="FRM">
+            <seg>Ah!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ah!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s246">
+         <tuv xml:lang="FRM">
+            <seg>Monſieur, que cét homme me fait prévoir à la fin des Siecles une étrange avanture;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Monsieur, que cet homme me fait prévoir à la fin des Siècles une étrange aventure;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s247">
+         <tuv xml:lang="FRM">
+            <seg>c’eſt que s’il ne meurt qu’au bout de ſa memoire, les Trompettes de la Reſurrection n’auront pas de ſilence:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>c’est que s’il ne meurt qu’au bout de sa mémoire, les Trompettes de la Résurrection n’auront pas de silence:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s248">
+         <tuv xml:lang="FRM">
+            <seg>Cette ſeule faculté dans luy ne laiſſe point de place aux autres, &amp; il eſt un ſi grand perſecuteur du ſens commun, qu’il me fait ſoupçonner que le Jugement univerſel n’a eſté promis que pour en faire avoir aux perſonnes comme luy, qui n’en ont point eu de particulier;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Cette seule faculté dans lui ne laisse point de place aux autres, et il est un si grand persécuteur du sens commun, qu’il me fait soupçonner que le Jugement universel n’a été promis que pour en faire avoir aux personnes comme lui, qui n’en ont point eu de particulier;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s249">
+         <tuv xml:lang="FRM">
+            <seg>Et à vous parler ingenuëment, quiconque le fera ſortir du monde aura grand tort, puis qu’il l’en fera ſortir ſans raiſon;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et à vous parler ingénument, quiconque le fera sortir du monde aura grand tort, puisqu’il l’en fera sortir sans raison;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s250">
+         <tuv xml:lang="FRM">
+            <seg>mais cependant il parle autant que tous les Livres, &amp; tous les Livres ſemblent n’avoir parlé que pour luy.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais cependant il parle autant que tous les Livres, et tous les Livres semblent n’avoir parlé que pour lui.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s251">
+         <tuv xml:lang="FRM">
+            <seg>Il n’ouvre jamais la bouche que nous n’y trouvions un larcin, &amp; il eſt ſi accoûtumé à mettre au jour ſon pillage, que meſme quand il ne dit mot, c’eſt pour dérober cela aux muets.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il n’ouvre jamais la bouche que nous n’y trouvions un larcin, et il est si accoutumé à mettre au jour son pillage, que même quand il ne dit mot, c’est pour dérober cela aux muets.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s252">
+         <tuv xml:lang="FRM">
+            <seg>Nous ſommes pourtant de faux braves, &amp; nous partageons avec injuſtice les avantages du combat, noſtre eſprit ayant trois facultez de l’oppoſer au ſien, qui n’en a qu’une;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Nous sommes pourtant de faux braves, et nous partageons avec injustice les avantages du combat, notre esprit ayant trois facultés de l’opposer au sien, qui n’en a qu’une;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s253">
+         <tuv xml:lang="FRM">
+            <seg>c’eſt pourquoy s’il a dans la teſte beaucoup de vuide, on luy doit pardonner, puis qu’il n’a pas eſté poſſible à la Nature de la remplir avec le tiers d’une ame raiſonnable;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>c’est pourquoi s’il a dans la tête beaucoup de vide, on lui doit pardonner, puis qu’il n’a pas été possible à la Nature de la remplir avec le tiers d’une âme raisonnable;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s254">
+         <tuv xml:lang="FRM">
+            <seg>En récompenſe il ne la laiſſe pas dormir, il la tient ſans ceſſe occupée à dépoüiller quelqu’un;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>En récompense il ne la laisse pas dormir, il la tient sans cesse occupée à dépouiller quelqu’un;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s255">
+         <tuv xml:lang="FRM">
+            <seg>Et ces grands Philoſophes, qui croyoient s’eſtre mis par la pauvreté qu’ils profeſſoient, à couvert d’impoſts &amp; de contributions, luy doivent par jour chacun juſqu’au plus miſerable une rente de dix penſées, &amp; ce Maltotier de conceptions, n’en laiſſe pas échapper un qu’il ne taxe aux aiſez, ſelon l’étenduë de ſon revenu;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et ces grands Philosophes, qui croyaient s’être mis par la pauvreté qu’ils professaient, à couvert d’impôts et de contributions, lui doivent par jour chacun jusqu’au plus misérable une rente de dix pensées, et ce Maltôtier de conceptions, n’en laisse pas échapper un qu’il ne taxe aux aisés, selon l’étendue de son revenu;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s256">
+         <tuv xml:lang="FRM">
+            <seg>Ils ont beau ſe cacher dans l’obſcurité, il les ſçait bien trouver, &amp; les fait bien parler François:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ils ont beau se cacher dans l’obscurité, il les sait bien trouver, et les fait bien parler Français:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s257">
+         <tuv xml:lang="FRM">
+            <seg>Encore ont-ils ſouvent le regret de voir confiſquer leurs œuvres toutes entieres, quand ils n’ont pas le moyen de payer leur taxe, mais il continuë ces brigandages en ſeureté;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Encore ont-ils souvent le regret de voir confisquer leurs œuvres toutes entières, quand ils n’ont pas le moyen de payer leur taxe, mais il continue ces brigandages en sûreté;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s258">
+         <tuv xml:lang="FRM">
+            <seg>car il ſçait que la Grece &amp; l’Italie relevant d’autres Princes que du noſtre, il ne ſera pas recherché en France des larcins qu’il aura fait chez eux.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car il sait que la Grèce et l’Italie relevant d’autres Princes que du nôtre, il ne sera pas recherché en France des larcins qu’il aura fait chez eux.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s259">
+         <tuv xml:lang="FRM">
+            <seg>Je croy meſme qu’il penſe, à cauſe que les Payens ſont nos ennemis, ne pouvoir rien butiner ſur eux qui ne ſoit pris de bonne guerre.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je crois même qu’il pense, à cause que les Païens sont nos ennemis, ne pouvoir rien butiner sur eux qui ne soit pris de bonne guerre.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s260">
+         <tuv xml:lang="FRM">
+            <seg>Voila, Monſieur, ce qui eſt cauſe que nous voyons chaque page de ſes Epitres eſtre le Cimetiere des vivans &amp; des morts:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Voilà, Monsieur, ce qui est cause que nous voyons chaque page de ses Épîtres être le Cimetière des vivants et des morts:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s261">
+         <tuv xml:lang="FRM">
+            <seg>Ne doutez point aprés cela que ſi au jour de la conſommation des Siecles, chacun reprend ce qui luy appartient, le partage de ſes écrits ne ſoit la derniere querelle des hommes.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ne doutez point après cela que si au jour de la consommation des Siècles, chacun reprend ce qui lui appartient, le partage de ses écrits ne soit la dernière querelle des hommes.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s262">
+         <tuv xml:lang="FRM">
+            <seg>Aprés avoir eſté dans nos converſations cinq ou ſix jours à l’affût aux penſées, plus chargé de pointes qu’un Porc-épic, il les va ficher dans ſes Epigrammes &amp; dans ſes Sonnets, comme des éguilles dans un ploton;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Après avoir été dans nos conversations cinq ou six jours à l’affût aux pensées, plus chargé de pointes qu’un Porc-épic, il les va ficher dans ses Épigrammes et dans ses Sonnets, comme des aiguilles dans un peloton;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s263">
+         <tuv xml:lang="FRM">
+            <seg>Cependant il ſe vante qu’il n’y a rien dans ſes Eſcrits qui ne luy appartienne auſſi juſtement, que le papier &amp; l’encre qu’il a payez;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Cependant il se vante qu’il n’y a rien dans ses Écrits qui ne lui appartienne aussi justement, que le papier et l’encre qu’il a payés;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s264">
+         <tuv xml:lang="FRM">
+            <seg>que les vingt-quatre Lettres de l’Alphabet ſont à luy comme à nous, &amp; la diſpoſition par conſequent;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>que les vingt-quatre Lettres de l’Alphabet sont à lui comme à nous, et la disposition par conséquent;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s265">
+         <tuv xml:lang="FRM">
+            <seg>&amp; qu’Ariſtote eſtant mort, il peut s’emparer de ſes Livres, puis que ſes terres qui ſont des immeubles, ne ſont pas aujourd’huy ſans Maiſtres;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et qu’Aristote étant mort, il peut s’emparer de ses Livres, puis que ses terres qui sont des immeubles, ne sont pas aujourd’hui sans Maîtres;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s266">
+         <tuv xml:lang="FRM">
+            <seg>mais aprés tout cela quelques-fois quand on luy trouve le manteau ſur les épaules, il l’adopte pour ſien, &amp; proteſte de n’avoir jamais logé dans ſa memoire que ſes propres imaginations:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais après tout cela quelques-fois quand on lui trouve le manteau sur les épaules, il l’adopte pour sien, et proteste de n’avoir jamais logé dans sa mémoire que ses propres imaginations:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s267">
+         <tuv xml:lang="FRM">
+            <seg>pour cela il ſe peut faire, ſes Écrits eſtans l’Hoſpital où il retire les miennes.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>pour cela il se peut faire, ses Écrits étants l’Hôpital où il retire les miennes.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s268">
+         <tuv xml:lang="FRM">
+            <seg>Si maintenant vous me demandez la definition de cét homme, je vous répondray que c’eſt un Echo qui s’eſt fait penſer de la courte haleine, &amp; qui auroit eſté muet ſi je n’avois jamais parlé:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Si maintenant vous me demandez la définition de cet homme, je vous répondrai que c’est un Écho qui s’est fait penser de la courte haleine, et qui aurait été muet si je n’avais jamais parlé:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s269">
+         <tuv xml:lang="FRM">
+            <seg>Pour moy, je ſuis un miſerable Pere, qui pleure la perte de mes enfans;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour moi, je suis un misérable Père, qui pleure la perte de mes enfants;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s270">
+         <tuv xml:lang="FRM">
+            <seg>Il eſt vray que de ſes richeſſes il en uſe fort genereuſement, car elles ſont plus à moy qu’à luy;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il est vrai que de ses richesses il en use fort généreusement, car elles sont plus à moi qu’à lui;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s271">
+         <tuv xml:lang="FRM">
+            <seg>Et il eſt encore vray que ſi l’on y mettoit le feu, en y jettant de l’eau, je ne ſauverois que mon bien, c’eſt pourquoy je me retracte de tout ce que je luy ay reproché:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et il est encore vrai que si l’on y mettait le feu, en y jetant de l’eau, je ne sauverais que mon bien, c’est pourquoi je me retracte de tout ce que je lui ai reproché:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s272">
+         <tuv xml:lang="FRM">
+            <seg>De quelle faute, en effet, puis-je accuſer un innocent qui n’a rien fait, ou qui (quoy qu’il ait fait) ne l’a fait enfin qu’aprés moy?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De quelle faute, en effet, puis-je accuser un innocent qui n’a rien fait, ou qui (quoi qu’il ait fait) ne l’a fait enfin qu’après moi?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s273">
+         <tuv xml:lang="FRM">
+            <seg>Je ne l’accuſe donc plus, nous ſommes trop bons amis, &amp; j’ay toujours eſté ſi joint à luy, qu’on ne peut pas dire qu’il ait jamais travaillé à quelque choſe où je n’aye eſté attentif.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je ne l’accuse donc plus, nous sommes trop bons amis, et j’ai toujours été si joint à lui, qu’on ne peut pas dire qu’il ait jamais travaillé à quelque chose où je n’aie été attentif.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s274">
+         <tuv xml:lang="FRM">
+            <seg>Ses ouvrages eſtoient mes ſeules penſées, &amp; quand je m’occupois à imaginer, je ſongeois à ce qu’il devoit écrire:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ses ouvrages étaient mes seules pensées, et quand je m’occupais à imaginer, je songeois à ce qu’il devait écrire:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s275">
+         <tuv xml:lang="FRM">
+            <seg>Tenez donc je vous ſupplie pour aſſuré, que tout ce que je ſemble avoir reproché cy-deſſus à ſa mandicité, eſt ſeulement pour le prier qu’il épargne ſes ridicules comparaiſons de nos peres, car ce n’eſt pas le moyen de devenir, comme il l’eſpere, Écrivain ſans comparaiſon, puis que c’eſt une marque d’avoir bien de la pente au larcin, de dérober juſqu’à des guenilles, &amp; de n’avoir pour toute fineſſe de bien dire, que des comme, des de meſmes, ou des tout ainſi.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tenez donc je vous supplie pour assuré, que tout ce que je semble avoir reproché ci-dessus à sa mendicité, est seulement pour le prier qu’il épargne ses ridicules comparaisons de nos pères, car ce n’est pas le moyen de devenir, comme il l’espère, Écrivain sans comparaison, puis que c’est une marque d’avoir bien de la pente au larcin, de dérober jusqu’à des guenilles, et de n’avoir pour toute finesse de bien dire, que des comme, des de mêmes, ou des tout ainsi.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s276">
+         <tuv xml:lang="FRM">
+            <seg>Comment la foudre n’eſt pas aſſez loin de ſes mains dans la moyenne région de l’air, ny les torrens de la Trace aſſez rapides pour empêcher qu’il ne les détourne juſqu’en ce Royaume pour les marier par force à ſes comparaiſons?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Comment la foudre n’est pas assez loin de ses mains dans la moyenne région de l’air, ni les torrents de la Trace assez rapides pour empêcher qu’il ne les détourne jusqu’en ce Royaume pour les marier par force à ses comparaisons?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s277">
+         <tuv xml:lang="FRM">
+            <seg>Je ne vois pas le motif de ce mauvais butin, ſi ce n’eſt que ce flegmatique, de peur de laiſſer croupir ſes aquatiques penſées, eſſaye d’en former des torrens, craignant qu’elles ne ſe corrompent, ou qu’il veüille échauffer ſes froides rencontres avec le feu des éclairs &amp; des Tonnerres;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je ne vois pas le motif de ce mauvais butin, si ce n’est que ce flegmatique, de peur de laisser croupir ses aquatiques pensées, essaye d’en former des torrents, craignant qu’elles ne se corrompent, ou qu’il veuille échauffer ses froides rencontres avec le feu des éclairs et des Tonnerres;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s278">
+         <tuv xml:lang="FRM">
+            <seg>Mais puis qu’enfin, pour tout ce que je luy ſçaurois dire, il ne vainquera pas les tyranniques malignitez de ſa Planette;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais puis qu’enfin, pour tout ce que je lui saurais dire, il ne vainquera pas les tyranniques malignitez de sa Planète;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s279">
+         <tuv xml:lang="FRM">
+            <seg>&amp; puis que cette inclination de Filou le gourmande avec tant d’empire, qu’il glanne au moins ſur les bons Autheurs;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et puis que cette inclination de Filou le gourmande avec tant d’empire, qu’il glanne au moins sur les bons Auteurs;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s280">
+         <tuv xml:lang="FRM">
+            <seg>car quel butin pretend-il faire ſur un miſerable comme moy, il ne ſe chargera que de vétilles.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car quel butin prétend-il faire sur un misérable comme moi, il ne se chargera que de vétilles.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s281">
+         <tuv xml:lang="FRM">
+            <seg>Cependant il conſomme &amp; les nuits &amp; les jours à me dépouiller depuis les pieds juſqu’à la teſte;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Cependant il consomme et les nuits et les jours à me dépouiller depuis les pieds jusqu’à la tête;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s282">
+         <tuv xml:lang="FRM">
+            <seg>de cela eſt ſi vray, que je vous feray voir dans toutes ſes Lettres le commencement &amp; la fin des miennes.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>de cela est si vrai, que je vous ferai voir dans toutes ses Lettres le commencement et la fin des miennes.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s283">
+         <tuv xml:lang="FRM">
+            <seg>Je fuis,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je fuis,</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s284">
+         <tuv xml:lang="FRM">
+            <seg>ENfin, gros Homme, je vous ay veu, mes prunelles ont achevé ſur vous de grands voyages;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ENfin, gros Homme, je vous ai vu, mes prunelles ont achevé sur vous de grands voyages;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s285">
+         <tuv xml:lang="FRM">
+            <seg>&amp; le jour que vous éboulâtes corporellement juſqu’à moy, j’eus le temps de parcourir voſtre Hemiſphere, ou pour parler plus véritablement, d’en découvrir quelques cantons:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et le jour que vous éboulâtes corporellement jusqu’à moi, j’eus le temps de parcourir votre Hémisphère, ou pour parler plus véritablement, d’en découvrir quelques cantons:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s286">
+         <tuv xml:lang="FRM">
+            <seg>Mais comme je ne ſuis pas tout ſeul les yeux de tout le monde, permettez que je donne voſtre portrait à la Poſterité, qui un jour ſera bien aiſe de ſçavoir comment vous eſtiez fait.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais comme je ne suis pas tout seul les yeux de tout le monde, permettez que je donne votre portrait à la Postérité, qui un jour sera bien aise de savoir comment vous étiez fait.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s287">
+         <tuv xml:lang="FRM">
+            <seg>On ſçaura donc en premier lieu, que la Nature qui vous ficha une teſte ſur la poitrine, ne voulut pas expreſſément y mettre de col, afin de le dérober aux malignitez de voſtre Horoſcope;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>On saura donc en premier lieu, que la Nature qui vous ficha une tête sur la poitrine, ne voulut pas expressément y mettre de col, afin de le dérober aux malignités de votre Horoscope;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s288">
+         <tuv xml:lang="FRM">
+            <seg>Que voſtre ame eſt ſi groſſe, qu’elle ſerviroit bien de corps à une perſonne un peu déliée;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Que votre âme est si grosse, qu’elle servirait bien de corps à une personne un peu déliée;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s289">
+         <tuv xml:lang="FRM">
+            <seg>Que vous avez ce qu’aux Hommes on appelle la face ſi fort au deſſous des épaules, &amp; ce qu’on appelle les épaules ſi fort au deſſus de la face, que vous ſemblez un S.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Que vous avez ce qu’aux Hommes on appelle la face si fort au dessous des épaules, et ce qu’on appelle les épaules si fort au dessus de la face, que vous semblez un S.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s290">
+         <tuv xml:lang="FRM">
+            <seg>Denys portant ſon Chef entre ſes mains:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Denis portant son Chef entre ses mains:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s291">
+         <tuv xml:lang="FRM">
+            <seg>Encore je ne dis que la moitié de ce que je voy, car ſi je deſcens mes regards juſqu’à voſtre bedaine, je m’imagine voir aux Limbes tous les Fidelles dans le ſein d’Abraham;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Encore je ne dis que la moitié de ce que je vois, car si je descents mes regards jusqu’à votre bedaine, je m’imagine voir aux Limbes tous les Fidèles dans le sein d’Abraham;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s292">
+         <tuv xml:lang="FRM">
+            <seg>Sainte Urſule qui porte les onze mille Vierges envelopées dans ſon manteau, ou le Cheval de Troye farcy de quarante mille hommes:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sainte Ursule qui porte les onze mille Vierges enveloppées dans son manteau, ou le Cheval de Troye farci de quarante mille hommes:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s293">
+         <tuv xml:lang="FRM">
+            <seg>Mais je me trompe, vous eſtes quelque choſe de plus gros, ma raiſon trouve bien plus d’apparence à croire que vous eſtes une louppe aux entrailles de la Nature, qui rend la Terre jumelle.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais je me trompe, vous êtes quelque chose de plus gros, ma raison trouve bien plus d’apparence à croire que vous êtes une loupe aux entrailles de la Nature, qui rend la Terre jumelle.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s294">
+         <tuv xml:lang="FRM">
+            <seg>Hé!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Hé!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s295">
+         <tuv xml:lang="FRM">
+            <seg>quoy, vous n’ouvrez jamais la bouche, qu’on ne ſe ſouvienne de la Fable de Phaëton, où le Globe de la Terre parle, oüy le Globe de la Terre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>quoi, vous n’ouvrez jamais la bouche, qu’on ne se souvienne de la Fable de Phaéton, où le Globe de la Terre parle, oui le Globe de la Terre;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s296">
+         <tuv xml:lang="FRM">
+            <seg>Et ſi la Terre eſt un Animal, vous voyant auſſi rond, &amp; auſſi large qu’elle, je ſoûtiens que vous vous eſtes ſon mâle, &amp; qu’elle a depuis peu accouché l’Amerique, dont vous l’aviez engroſſie.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et si la Terre est un Animal, vous voyant aussi rond, et aussi large qu’elle, je soutiens que vous vous êtes son mâle, et qu’elle a depuis peu accouché l’Amérique, dont vous l’aviez engrossie.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s297">
+         <tuv xml:lang="FRM">
+            <seg>Hé bien, qu’en dites-vous, le Portrait eſt-il reſſemblant, pour n’y avoir donné qu’une touche?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Hé bien, qu’en dites-vous, le Portrait est-il ressemblant, pour n’y avoir donné qu’une touche?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s298">
+         <tuv xml:lang="FRM">
+            <seg>par la deſcription de voſtre ſphere de chair, dont tous les membres ſont ſi ronds, que chacun fait un cercle, &amp; par l’arondiſſement univerſel de voſtre épaiſſe maſſe, n’ay-je pas appris à nos Neveux que vous n’eſtiez point fourbe, puis que vous marchez rondement?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>par la description de votre sphère de chair, dont tous les membres sont si ronds, que chacun fait un cercle, et par l’arondissement universel de votre épaisse masse, n’ai-je pas appris à nos Neveux que vous n’étiez point fourbe, puis que vous marchez rondement?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s299">
+         <tuv xml:lang="FRM">
+            <seg>Pouvois-je mieux convaincre de menſonge ceux qui vous menacent de pauvreté, qu’en leur faiſant voir à l’œil que vous roulerez toujours?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pouvais-je mieux convaincre de mensonge ceux qui vous menacent de pauvreté, qu’en leur faisant voir à l’œil que vous roulerez toujours?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s300">
+         <tuv xml:lang="FRM">
+            <seg>Et enfin eſtoit-il poſſible d’enſeigner plus intelligiblement que vous eſtes un miracle, puis que voſtre gras embonpoint vous fait prendre par vos Spectateurs pour une Longe de Veau qui ſe promene ſur ſes lardons.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et enfin était-il possible d’enseigner plus intelligiblement que vous êtes un miracle, puis que votre gras embonpoint vous fait prendre par vos Spectateurs pour une Longe de Veau qui se promène sur ses lardons.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s301">
+         <tuv xml:lang="FRM">
+            <seg>Je me doute bien que vous m’objecterez qu’une Boule, qu’un Globe, ny qu’un morceau de chair, ne font pas des Ouvrages, &amp; que la belle Sidon vous a fait triompher ſur les Théâtres de Veniſe:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je me doute bien que vous m’objecterez qu’une Boule, qu’un Globe, ni qu’un morceau de chair, ne font pas des Ouvrages, et que la belle Sidon vous a fait triompher sur les Théâtres de Venise:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s302">
+         <tuv xml:lang="FRM">
+            <seg>Mais entre vous &amp; moy, vous en connoiſſez l’encloüeure;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais entre vous et moi, vous en connaissez l’enclouure;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s303">
+         <tuv xml:lang="FRM">
+            <seg>il n’y a perſonne en Italie, qui ne ſçache que cette Tragédie eſt la Corneille d’Eſope;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>il n’y a personne en Italie, qui ne sache que cette Tragédie est la Corneille d’Ésope;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s304">
+         <tuv xml:lang="FRM">
+            <seg>que vous l’avez ſceuë par cœur auparavant que de l’avoir inventée, eſtant tirée de l’Aminte du Paſtor fido de Guarini, du Cavalier Marin, &amp; de cent autres;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>que vous l’avez sue par cœur auparavant que de l’avoir inventée, étant tirée de l’Aminte du Pastor fido de Guarini, du Cavalier Marin, et de cent autres;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s305">
+         <tuv xml:lang="FRM">
+            <seg>on la peut appeller la Piece des Pieces, &amp; que vous ſeriez non ſeulement un Globe, une Boule, &amp; un morceau de chair;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>on la peut appeller la Pièce des Pièces, et que vous seriez non seulement un Globe, une Boule, et un morceau de chair;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s306">
+         <tuv xml:lang="FRM">
+            <seg>mais encore un miroir qui prend tout ce qu’on luy montre, n’eſtoit que vous repreſentez trop mal.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais encore un miroir qui prend tout ce qu’on lui montre, n’était que vous représentez trop mal.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s307">
+         <tuv xml:lang="FRM">
+            <seg>Sus donc confeſſez la debte, je n’en parleray point;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sus donc confessez la dette, je n’en parlerais point;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s308">
+         <tuv xml:lang="FRM">
+            <seg>au contraire, pour vous excuſer, je diray à tout le monde que voſtre Reyne de Cartage doit eſtre un corps compoſé de toutes les Natures;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>au contraire, pour vous excuser, je dirais à tout le monde que votre Reine de Carthage doit être un corps composé de toutes les Natures;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s309">
+         <tuv xml:lang="FRM">
+            <seg>parce qu’étant d’Afrique, c’eſt de là que viennent les Monſtres:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>parce qu’étant d’Afrique, c’est de là que viennent les Monstres:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s310">
+         <tuv xml:lang="FRM">
+            <seg>Et j’ajoûteray meſme que cette Piece parut ſi belle aux Nobles de cette Republique, qu’à l’exemple des Acteurs qui la joüoient, tout le monde la joüoit.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et j’ajouterais même que cette Pièce parut si belle aux Nobles de cette République, qu’à l’exemple des Acteurs qui la jouaient, tout le monde la jouait.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s311">
+         <tuv xml:lang="FRM">
+            <seg>Quelques ignorans peut-eſtre concluront, à cauſe de la ſterilité de penſées qu’on y trouve, que vous ne penſiez à rien quand vous la fiſtes;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Quelques ignorants peut-être concluront, à cause de la stérilité de pensées qu’on y trouve, que vous ne pensiez à rien quand vous la fîtes;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s312">
+         <tuv xml:lang="FRM">
+            <seg>mais tous les habiles ſçavent qu’afin d’éviter l’obſcurité, vous y avez mis les bonnes choſes fort claires, &amp; quand meſme ils auroient prouvé que depuis l’Ortil juſqu’au Sapin, c’eſt à dire depuis le Taſſe juſqu’à Corneille, les Poetes ont accouché de voſtre enfant, ils ne pourroient rien inſerer, ſinon qu’une ame ordinaire n’eſtant pas allez grande pour vivifier voſtre maſſe de bout en bout, vous fûtes animé de celle du monde, &amp; qu’aujourd’huy c’eſt ce qui eſt cauſe que vous imaginez par le cerveau de tous les hommes:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais tous les habiles savent qu’afin d’éviter l’obscurité, vous y avez mis les bonnes choses fort claires, et quand même ils auraient prouvé que depuis l’Ortie jusqu’au Sapin, c’est à dire depuis le Tasse jusqu’à Corneille, les Poètes ont accouché de votre enfant, ils ne pourraient rien insérer, sinon qu’une âme ordinaire n’étant pas allez grande pour vivifier votre masse de bout en bout, vous fûtes animé de celle du monde, et qu’aujourd’hui c’est ce qui est cause que vous imaginez par le cerveau de tous les hommes:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s313">
+         <tuv xml:lang="FRM">
+            <seg>Mais encore ils ſont bien éloignez d’avouer que vous imaginez, ils ſoûtiennent qu’il n’eſt pas poſſible que vous puiſſiez parler, ou que ſi vous parlez, c’eſt, comme jadis l’antre de la Sibille, qui parloit ſans le ſçavoir:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais encore ils sont bien éloignés d’avouer que vous imaginez, ils soutiennent qu’il n’est pas possible que vous puissiez parler, ou que si vous parlez, c’est, comme jadis l’antre de la Sibylle, qui parlait sans le savoir:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s314">
+         <tuv xml:lang="FRM">
+            <seg>mais encore que les fumées qui ſortent de voſtre bouche, je voulois dire de voſtre bondon, ſoient auſſi capables d’enyvrer que celles qui s’exhaloient de cette Grotte, je n’y vois rien d’auſſi prophétique;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais encore que les fumées qui sortent de votre bouche, je voulais dire de votre bondon, soient aussi capables d’enivrer que celles qui s’exhalaient de cette Grotte, je n’y vois rien d’aussi prophétique;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s315">
+         <tuv xml:lang="FRM">
+            <seg>c’eſt pourquoy j’eſtime que vous n’eſtes au plus que la Caverne des ſept Dormans, qui ronflent par voſtre bouche.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>c’est pourquoi j’estime que vous n’êtes au plus que la Caverne des sept Dormants, qui ronflent par votre bouche.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s316">
+         <tuv xml:lang="FRM">
+            <seg>Mais, bons Dieux!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais, bons Dieux!</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s317">
+         <tuv xml:lang="FRM">
+            <seg>qu’eſt-ce que je voy?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>qu’est-ce que je vois?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s318">
+         <tuv xml:lang="FRM">
+            <seg>vous me ſemblez encore plus enflé qu’a l’ordinaire.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>vous me semblez encore plus enflé qu’a l’ordinaire.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s319">
+         <tuv xml:lang="FRM">
+            <seg>Eſt-ce donc le courroux qui vous ſert de Seringue?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Est-ce donc le courroux qui vous sert de Seringue?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s320">
+         <tuv xml:lang="FRM">
+            <seg>Déjà vos jambes &amp; voſtre teſte ſe ſont tellement unies par leur extenſion à la circonférence de voſtre Globe, que vous n’eſtes plus qu’un Balon.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Déjà vos jambes et votre tête se sont tellement unies par leur extension à la circonférence de votre Globe, que vous n’êtes plus qu’un Ballon.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s321">
+         <tuv xml:lang="FRM">
+            <seg>Vous vous figurez peut-eſtre que je me moque, par ma foy vous avez deviné, &amp; le miracle n’eſt pas grand, qu’une boule ait frappé au but:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous vous figurez peut-être que je me moque, par ma foi vous avez deviné, et le miracle n’est pas grand, qu’une boule ait frappé au but:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s322">
+         <tuv xml:lang="FRM">
+            <seg>Je vous puis meſme aſſurer que ſi les coups de bâton s’envoyoient par écrit, vous liriez ma Lettre des épaules;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je vous puis même assurer que si les coups de bâton s’envoyaient par écrit, vous liriez ma Lettre des épaules;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s323">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ne vous étonnez pas de mon procédé, car la vaſte étendue de voſtre rondeur me fait croire ſi fermement que vous eſtes une terre, que de bon cœur je planterois du bois ſur vous pour voir comment il s’y porteroit?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et ne vous étonnez pas de mon procédé, car la vaste étendue de votre rondeur me fait croire si fermement que vous êtes une terre, que de bon cœur je planterais du bois sur vous pour voir comment il s’y porterait?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s324">
+         <tuv xml:lang="FRM">
+            <seg>Penſez-vous donc à cauſe qu’un Homme ne vous ſçauroit battre tout entier en vingt-quatre heures, &amp; qu’il ne ſçauroit en un jour échigner qu’une de vos omoplates, que je me veuille repoſer de voſtre mort ſur le Bourreau?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pensez-vous donc à cause qu’un Homme ne vous saurait battre tout entier en vingt-quatre heures, et qu’il ne saurait en un jour échigner qu’une de vos homoplates, que je me veuille reposer de votre mort sur le Bourreau?</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s325">
+         <tuv xml:lang="FRM">
+            <seg>Non, non, je ſeray moy-meſme voſtre Parque, &amp; ce ſeroit déjà fait de vous, ſi j’eſtois bien délivré d’un mal de rate, pour la gueriſon duquel les Medecins m’ont ordonné encore quatre ou cinq priſes de vos impertinences;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Non, non, je serai moi-même votre Parque, et ce serait déjà fait de vous, si j’étais bien délivré d’un mal de rate, pour la guérison duquel les Médecins m’ont ordonné encore quatre ou cinq prises de vos impertinences;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s326">
+         <tuv xml:lang="FRM">
+            <seg>mais ſi-toſt que j’auray fait banqueroute aux divertiſſemens, &amp; que je ſeray las de rire, tenez pour tout aſſuré que je vous envoyeray défendre de vous compter entre les choſes qui vivent;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais si-tôt que j’aurais fait banqueroute aux divertissements, et que je serai las de rire, tenez pour tout assuré que je vous enverrai défendre de vous compter entre les choses qui vivent;</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s327">
+         <tuv xml:lang="FRM">
+            <seg>Adieu, c’eſt fait.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Adieu, c’est fait.</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s328">
+         <tuv xml:lang="FRM">
+            <seg>J’euſſe bien finy ma Lettre à l’ordinaire, mais vous n’euſſiez pas crû pour cela que je fuſſe voſtre tres-humble, tres-obeïſſant, &amp; tres-affectionné:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>J’eusse bien fini ma Lettre à l’ordinaire, mais vous n’eussiez pas crû pour cela que je fusse votre très humble, très obéissant, et très affectionné:</seg>
+         </tuv>
+      </tu>
+ 
+ 
+      <tu tuid="s329">
+         <tuv xml:lang="FRM">
+            <seg>C’eſt pourquoy, Gros Crevé,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>C’est pourquoi, Gros Crevé,</seg>
+         </tuv>
+      </tu>
+ 
+   </body>
+</tmx>
