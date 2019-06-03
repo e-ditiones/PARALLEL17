@@ -19,7 +19,7 @@ Ligatures which have disappeared ( *ſt*, *st*, *ct*) are not kept, but not thos
 If you want to contribute, you can do so by cloning the repository and sending us a pull request, or by sending an email at simon.gabay[at]unine.ch.
 
 ## Cite this repository
-Simon Gabay (éd.), _PARALLEL17: a parallel corpus (diplomatic vs normalised) of 17th c. FRench texts_, Neuchâtel: Université de Neuchâtel, 2019, [https://github.com/e-ditiones/PARALLEL17](https://github.com/e-ditiones/PARALLEL17).
+Simon Gabay (éd.), _PARALLEL17: a parallel corpus (diplomatic vs normalised) of 17th c. French texts_, Neuchâtel: Université de Neuchâtel, 2019, [https://github.com/e-ditiones/PARALLEL17](https://github.com/e-ditiones/PARALLEL17).
 
 Please keep me posted if you use this data! simon.gabay[at]unine.ch
 
