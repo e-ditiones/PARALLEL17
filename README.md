@@ -5,8 +5,10 @@ Parallel corpus (diplomatic vs normalised) of 17th c. French texts
 ## Corpus
 
 The corpus is available in two different formats:
-1. TSV (```corpus_tsv``` folder)
-2. XML-TMX (```corpus_tmx``` folder)
+1. TSV ([corpus_tsv``` folder](https://github.com/e-ditiones/PARALLEL17/tree/master/corpus_tsv))
+2. XML-TMX ([corpus_tmx](https://github.com/e-ditiones/PARALLEL17/tree/master/corpus_tmx) folder)
+
+A detailed list of the corpus is avaiable [here](https://github.com/e-ditiones/PARALLEL17/blob/master/TableOfContent.tsv).
 
 ## Transcriptions
 Transcripts are almost diplomatic. Long *ſ* is maintained ( *plaiſir* and not *plaisir*).
