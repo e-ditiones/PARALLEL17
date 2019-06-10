@@ -1,0 +1,5412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+   <header creationtool="NA"
+           creationtoolversion="NA"
+           datatype="XML"
+           segtype="sub-sentence"
+           adminlang="fr-FR"
+           srclang="FRM"
+           o-tmf="XML"/>
+   <body>
+   
+      <tu tuid="l1">
+         <tuv xml:lang="FRM">
+            <seg>IE chante la PVCELLE, &amp; la ſainte Vaillance,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>JE chante la PUCELLE, et la sainte Vaillance,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l2">
+         <tuv xml:lang="FRM">
+            <seg>Qui dans le point fatal, où periſſoit la France,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui dans le point fatal, où périssait la France,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l3">
+         <tuv xml:lang="FRM">
+            <seg>Ranimant de ſon Roy la mourante vertu,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ranimant de son Roi la mourante vertu,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l4">
+         <tuv xml:lang="FRM">
+            <seg>Releua ſon Eftat, ſous l’Anglois, abbatu.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Releva son État, sous l’Anglais, abbatu.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l5">
+         <tuv xml:lang="FRM">
+            <seg>Le Ciel ſe courrouça, l'Enfer eſmût ſa rage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le Ciel se courrouça, l’Enfer émut sa rage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l6">
+         <tuv xml:lang="FRM">
+            <seg>Mais Elle, armant ſon cœur de zele &amp; de courage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais Elle, armant son cœur de zèle et de courage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l7">
+         <tuv xml:lang="FRM">
+            <seg>Par ſa priere ardente, au milieu de ſes fers,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par sa prière ardente, au milieu de ses fers,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l8">
+         <tuv xml:lang="FRM">
+            <seg>Sceut, &amp; flechir les Cieux, &amp; donter les Enfers.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sut, et fléchir les Cieux, et dompter les Enfers.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l9">
+         <tuv xml:lang="FRM">
+            <seg>Ames des premiers Corps, Peres de l'Harmonie,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Âmes des premiers Corps, Pères de l’Harmonie,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l10">
+         <tuv xml:lang="FRM">
+            <seg>Meſſagers des Decrets de l'Eſſence infinie,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Messagers des Décrets de l’Essence infinie,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l11">
+         <tuv xml:lang="FRM">
+            <seg>Legions qui ſuyués l'eternel eſtandard,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Légions qui suivez l’éternel étendard,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l12">
+         <tuv xml:lang="FRM">
+            <seg>Et qui, dans ce grand Oeuure, euſtes ſi grande part;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et qui, dans ce grand Œuvre, eûtes si grande part;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l13">
+         <tuv xml:lang="FRM">
+            <seg>Celebrés, auec moy, la Guerriere Houlette,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Célébrez, avec moi, la Guerrière Houlette,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l14">
+         <tuv xml:lang="FRM">
+            <seg>Faites prendre à ma voix l'éclat de la trompette,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Faites prendre à ma voix l’éclat de la trompette,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l15">
+         <tuv xml:lang="FRM">
+            <seg>Eſchaufſés mon eſprit, diſposés mon Projet,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Échauffez mon esprit, disposés mon Projet,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l16">
+         <tuv xml:lang="FRM">
+            <seg>Et rendés mon haleine egale à mon Sujet.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et rendez mon haleine égale à mon Sujet.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l17">
+         <tuv xml:lang="FRM">
+            <seg>Auguſte Succeſſeur de cet auguſte Prince,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Auguste Successeur de cet auguste Prince,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l18">
+         <tuv xml:lang="FRM">
+            <seg>Par qui s'accrut jadis la Françoiſe Prouince,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par qui s’accrut jadis la Française Province,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l19">
+         <tuv xml:lang="FRM">
+            <seg>Lors que ſon bras vengeur, par cent heureux combats,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Lorsque son bras vengeur, par cent heureux combats,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l20">
+         <tuv xml:lang="FRM">
+            <seg>Du redoutable Anglois mit la puiſſance à bas;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Du redoutable Anglais mit la puissance à bas;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l21">
+         <tuv xml:lang="FRM">
+            <seg>Magnanime HENRY, glorieux LONGVEVILLE,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Magnanime HENRI, glorieux LONGUEVILLE,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l22">
+         <tuv xml:lang="FRM">
+            <seg>Des errantes Vertus, &amp; le Temple, &amp; l'Aſyle,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Des errantes Vertus, et le Temple, et l’Asile,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l23">
+         <tuv xml:lang="FRM">
+            <seg>Colonne de l'Eſtat par DVNOIS reſtably,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Colonne de l’État par DUNOIS rétabli,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l24">
+         <tuv xml:lang="FRM">
+            <seg>Heros, dont les exploits ne craignent point l'Oubly;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Héros, dont les exploits ne craignent point l’Oubli;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l25">
+         <tuv xml:lang="FRM">
+            <seg>Viue Source d'honneur, qui tousjours claire &amp; pleine</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vive Source d’honneur, qui toujours claire et pleine</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l26">
+         <tuv xml:lang="FRM">
+            <seg>Groſſis, de flots bruyans, ma languiſſante veine,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Grossis, de flots bruyants, ma languissante veine,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l27">
+         <tuv xml:lang="FRM">
+            <seg>Et fais couler mes jours, dans l'honneſte loyſir,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et fais couler mes jours, dans l’honnête loisir,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l28">
+         <tuv xml:lang="FRM">
+            <seg>Qu'enuioit la Fortune à mon noble deſir;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qu’ennuyait la Fortune à mon noble désir;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l29">
+         <tuv xml:lang="FRM">
+            <seg>Des veritables chants de mon ſacré Parnaſſe,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Des véritables chants de mon sacré Parnasse,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l30">
+         <tuv xml:lang="FRM">
+            <seg>Aprens les hauts deſſeins d'vn Guerrier de ta Race,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Apprends les hauts desseins d’un Guerrier de ta Race,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l31">
+         <tuv xml:lang="FRM">
+            <seg>Et voy, dans leurs ſucces, juſqu'où le cœur humain</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et vois, dans leurs succès, jusqu’où le cœur humain</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l32">
+         <tuv xml:lang="FRM">
+            <seg>Peut porter les efforts d'vne mortelle main.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Peut porter les efforts d’une mortelle main.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l33">
+         <tuv xml:lang="FRM">
+            <seg>Voy, parmy la tempeſte aux injuſtes fatale,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vois, parmi la tempête aux injustes fatale,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l34">
+         <tuv xml:lang="FRM">
+            <seg>Reſplendir de ton Sang l’origine Royale,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Resplendir de ton Sang l’origine Royale,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l35">
+         <tuv xml:lang="FRM">
+            <seg>Et contemple eſtonné, par quels brillans eſſais</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et contemple étonné, par quels brillants essais</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l36">
+         <tuv xml:lang="FRM">
+            <seg>Se preparoient les Cieux à produire tes Faits.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Se préparaient les Cieux à produire tes Faits.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l37">
+         <tuv xml:lang="FRM">
+            <seg>Vn jour, lors qu'en ſuyuant ce grand Foudre de guerre</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Un jour, lorsqu’en suivant ce grand Foudre de guerre</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l38">
+         <tuv xml:lang="FRM">
+            <seg>I'auray pris ma volée, aßés loin de la Terre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>J’aurai pris ma volée, assez loin de la Terre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l39">
+         <tuv xml:lang="FRM">
+            <seg>Et que j'auray le ton deſormais aßés fort</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et que j’aurai le ton désormais assez fort</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l40">
+         <tuv xml:lang="FRM">
+            <seg>Pour l'eſleuer à toy, ſans te faire de tort;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour l’élever à toi, sans te faire de tort;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l41">
+         <tuv xml:lang="FRM">
+            <seg>Ie veux, par le recit de tes propres merueilles,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je veux, par le récit de tes propres merveilles,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l42">
+         <tuv xml:lang="FRM">
+            <seg>Des Peuples ſuſpendus enchanter les oreilles,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Des Peuples suspendus enchanter les oreilles,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l43">
+         <tuv xml:lang="FRM">
+            <seg>Et, dans tous les climats, faire, par leur grandeur,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et, dans tous les climats, faire, par leur grandeur,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l44">
+         <tuv xml:lang="FRM">
+            <seg>Cherir de tes Lauriers l'eternelle verdeur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Chérir de tes Lauriers l’éternelle verdeur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l45">
+         <tuv xml:lang="FRM">
+            <seg>Ie diray la Conté, par toy, demi-conquiſe,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je dirai la Comté, par toi, demi-conquise,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l46">
+         <tuv xml:lang="FRM">
+            <seg>Par toy, dans le Piedmont, l'aſſeurance remiſe</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par toi, dans le Piémont, l’assurance remise</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l47">
+         <tuv xml:lang="FRM">
+            <seg>Les Lorrains acheués de mettre, ſous nos loix,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Les Lorrains achevés de mettre, sous nos lois,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l48">
+         <tuv xml:lang="FRM">
+            <seg>Et le douteux Briſac enfin rendu François.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et le douteux Brissac enfin rendu Français.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l49">
+         <tuv xml:lang="FRM">
+            <seg>Ie diray le fameux &amp; terrible paſſage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je dirai le fameux et terrible passage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l50">
+         <tuv xml:lang="FRM">
+            <seg>Qui fit ceder le Rhein au feu de ton courage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui fit céder le Rhin au feu de ton courage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l51">
+         <tuv xml:lang="FRM">
+            <seg>Et qui, briſant les fers des belliqueux Germains,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et qui, brisant les fers des belliqueux Germains,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l52">
+         <tuv xml:lang="FRM">
+            <seg>Aſſura la franchiſe au reſte des humains.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Assura la franchise au reste des humains.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l53">
+         <tuv xml:lang="FRM">
+            <seg>Ie diray quel tonnerre employa ta Bellonne,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je dirai quel tonnerre employa ta Bellonne,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l54">
+         <tuv xml:lang="FRM">
+            <seg>Pour abbatre à tes pieds l'orgueilleuſe Tortonne,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour abattre à tes pieds l’orgueilleuse Tortonne,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l55">
+         <tuv xml:lang="FRM">
+            <seg>Et de quelle viſteſſe, effrayé par ton bruit,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et de quelle vitesse, effrayé par ton bruit,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l56">
+         <tuv xml:lang="FRM">
+            <seg>Le Serpent Milanois dans ſa grotte s'enfuit.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le Serpent Milanais dans sa grotte s’enfuit.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l57">
+         <tuv xml:lang="FRM">
+            <seg>Enfin je publiray tes labeurs heroïques,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Enfin je publierai tes labeurs heroïques,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l58">
+         <tuv xml:lang="FRM">
+            <seg>Pour trouuer le remede aux miſeres publiques,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour trouver le remède aux misères publiques,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l59">
+         <tuv xml:lang="FRM">
+            <seg>Pour redonner la regle aux confus Elemens,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour redonner la règle aux confus Éléments,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l60">
+         <tuv xml:lang="FRM">
+            <seg>Et du Monde Chreſtien calmer les mouuemens.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et du Monde Chrétien calmer les mouvements.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l61">
+         <tuv xml:lang="FRM">
+            <seg>DVRANT le triſte cours de cent longues années,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>DURANT le triste cours de cent longues années,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l62">
+         <tuv xml:lang="FRM">
+            <seg>L'equitable rigueur des ſaintes Deſtinées,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’équitable rigueur des saintes Destinées,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l63">
+         <tuv xml:lang="FRM">
+            <seg>Par mille deſplaiſirs, &amp; par mille trauaux,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par mille desplaisirs, et par mille travaux,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l64">
+         <tuv xml:lang="FRM">
+            <seg>Auoit porté la France au comble de ſes maux.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Avait porté la France au comble de ses maux.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l65">
+         <tuv xml:lang="FRM">
+            <seg>Deux deluges de ſang, eſpanchés de ſes veines,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Deux déluges de sang, épanchés de ses veines,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l66">
+         <tuv xml:lang="FRM">
+            <seg>De Poitiers, d’Azincourt, auoient noyé les Plaines,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De Poitiers, d’Azincourt, avaient noyé les Plaines,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l67">
+         <tuv xml:lang="FRM">
+            <seg>Et de deux coups de foudre, &amp; Creuant, &amp; Verneüil,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et de deux coups de foudre, et Crevant, et Verneuil,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l68">
+         <tuv xml:lang="FRM">
+            <seg>Venoient de la conduire aux portes du cercüeil.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Venaient de la conduire aux portes du cercueil.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l69">
+         <tuv xml:lang="FRM">
+            <seg>Charles ſon jeune Maiſtre, &amp; ſa foible eſperance,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Charles son jeune Maître, et sa faible espérance,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l70">
+         <tuv xml:lang="FRM">
+            <seg>Des fiers Vſurpateurs eſprouuoit l'inſolence,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Des fiers Usurpateurs éprouvait l’insolence,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l71">
+         <tuv xml:lang="FRM">
+            <seg>Loin du throſne captif, erroit deſeſperé,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Loin du trône captif, errait désespéré,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l72">
+         <tuv xml:lang="FRM">
+            <seg>Et voyoit ſon Vaſſal, en ſon lieu, reueré.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et voyait son Vassal, en son lieu, révéré.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l73">
+         <tuv xml:lang="FRM">
+            <seg>Il voyoit, de l'Anglois, à ſon Sceptre, Rebelle,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il voyait, de l’Anglais, à son Sceptre, Rebelle,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l74">
+         <tuv xml:lang="FRM">
+            <seg>Proſperer, chaque jour, l'Entrepriſe crüelle;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Prospérer, chaque jour, l’Entreprise cruelle;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l75">
+         <tuv xml:lang="FRM">
+            <seg>Il voyoit, par l’Anglois, ſes Eſtats enuahis,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il voyait, par l’Anglais, ses États envahis,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l76">
+         <tuv xml:lang="FRM">
+            <seg>Et, dans ſon païs propre, il cherchoit ſon païs.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et, dans son pays propre, il cherchait son pays.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l77">
+         <tuv xml:lang="FRM">
+            <seg>Les coſtaux, les vallons, les champs &amp; les prairies,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Les coteaux, les vallons, les champs et les prairies,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l78">
+         <tuv xml:lang="FRM">
+            <seg>A ſes regards troublés n'offroient que barbaries,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>À ses regards troublés n’offraient que barbaries,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l79">
+         <tuv xml:lang="FRM">
+            <seg>Et les vaſtes remparts des tremblantes Cités</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et les vastes remparts des tremblantes Cités</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l80">
+         <tuv xml:lang="FRM">
+            <seg>N'enfermoient que tourmens, &amp; que calamités.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>N’enfermaient que tourments, et que calamités.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l81">
+         <tuv xml:lang="FRM">
+            <seg>Tous les fleaux des Humains, la Peſte &amp; la Famine</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tous les fléaux des Humains, la Peste et la Famine</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l82">
+         <tuv xml:lang="FRM">
+            <seg>Des Peuples, en tous lieux, auançoient la rüine,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Des Peuples, en tous lieux, avançaient la ruine,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l83">
+         <tuv xml:lang="FRM">
+            <seg>Et la Guerre, en tous lieux, agitant ſon flambeau,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et la Guerre, en tous lieux, agitant son flambeau,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l84">
+         <tuv xml:lang="FRM">
+            <seg>De leurs toits embrasés, compoſoit leur tombeau.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De leurs toits embrasés, composait leur tombeau.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l85">
+         <tuv xml:lang="FRM">
+            <seg>L'impitoyable Mort, des Prouinces entieres</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’impitoyable Mort, des Provinces entières</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l86">
+         <tuv xml:lang="FRM">
+            <seg>Ne faiſoit deſormais que de grands cimetieres,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ne faisait désormais que de grands cimetières,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l87">
+         <tuv xml:lang="FRM">
+            <seg>Le ſang, en chaque bois, par les routes couloit,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le sang, en chaque bois, par les routes coulait,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l88">
+         <tuv xml:lang="FRM">
+            <seg>Et, dans chaque riuiere, aux ondes ſe meſloit.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et, dans chaque rivière, aux ondes se mêlait.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l89">
+         <tuv xml:lang="FRM">
+            <seg>L'Audace, la Fureur, le Diſcord &amp; la Rage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’Audace, la Fureur, le Discord et la Rage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l90">
+         <tuv xml:lang="FRM">
+            <seg>Deſtruiſoient à-l'enuy le Royal heritage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Détruisaient à l’envi le Royal héritage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l91">
+         <tuv xml:lang="FRM">
+            <seg>Il ne paroiſſoit plus qu'vn gouffre de malheur,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il ne paraissait plus qu’un gouffre de malheur,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l92">
+         <tuv xml:lang="FRM">
+            <seg>Et l'endroit le plus ſain eſtoit plein de douleur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et l’endroit le plus sain était plein de douleur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l93">
+         <tuv xml:lang="FRM">
+            <seg>Aucun mur ne portoit vne chaiſne legere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Aucun mur ne portait une chaîne légère,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l94">
+         <tuv xml:lang="FRM">
+            <seg>Mais Paris, plus que tous, plonge dans la miſere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais Paris, plus que tous, plonge dans la misère,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l95">
+         <tuv xml:lang="FRM">
+            <seg>Meſconnoiſſoit ſon Prince, &amp; luy manquant de foy,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Méconnaissait son Prince, et lui manquant de foi,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l96">
+         <tuv xml:lang="FRM">
+            <seg>Souffroit à l'Eſtranger prendre titre de Roy.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Souffrait à l’Étranger prendre titre de Roi.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l97">
+         <tuv xml:lang="FRM">
+            <seg>Pour dernier monſtre en fin, l'execrable Iſabelle</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour dernier monstre en fin, l’exécrable Isabelle</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l98">
+         <tuv xml:lang="FRM">
+            <seg>Immoloit ſon Fils propre à ſa haine immortelle,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Immolait son Fils propre à sa haine immortelle,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l99">
+         <tuv xml:lang="FRM">
+            <seg>Et faiſant violence aux naturelles loix,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et faisant violence aux naturelles lois,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l100">
+         <tuv xml:lang="FRM">
+            <seg>Fomentoit contre luy le party de l'Anglois.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Fomentait contre lui le parti de l’Anglais.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l101">
+         <tuv xml:lang="FRM">
+            <seg>De l'vn à l'autre bout, la deplorable France</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De l’un à l’autre bout, la déplorable France</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l102">
+         <tuv xml:lang="FRM">
+            <seg>Aux heureux Reuoltés preſtoit obeiſſance,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Aux heureux Révoltés prêtait obéissance,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l103">
+         <tuv xml:lang="FRM">
+            <seg>Et Marne, &amp; Seine, &amp; Loire, à peine en leurs courans</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et Marne, et Seine, et Loire, à peine en leurs courants</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l104">
+         <tuv xml:lang="FRM">
+            <seg>Trouuoient vn bouleuard franc du joug des Tyrans.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Trouvaient un boulevard franc du joug des Tyrans.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l105">
+         <tuv xml:lang="FRM">
+            <seg>Orleans, ſeul encor de tant de Places fortes,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Orléans, seul encor de tant de Places fortes,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l106">
+         <tuv xml:lang="FRM">
+            <seg>Se pouuoit dire libre au dedans de ſes portes,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Se pouvait dire libre au dedans de ses portes,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l107">
+         <tuv xml:lang="FRM">
+            <seg>Bien qu'entre cent terreurs, il viſt de toutes parts</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Bien qu’entre cent terreurs, il vit de toutes parts</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l108">
+         <tuv xml:lang="FRM">
+            <seg>Vne armée innombrable entourer ſes ramparts.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Une armée innombrable entourer ses remparts.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l109">
+         <tuv xml:lang="FRM">
+            <seg>Iuſques vers le milieu de la neufieſme Lune,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Jusque vers le milieu de la neuvième Lune,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l110">
+         <tuv xml:lang="FRM">
+            <seg>Il auoit tenu teſte à ſon aſpre fortune,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il avait tenu tête à son âpre fortune,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l111">
+         <tuv xml:lang="FRM">
+            <seg>Il auoit cent aſſauts l'vn ſur l'autre endurés,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il avait cent assauts l’un sur l’autre endurés,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l112">
+         <tuv xml:lang="FRM">
+            <seg>Et cent fois dans leur camp les Anglois reſſerrés.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et cent fois dans leur camp les Anglais resserrés.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l113">
+         <tuv xml:lang="FRM">
+            <seg>Par les bras vigoureux qui reſtoient à la France,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par les bras vigoureux qui restaient à la France,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l114">
+         <tuv xml:lang="FRM">
+            <seg>En fin il auoit veu tenter ſa deliurance,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Enfin il avait vu tenter sa délivrance,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l115">
+         <tuv xml:lang="FRM">
+            <seg>L'auoit veu, mais ſans fruit, &amp; proche des abois</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’avait vu, mais sans fruit, et proche des abois</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l116">
+         <tuv xml:lang="FRM">
+            <seg>Bien-toſt des aſſiegeans alloit ſuyure les loix.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Bientôt des assiégeants allait suivre les lois.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l117">
+         <tuv xml:lang="FRM">
+            <seg>Quand ſon grand Defenſeur, dont la force diuine</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Quand son grand Défenseur, dont la force divine</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l118">
+         <tuv xml:lang="FRM">
+            <seg>Du chancelant Eſtat ſouſtenoit la ruine,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Du chancelant État soutenait la ruine,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l119">
+         <tuv xml:lang="FRM">
+            <seg>L'inuincible Dunois, ſur le haut de ſes tours,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’invincible Dunois, sur le haut de ses tours,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l120">
+         <tuv xml:lang="FRM">
+            <seg>Au profond de ſon cœur fit ce triſte diſcours.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Au profond de son cœur fit ce triste discours.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l121">
+         <tuv xml:lang="FRM">
+            <seg>Donques, pour conſeruer cette fidelle Ville,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Donc, pour conserver cette fidèle Ville,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l122">
+         <tuv xml:lang="FRM">
+            <seg>I'auray fait à mon Prince vn ſerment inutile,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>J’aurai fait à mon Prince un serment inutile,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l123">
+         <tuv xml:lang="FRM">
+            <seg>Et ce genereux Peuple, auec tout mon effort,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et ce généreux Peuple, avec tout mon effort,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l124">
+         <tuv xml:lang="FRM">
+            <seg>N'aura pû s'affranchir des chaiſnes de Betford.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>N’aura pu s’affranchir des chaînes de Bedford.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l125">
+         <tuv xml:lang="FRM">
+            <seg>Intrepides Soldats, valeureux Capitaines,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Intrépides Soldats, valeureux Capitaines,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l126">
+         <tuv xml:lang="FRM">
+            <seg>Qui foulant de Rouuroy les deſaſtreuſes plaines,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui foulant de Rouvray les désastreuses plaines,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l127">
+         <tuv xml:lang="FRM">
+            <seg>Reſolus de vous perdre, ou de nous ſecourir,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Résolus de vous perdre, ou de nous secourir,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l128">
+         <tuv xml:lang="FRM">
+            <seg>Par les mains du Rebelle aués voulu mourir;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par les mains du Rebelle avez voulu mourir;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l129">
+         <tuv xml:lang="FRM">
+            <seg>Que voſtre ſort me plaiſt, &amp; que je vous enuie</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Que votre sort me plaît, et que je vous envie</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l130">
+         <tuv xml:lang="FRM">
+            <seg>Vne ſi belle fin de voſtre belle vie!</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vne si belle fin de votre belle vie!</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l131">
+         <tuv xml:lang="FRM">
+            <seg>Car ſi voſtre projet a manqué de bonheur,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Car si votre projet a manqué de bonheur,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l132">
+         <tuv xml:lang="FRM">
+            <seg>Au moins eſtes vous morts, &amp; morts au lit d'honneur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Au moins êtes vous morts, et morts au lit d’honneur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l133">
+         <tuv xml:lang="FRM">
+            <seg>Dunois infortuné, l'éclat de ta memoire</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dunois infortuné, l’éclat de ta mémoire</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l134">
+         <tuv xml:lang="FRM">
+            <seg>Sera-t-il obſcurcy d’vne tache ſi noire?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sera-t-il obscurci d’une tache si noire?</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l135">
+         <tuv xml:lang="FRM">
+            <seg>Perdras-tu ton eſtime, &amp; les ſiecles futurs</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Perdras-tu ton estime, et les siècles futurs</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l136">
+         <tuv xml:lang="FRM">
+            <seg>Te reprocheront-ils d'auoir liuré ces murs?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Te reprocheront-ils d’avoir livré ces murs?</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l137">
+         <tuv xml:lang="FRM">
+            <seg>Loin de toy, loin de toy, cette honte &amp; ce crime,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Loin de toi, loin de toi, cette honte et ce crime,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l138">
+         <tuv xml:lang="FRM">
+            <seg>Pluſtoſt de tes Amis ſuy la fin magnanime,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Plutôt de tes Amis suis la fin magnanime,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l139">
+         <tuv xml:lang="FRM">
+            <seg>Meurs pluſtoſt de cent morts, que de ternir jamais,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Meurs plutôt de cent morts, que de ternir jamais,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l140">
+         <tuv xml:lang="FRM">
+            <seg>Par vn ſi laſche fait, la gloire de tes faits.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par un si lâche fait, la gloire de tes faits.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l141">
+         <tuv xml:lang="FRM">
+            <seg>Meurs pluſtoſt que ce Peuple endure le ſeruage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Meurs plutôt que ce Peuple endure le servage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l142">
+         <tuv xml:lang="FRM">
+            <seg>Dont ta foy luy promit d’exemter ſon courage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dont ta foi lui promit d’exempter son courage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l143">
+         <tuv xml:lang="FRM">
+            <seg>Lors qu'entre cent Guerriers, non moins braues que toy,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Lors qu’entre cent Guerriers, non moins braves que toi,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l144">
+         <tuv xml:lang="FRM">
+            <seg>Il t'élut pour l'ayder à maintenir ſa foy.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il t’élut pour l’aider à maintenir sa foi.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l145">
+         <tuv xml:lang="FRM">
+            <seg>Mais que luy ſeruira que tu ceſſes de viure?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais que lui servira que tu cesses de vivre?</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l146">
+         <tuv xml:lang="FRM">
+            <seg>Penſes-tu que des fers ton treſpas le deliure?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Penses-tu que des fers ton trépas le délivre?</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l147">
+         <tuv xml:lang="FRM">
+            <seg>Non, non, croy bien pluſtoſt, qu'en perdant la clarté,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Non, non, crois bien plutôt, qu’en perdant la clarté,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l148">
+         <tuv xml:lang="FRM">
+            <seg>Tu haſtes ſa défaite &amp; ſa captiuité.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tu hâtes sa défaite et sa captivité.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l149">
+         <tuv xml:lang="FRM">
+            <seg>Il s'arreſte incertain du conſeïl qu'il doit prendre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il s’arrête incertain du conseil qu’il doit prendre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l150">
+         <tuv xml:lang="FRM">
+            <seg>Il luy faut deſormais ou mourir ou ſe rendre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il lui faut désormais ou mourir ou se rendre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l151">
+         <tuv xml:lang="FRM">
+            <seg>Et, dans ce choix forcé, ſon eſprit eſperdu</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et, dans ce choix forcé, son esprit éperdu</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l152">
+         <tuv xml:lang="FRM">
+            <seg>Entre ces deux partis demeure ſuſpendu.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Entre ces deux partis demeure suspendu.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l153">
+         <tuv xml:lang="FRM">
+            <seg>Comme lors qu'vn grand cheſne, aux Roches Apennines;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Comme lorsqu’un grand chêne, aux Roches Apennines;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l154">
+         <tuv xml:lang="FRM">
+            <seg>Sent par vn choq de vents eſbranſler ſes racines,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sent par un choc de vents ébranler ses racines,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l155">
+         <tuv xml:lang="FRM">
+            <seg>Et, certain de tomber, voit ſon branchage eſpais,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et, certain de tomber, voit son branchage épais,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l156">
+         <tuv xml:lang="FRM">
+            <seg>Vers deux lieux, tour à tour, pancher ſon vaſte faix;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vers deux lieux, tour à tour, pancher son vaste faix;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l157">
+         <tuv xml:lang="FRM">
+            <seg>Si le Nord &amp; le Sud, meſlés dans ſon feüillage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Si le Nord et le Sud, mêlés dans son feuillage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l158">
+         <tuv xml:lang="FRM">
+            <seg>Viennent à le pouſſer d’vne pareille rage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Viennent à le pousser d’une pareille rage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l159">
+         <tuv xml:lang="FRM">
+            <seg>Il ſuſpend ſa ruine, &amp; ſemble conſulter,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il suspend sa ruine, et semble consulter,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l160">
+         <tuv xml:lang="FRM">
+            <seg>Qui, du Sud, ou du Nord, le doit precipiter.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui, du Sud, ou du Nord, le doit précipiter.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l161">
+         <tuv xml:lang="FRM">
+            <seg>Mais en ce meſme inſtant, ſoit deſtin, ſoit rencontre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais en ce même instant, soit destin, soit rencontre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l162">
+         <tuv xml:lang="FRM">
+            <seg>Tout à coup à ſa veuë vn nuage ſe monſtre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tout à coup à sa vue un nuage se montre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l163">
+         <tuv xml:lang="FRM">
+            <seg>Qui d’orage groſſy, perce le ſein des airs</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui d’orage grossi, perce le sein des airs</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l164">
+         <tuv xml:lang="FRM">
+            <seg>De foudres allumés, &amp; de volans éclairs:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De foudres allumés, et de volants éclairs:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l165">
+         <tuv xml:lang="FRM">
+            <seg>Du Palais eſtoillé la voûte ſe preſente,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Du Palais étoilé la voûte se présente,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l166">
+         <tuv xml:lang="FRM">
+            <seg>Sous l'effroyable aſpect d'vne fournaiſe ardente,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sous l’effroyable aspect d’une fournaise ardente,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l167">
+         <tuv xml:lang="FRM">
+            <seg>Et par ce rouge éclat le regard abusé,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et par ce rouge éclat le regard abusé,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l168">
+         <tuv xml:lang="FRM">
+            <seg>Iuge que l'Vniuers en eſt tout embrasé.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Juge que l’Univers en est tout embrasé.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l169">
+         <tuv xml:lang="FRM">
+            <seg>O Ciel, dit-il alors, je conçoy ton langage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>O Ciel, dit-il alors, je conçois ton langage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l170">
+         <tuv xml:lang="FRM">
+            <seg>Tu m'apprens le chemin d’euiter le ſeruage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tu m’apprends le chemin d’éviter le servage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l171">
+         <tuv xml:lang="FRM">
+            <seg>Pour affranchir ce Peuple, &amp; garder mon ſerment,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour affranchir ce Peuple, et garder mon serment,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l172">
+         <tuv xml:lang="FRM">
+            <seg>L'infaillible remede eſt le feu ſeulement.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’infaillible remède est le feu seulement.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l173">
+         <tuv xml:lang="FRM">
+            <seg>Recourons, recourons aux braſiers fauorables,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Recourons, recourons aux brasiers favorables,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l174">
+         <tuv xml:lang="FRM">
+            <seg>Rendons-nous, par la flamme, vn peu moins miſerables,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Rendons-nous, par la flamme, un peu moins misérables,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l175">
+         <tuv xml:lang="FRM">
+            <seg>Et puiſque tout nous manque en cette extremité,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et puisque tout nous manque en cette extrémité,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l176">
+         <tuv xml:lang="FRM">
+            <seg>Employons le feu meſme à ſauuer la Cité.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Employons le feu même à sauver la Cité.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l177">
+         <tuv xml:lang="FRM">
+            <seg>Il reſout ſa ruine, &amp; ſon ame oppreſſée</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il résout sa ruine, et son âme oppressée</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l178">
+         <tuv xml:lang="FRM">
+            <seg>Entretient dans ſon cœur cette horrible penſée,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Entretient dans son cœur cette horrible pensée,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l179">
+         <tuv xml:lang="FRM">
+            <seg>Le deſeſpoir l'anime, il marche en furieux,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le désespoir l’anime, il marche en furieux,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l180">
+         <tuv xml:lang="FRM">
+            <seg>Et fait luire vn flambeau dans chacun de ſes yeux.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et fait luire un flambeau dans chacun de ses yeux.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l181">
+         <tuv xml:lang="FRM">
+            <seg>Le ſein boüillant d'ardeur, &amp; le front plein d'audace,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le sein bouillant d’ardeur, et le front plein d’audace,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l182">
+         <tuv xml:lang="FRM">
+            <seg>Il s'auance à grands pas au milieu de la place,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il s’avance à grands pas au milieu de la place,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l183">
+         <tuv xml:lang="FRM">
+            <seg>Aſſemble autour de luy les confus habitans,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Assemble autour de lui les confus habitans,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l184">
+         <tuv xml:lang="FRM">
+            <seg>Et fait retentir l'air de ces mots éclatans.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et fait retentir l’air de ces mots éclatants.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l185">
+         <tuv xml:lang="FRM">
+            <seg>Amis, noſtre fortune eſt en fin deplorée,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Amis, notre fortune est enfin déplorée,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l186">
+         <tuv xml:lang="FRM">
+            <seg>De noſtre liberté la perte eſt aſſurée</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De notre liberté la perte est assurée</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l187">
+         <tuv xml:lang="FRM">
+            <seg>Le valeureux ſecours en campagne défait,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le valeureux secours en campagne défait,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l188">
+         <tuv xml:lang="FRM">
+            <seg>Traiſne, apres ſon malheur, ce neceſſaire effet.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Traine, après son malheur, ce nécessaire effet.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l189">
+         <tuv xml:lang="FRM">
+            <seg>Pourquoy vous deguiſer l'effroyable nouuelle,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pourquoi vous déguiser l’effroyable nouvelle,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l190">
+         <tuv xml:lang="FRM">
+            <seg>Si le Sort nous condanne à ſeruir le Rebelle,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Si le Sort nous condamne à servir le Rebelle,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l191">
+         <tuv xml:lang="FRM">
+            <seg>Si, pour ce cher rempart tant de mois defendu,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Si, pour ce cher rempart tant de mois défendu,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l192">
+         <tuv xml:lang="FRM">
+            <seg>Tout eſpoir de reſource eſt maintenant perdu?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tout espoir de ressource est maintenant perdu?</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l193">
+         <tuv xml:lang="FRM">
+            <seg>Pourrons-nous toutesfois porter noſtre courage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pourrons-nous toutefois porter notre courage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l194">
+         <tuv xml:lang="FRM">
+            <seg>A rendre à l'Eſtranger vn volontaire hommage?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Â rendre à l’Étranger un volontaire hommage?</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l195">
+         <tuv xml:lang="FRM">
+            <seg>Nous verra-t-on fléchir ſous ſon commandement?</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Nous verra-t-on fléchir sous son commandement?</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l196">
+         <tuv xml:lang="FRM">
+            <seg>Ah! non, mourons pluſtoſt que viure laſchement.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ah! non, mourons plutôt que vivre lâchement.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l197">
+         <tuv xml:lang="FRM">
+            <seg>La mort ſeule nous reſte, en ce point lamentable;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La mort seule nous reste, en ce point lamentable;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l198">
+         <tuv xml:lang="FRM">
+            <seg>Mais ce n'eſt pas vn mal, à qui vit miſerable;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais ce n’est pas un mal, à qui vit misérable;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l199">
+         <tuv xml:lang="FRM">
+            <seg>A l'Anglois comparée, elle eſt pleine d’appas;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>À l’Anglais comparée, elle est pleine d’appas;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l200">
+         <tuv xml:lang="FRM">
+            <seg>L'Anglois eſt aux François pire que le treſpas.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’Anglais est aux Français pire que le trépas.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l201">
+         <tuv xml:lang="FRM">
+            <seg>Voſtre foy qui pût ſeule arreſter à ſa victoire,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Votre foi qui put seule arrêter à sa victoire,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l202">
+         <tuv xml:lang="FRM">
+            <seg>Iamais ſans l'irriter ne s'offre à ſa memoire;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Jamais sans l’irriter ne s’offre à sa mémoire;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l203">
+         <tuv xml:lang="FRM">
+            <seg>Il ne peut ſans fureur penſer à vos efforts,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il ne peut sans fureur penser à vos efforts,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l204">
+         <tuv xml:lang="FRM">
+            <seg>Et ſur chacun de vous veut venger tous ſes morts.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et sur chacun de vous veut venger tous ses morts.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l205">
+         <tuv xml:lang="FRM">
+            <seg>Ce grand nombre de morts, &amp; parmy ce grand nombre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ce grand nombre de morts, et parmi ce grand nombre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l206">
+         <tuv xml:lang="FRM">
+            <seg>L'inhumain Salſbery, cette imperieuſe Ombre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’inhumain Salsbury, cette impérieuse Ombre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l207">
+         <tuv xml:lang="FRM">
+            <seg>Sollicitent Betford de les venger ſur vous,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sollicitent Bedford de les venger sur vous,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l208">
+         <tuv xml:lang="FRM">
+            <seg>Du ſang qu'ils ont verſé, ſous le poids de vos coups,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Du sang qu’ils ont versé, sous le poids de vos coups,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l209">
+         <tuv xml:lang="FRM">
+            <seg>Il vous accablera d'inſupportables chaiſnes,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il vous accablera d’insupportables chaînes,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l210">
+         <tuv xml:lang="FRM">
+            <seg>Il vous tourmentera de douloureuſes geſnes,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il vous tourmentera de douloureuses gênes,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l211">
+         <tuv xml:lang="FRM">
+            <seg>Et vous verrés par luy vos ſoldats deſarmés,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et vous verrez par lui vos soldats désarmés,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l212">
+         <tuv xml:lang="FRM">
+            <seg>Vos biens mis au pillage, &amp; vos toits enflammés.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vos biens mis au pillage, et vos toits enflammés.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l213">
+         <tuv xml:lang="FRM">
+            <seg>Vos yeux verront par luy deſchirer vos entrailles,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vos yeux verront par lui déchirer vos entrailles,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l214">
+         <tuv xml:lang="FRM">
+            <seg>Profaner vos autels, renuerſer vos murailles,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Profaner vos autels, renverser vos murailles,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l215">
+         <tuv xml:lang="FRM">
+            <seg>Enleuer vos enfans vers vn bord eſcarté,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Enlever vos enfants vers un bord écarté,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l216">
+         <tuv xml:lang="FRM">
+            <seg>Et de vos chaſtes lits ſoüiller la pureté.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et de vos chastes lits souiller la pureté.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l217">
+         <tuv xml:lang="FRM">
+            <seg>Vne fin magnanime, vn ſepulchre honnorable,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vne fin magnanime, un sépulcre honnorable,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l218">
+         <tuv xml:lang="FRM">
+            <seg>Eſt, à tant de rigueurs, ſans doute, preferable,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Est, à tant de rigueurs, sans doute, préférable,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l219">
+         <tuv xml:lang="FRM">
+            <seg>Sans doute les François qui ſont nés genereux,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sans doute les Français qui sont nés généreux,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l220">
+         <tuv xml:lang="FRM">
+            <seg>Mourant ſans l'eſprouuer, croiront mourir heureux.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mourant sans l’éprouver, croiront mourir heureux.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l221">
+         <tuv xml:lang="FRM">
+            <seg>S'il faut perdre le jour, de vous meſmes, ſans doute,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>S’il faut perdre le jour, de vous mêmes, sans doute,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l222">
+         <tuv xml:lang="FRM">
+            <seg>Vous prendrés du cercüeil la tenebreuſe route,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous prendrez du cercueil la ténébreuse route,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l223">
+         <tuv xml:lang="FRM">
+            <seg>Vous mourrés par vos mains, &amp; ne permettrés pas</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous mourrez par vos mains, et ne permettrez pas</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l224">
+         <tuv xml:lang="FRM">
+            <seg>Que Betford ait l'honneur de voſtre beau treſpas.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Que Bedford ait l’honneur de votre beau trépas.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l225">
+         <tuv xml:lang="FRM">
+            <seg>Dans les champs de la Mort, il n'eſt aſpre carriere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dans les champs de la Mort, il n’est âpre carrière,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l226">
+         <tuv xml:lang="FRM">
+            <seg>Où n'ayme mieux courir voſtre vertu guerriere;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Où n’aime mieux courir votre vertu guerrière;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l227">
+         <tuv xml:lang="FRM">
+            <seg>Sous terre, au fond des eaux, &amp; juſques dans les feux,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sous terre, au fond des eaux, et jusque dans les feux,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l228">
+         <tuv xml:lang="FRM">
+            <seg>Vous irés vous ſauuer du Barbare outrageux.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous irez-vous sauver du Barbare outrageux.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l229">
+         <tuv xml:lang="FRM">
+            <seg>Ouy, je lis ſur vos fronts, je deſcouure en vos ames,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Oui, je lis sur vos fronts, je découvre en vos âmes,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l230">
+         <tuv xml:lang="FRM">
+            <seg>Qu'il eſt plus craint de vous, que ne le ſont les flammes,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qu’il est plus craint de vous, que ne le sont les flammes,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l231">
+         <tuv xml:lang="FRM">
+            <seg>Et que rien de ſi dur ne ſe ſçauroit offrir,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et que rien de si dur ne se saurait offrir,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l232">
+         <tuv xml:lang="FRM">
+            <seg>Que pluſtoſt que ſes loix vous ne puiſſiés ſouffrir,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Que plutôt que ses lois vous ne puissiez souffrir,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l233">
+         <tuv xml:lang="FRM">
+            <seg>Donques d'vn ferme cœur, contre ſa violence,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Donc d’un ferme cœur, contre sa violence,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l234">
+         <tuv xml:lang="FRM">
+            <seg>De ces derniers remparts embraſſons la defenſe,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De ces derniers remparts embrassons la defense,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l235">
+         <tuv xml:lang="FRM">
+            <seg>Et ſi noſtre ennemy nous force à le quiter,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et si notre ennemi nous force à le quitter,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l236">
+         <tuv xml:lang="FRM">
+            <seg>Oſtons luy les premiers ce qu'il doit nous oſter.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ôtons lui les premiers ce qu’il doit nous ôter.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l237">
+         <tuv xml:lang="FRM">
+            <seg>S'il nous met en eſtat de ne le plus defendre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>S’il nous met en état de ne le plus défendre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l238">
+         <tuv xml:lang="FRM">
+            <seg>Rempliſſons tout de feu, reduiſons tout en cendre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Remplissons tout de feu, réduisons tout en cendre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l239">
+         <tuv xml:lang="FRM">
+            <seg>Contentons le Deſtin contre nous irrité,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Contentons le Destin contre nous irrité,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l240">
+         <tuv xml:lang="FRM">
+            <seg>Et ne ſuruiuons pas à noſtre liberté.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et ne survivons pas à notre liberté.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l241">
+         <tuv xml:lang="FRM">
+            <seg>Ce tranſport vehement, ce funeſte langage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ce transport véhément, ce funeste langage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l242">
+         <tuv xml:lang="FRM">
+            <seg>Excite en chacun d'eux vne ſubite rage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Excite en chacun d’eux une subite rage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l243">
+         <tuv xml:lang="FRM">
+            <seg>L'affreuſe ſeruitude eſtonne leurs eſprits,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’affreuse servitude étonne leurs esprits,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l244">
+         <tuv xml:lang="FRM">
+            <seg>Et fait que pour la mort ils n'ont que du meſpris.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et fait que pour la mort ils n’ont que du mépris.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l245">
+         <tuv xml:lang="FRM">
+            <seg>Vne illuſtre fureur s'empare des familles,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vne illustre fureur s’empare des familles,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l246">
+         <tuv xml:lang="FRM">
+            <seg>Les enfans les vieillards, les femmes &amp; les filles,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Les enfants les vieillards, les femmes et les filles,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l247">
+         <tuv xml:lang="FRM">
+            <seg>Tous ſuyuent de Dunois l'horrible mouuement,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tous suivent de Dunois l’horrible mouvement,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l248">
+         <tuv xml:lang="FRM">
+            <seg>Et de leurs chers remparts veulent l'embraſement.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et de leurs chers remparts veulent l’embrasement.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l249">
+         <tuv xml:lang="FRM">
+            <seg>Tel, ſur les champs ſalés, le courageux Pilote</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tel, sur les champs salés, le courageux Pilote</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l250">
+         <tuv xml:lang="FRM">
+            <seg>Preſſe de toutes parts d'vne puiſſante flotte,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Presse de toutes parts d’une puissante flotte,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l251">
+         <tuv xml:lang="FRM">
+            <seg>Sur le point d'eſtre pris, peut, à l'extremité,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sur le point d’être pris, peut, à l’extrémité,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l252">
+         <tuv xml:lang="FRM">
+            <seg>Choiſir pluſtoſt la mort que la captiuité.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Choisir plutôt la mort que la captivité.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l253">
+         <tuv xml:lang="FRM">
+            <seg>Il le propoſe aux ſiens, &amp; les y fait reſoudre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il le propose aux siens, et les y fait résoudre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l254">
+         <tuv xml:lang="FRM">
+            <seg>Sous le tillac conquis roule la noire poudre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sous le tillac conquis roule la noire poudre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l255">
+         <tuv xml:lang="FRM">
+            <seg>Et d'vn bras vigoureux y porte le flambeau,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et d’un bras vigoureux y porte le flambeau,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l256">
+         <tuv xml:lang="FRM">
+            <seg>Pour ſe faire de l'onde vn ſuperbe tombeau.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour se faire de l’onde un superbe tombeau.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l257">
+         <tuv xml:lang="FRM">
+            <seg>Le Prince confirmé dans ſon penſer tragique,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le Prince confirmé dans son penser tragique,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l258">
+         <tuv xml:lang="FRM">
+            <seg>Depite la Fortune à ſa valeur inique,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dépite la Fortune à sa valeur inique,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l259">
+         <tuv xml:lang="FRM">
+            <seg>Repouſſe des Anglois les violens aſſauts,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Repousse des Anglais les violents assauts,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l260">
+         <tuv xml:lang="FRM">
+            <seg>Et de leur propre ſang arroſe leurs trauaux.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et de leur propre sang arrose leurs travaux.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l261">
+         <tuv xml:lang="FRM">
+            <seg>Betford s'en eſmerueille, &amp; ne ſçauroit comprendre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Bedford s’en émerveille, et ne saurait comprendre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l262">
+         <tuv xml:lang="FRM">
+            <seg>Qui fait que l'aſſiegé s'oſe encore defendre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui fait que l’assiégé s’ose encore défendre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l263">
+         <tuv xml:lang="FRM">
+            <seg>Qui fait qu'ayant perdu tout eſpoir de ſecours,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui fait qu’ayant perdu tout espoir de secours,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l264">
+         <tuv xml:lang="FRM">
+            <seg>Sans eſperance meſme, il reſiſte touſiours.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sans espérance même, il résiste toujours.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l265">
+         <tuv xml:lang="FRM">
+            <seg>Mais Charles, à l'auis du ſucces deplorable,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais Charles, à l’avis du succès déplorable,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l266">
+         <tuv xml:lang="FRM">
+            <seg>Qui rendoit d’Orleans la perte ineuitable,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui rendait d’Orléans la perte inévitable,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l267">
+         <tuv xml:lang="FRM">
+            <seg>Par vn ſi rude choq a l'eſprit terracé,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par un si rude choc à l’esprit terrassé,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l268">
+         <tuv xml:lang="FRM">
+            <seg>Et d'vn mont de douleur le courage oppreſſé.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et d’un mont de douleur le courage oppressé.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l269">
+         <tuv xml:lang="FRM">
+            <seg>Sur quoy que ſa raiſon puiſſe tourner la veüe,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sur quoi que sa raison puisse tourner la vue,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l270">
+         <tuv xml:lang="FRM">
+            <seg>Pour luy, de cet abyſme il ne voit point d'iſſüe;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour lui, de cet abîme il ne voit point d’issue;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l271">
+         <tuv xml:lang="FRM">
+            <seg>Au bas du precipice il ſe voit arriué,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Au bas du précipice il se voit arrivé,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l272">
+         <tuv xml:lang="FRM">
+            <seg>Et, ſans retour en fin, croit ſon regne acheué.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et, sans retour enfin, croit son règne achevé.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l273">
+         <tuv xml:lang="FRM">
+            <seg>Il conſulte ſes Chefs ſur la triſte desfaite,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il consulte ses Chefs sur la triste défaite,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l274">
+         <tuv xml:lang="FRM">
+            <seg>Et trouue en ce malheur leur prudence müete,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et trouve en ce malheur leur prudence muette,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l275">
+         <tuv xml:lang="FRM">
+            <seg>Müet il les regarde, &amp; d'vn œil eſtonné</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Muet il les regarde, et d’un œil étonné</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l276">
+         <tuv xml:lang="FRM">
+            <seg>Se voit par leur ſilence à perir condanné.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Se voit par leur silence à perir condamné.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l277">
+         <tuv xml:lang="FRM">
+            <seg>De ſurpriſe &amp; d'horreur il a l'ame interdite,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De surprise et d’horreur il a l’âme interdite,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l278">
+         <tuv xml:lang="FRM">
+            <seg>Le chagrin le deuore, &amp; le trouble l'agite,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le chagrin le dévore, et le trouble l’agite,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l279">
+         <tuv xml:lang="FRM">
+            <seg>Son deſaſtre l'effraye, &amp; dans ce point fatal,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Son désastre l’effraie, et dans ce point fatal,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l280">
+         <tuv xml:lang="FRM">
+            <seg>Il contemple la mort, comme ſon moindre mal.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il contemple la mort, comme son moindre mal.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l281">
+         <tuv xml:lang="FRM">
+            <seg>En cet eſtat confus ſon Ange tutelaire</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>En cet état confus son Ange tutélaire</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l282">
+         <tuv xml:lang="FRM">
+            <seg>D'vn celeſte rayon ſes tenebres éclaire,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>D’un céleste rayon ses ténèbres éclaire,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l283">
+         <tuv xml:lang="FRM">
+            <seg>Et preſente à ſes yeux le Roy de l'Vniuers,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et présente à ses yeux le Roi de l’Univers,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l284">
+         <tuv xml:lang="FRM">
+            <seg>Qui tient aux affligés les bras touſiours ouuerts.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui tient aux affligés les bras toujours ouverts.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l285">
+         <tuv xml:lang="FRM">
+            <seg>Sous Chinon la Vienne humecte, en ſon riuage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sous Chinon la Vienne humecte, en son rivage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l286">
+         <tuv xml:lang="FRM">
+            <seg>Le pied vert &amp; mouſſu d'vn deuot Hermitage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le pied vert et moussu d’un dévot Hermitage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l287">
+         <tuv xml:lang="FRM">
+            <seg>Où le Dieu Tout puiſſant auec zele adoré,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Où le Dieu Tout puissant avec zèle adoré,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l288">
+         <tuv xml:lang="FRM">
+            <seg>Ne fut jamais d'aucun vainement imploré.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ne fut jamais d’aucun vainement imploré.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l289">
+         <tuv xml:lang="FRM">
+            <seg>Mille lampes d’argent, mille vaſes antiques</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mille lampes d’argent, mille vases antiques</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l290">
+         <tuv xml:lang="FRM">
+            <seg>Enrichiſſent ſa voute, &amp; parent ſes portiques,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Enrichissent sa voûte, et parent ses portiques,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l291">
+         <tuv xml:lang="FRM">
+            <seg>Vœux, depuis plus d'vn ſiecle, à l'Eternel rendus,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vœux, depuis plus d’un siècle, à l’Éternel rendus,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l292">
+         <tuv xml:lang="FRM">
+            <seg>Par ceux que des perils ſa grace a defendus.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par ceux que des périls sa grâce a défendus.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l293">
+         <tuv xml:lang="FRM">
+            <seg>Charles remply de Dieu, pour aller à ce Temple,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Charles rempli de Dieu, pour aller à ce Temple,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l294">
+         <tuv xml:lang="FRM">
+            <seg>Quite du ſacré bois la route la plus ample,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Quitte du sacré bois la route la plus ample,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l295">
+         <tuv xml:lang="FRM">
+            <seg>Couppe, par vn ſentier, dans le taillis obſcur,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Coupe, par un sentier, dans le taillis obscur,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l296">
+         <tuv xml:lang="FRM">
+            <seg>Et deſcouure de loin le ſolitaire mur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et découvre de loin le solitaire mur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l297">
+         <tuv xml:lang="FRM">
+            <seg>Il prend alors ſon cours, vers la ſainte cauerne,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il prend alors son cours, vers la sainte caverne,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l298">
+         <tuv xml:lang="FRM">
+            <seg>Sur ſon ruſtique ſueil en tremblant ſe proſterne,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sur son rustique seuil en tremblant se prosterne,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l299">
+         <tuv xml:lang="FRM">
+            <seg>Laiſſe parler vn temps ſes pleurs &amp; ſes ſanglots,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Laisse parler un temps ses pleurs et ses sanglots,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l300">
+         <tuv xml:lang="FRM">
+            <seg>Puis y meſle ſa voix, &amp; prononce ces mots.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Puis y mêle sa voix, et prononce ces mots.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l301">
+         <tuv xml:lang="FRM">
+            <seg>Monarque Souuerain des hommes &amp; des Anges,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Monarque Souverain des hommes et des Anges,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l302">
+         <tuv xml:lang="FRM">
+            <seg>Dont la Terre &amp; les Cieux celebrent les loüanges,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dont la Terre et les Cieux célèbrent les louanges,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l303">
+         <tuv xml:lang="FRM">
+            <seg>Ineſbranlable appuy des fragiles mortels,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Inébranlable appui des fragiles mortels,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l304">
+         <tuv xml:lang="FRM">
+            <seg>Qui d'vn fidelle culte encenſent vos autels.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui d’un fidèle culte encensent vos autels.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l305">
+         <tuv xml:lang="FRM">
+            <seg>Ie ſçay que des François les tranſports indontables</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ie sais que des Français les transports indomptables</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l306">
+         <tuv xml:lang="FRM">
+            <seg>Leur ont ſoüillé le cœur d'offenſes execrables,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Leur ont souillé le cœur d’offenses exécrables,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l307">
+         <tuv xml:lang="FRM">
+            <seg>Et que tous enyurés d'vn ſemblable poiſon,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et que tous enivrés d’un semblable poison,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l308">
+         <tuv xml:lang="FRM">
+            <seg>Aueque l'innocence ont perdu la raiſon;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Avec l’innocence ont perdu la raison;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l309">
+         <tuv xml:lang="FRM">
+            <seg>Aux pecheurs toutesfois voſtre grace eſt propice,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Aux pécheurs toutefois votre grâce est propice,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l310">
+         <tuv xml:lang="FRM">
+            <seg>Pour eux voſtre Bonté combat voſtre Iuſtice,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour eux votre Bonté combat votre Justice,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l311">
+         <tuv xml:lang="FRM">
+            <seg>Les François contre vous ont cent crimes commis,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Les Français contre vous ont cent crimes commis,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l312">
+         <tuv xml:lang="FRM">
+            <seg>Mais ils ſont vos Enfans, comme vos ennemis.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais ils sont vos Enfants, comme vos ennemis.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l313">
+         <tuv xml:lang="FRM">
+            <seg>C'eſt cette Nation qui de ſaintes armées</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>C’est cette Nation qui de saintes armées</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l314">
+         <tuv xml:lang="FRM">
+            <seg>A couuert tant de fois les plaines Idumées,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>À couvert tant de fois les plaines Idumées,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l315">
+         <tuv xml:lang="FRM">
+            <seg>Et c'eſt ce Peuple éleu, qui doit à l'auenir,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et c’est ce Peuple élu, qui doit à l’avenir,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l316">
+         <tuv xml:lang="FRM">
+            <seg>Sous voſtre aymable joug tous les Peuples vnir.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sous votre aimable joug tous les Peuples unir.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l317">
+         <tuv xml:lang="FRM">
+            <seg>Seigneur, ſoyés humain à la foibleſſe humaine,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Seigneur, soyez humain à la faiblesse humaine,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l318">
+         <tuv xml:lang="FRM">
+            <seg>Leur forfait en luy-meſme à rencontré ſa peine;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Leur forfait en lui-même à rencontré sa peine;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l319">
+         <tuv xml:lang="FRM">
+            <seg>Ne leur ordonnés point de plus aſpre tourment,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ne leur ordonnez point de plus âpre tourment,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l320">
+         <tuv xml:lang="FRM">
+            <seg>Il les punit aſſés ſans autre chaſtiment.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il les punit assez sans autre châtiment.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l321">
+         <tuv xml:lang="FRM">
+            <seg>D'inſupportables maux vne ſuite enchaiſnée,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>D’insupportables maux une suite enchaînée,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l322">
+         <tuv xml:lang="FRM">
+            <seg>Sur le bord du ſepulchre à mis leur deſtinée;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sur le bord du sépulcre à mis leur destinée;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l323">
+         <tuv xml:lang="FRM">
+            <seg>Ils ont desja ſouffert les douleurs du treſpas;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ils ont déjà souffert les douleurs du trépas;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l324">
+         <tuv xml:lang="FRM">
+            <seg>S'ils meurent, ils mourront, mais ne ſouffriront pas.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>S’ils meurent, ils mourront, mais ne souffriront pas.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l325">
+         <tuv xml:lang="FRM">
+            <seg>Grand Dieu, ſi leur courage &amp; leur vertu paſſée</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Grand Dieu, si leur courage et leur vertu passée</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l326">
+         <tuv xml:lang="FRM">
+            <seg>Ont autresfois ſi loin voſtre gloire pouſſée,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ont autrefois si loin votre gloire poussée,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l327">
+         <tuv xml:lang="FRM">
+            <seg>Et ſi, par eux encor, vous deués quelque jour,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et si, par eux encor, vous devez quelque jour,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l328">
+         <tuv xml:lang="FRM">
+            <seg>Aſſujetir le Monde aux loix de voſtre amour;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Assujettir le Monde aux lois de votre amour;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l329">
+         <tuv xml:lang="FRM">
+            <seg>Apres tant de malheur, apres tant de ſouffrance,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Après tant de malheur, après tant de souffrance,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l330">
+         <tuv xml:lang="FRM">
+            <seg>Faites leur deſormais ſentir voſtre clemence,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Faites leur désormais sentir votre clémence,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l331">
+         <tuv xml:lang="FRM">
+            <seg>Calmés en leur faueur voſtre juſte courroux,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Calmez en leur faveur votre juste courroux,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l332">
+         <tuv xml:lang="FRM">
+            <seg>Et moderés pour eux la rigueur de vos coups.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et moderez pour eux la rigueur de vos coups.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l333">
+         <tuv xml:lang="FRM">
+            <seg>Accordés leur la vie, &amp; bornés leur ſupplice,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Accordez leur la vie, et bornez leur supplice,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l334">
+         <tuv xml:lang="FRM">
+            <seg>Où s'il faut d'vne mort payer voſtre Iuſtice,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Où s’il faut d’une mort payer votre Justice,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l335">
+         <tuv xml:lang="FRM">
+            <seg>Pour les en deliurer, je la veux bien ſouffrir,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour les en délivrer, je la veux bien souffrir,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l336">
+         <tuv xml:lang="FRM">
+            <seg>Et viens à voſtre foudre en leur place m'offrir.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et viens à votre foudre en leur place m’offrir.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l337">
+         <tuv xml:lang="FRM">
+            <seg>Alors du Roy des Roys la venerable image</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Alors du Roi des Rois la vénérable image</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l338">
+         <tuv xml:lang="FRM">
+            <seg>Fit d'vn ſoudain éclair reſplendir ſon viſage;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Fit d’un soudain éclair resplendir son visage;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l339">
+         <tuv xml:lang="FRM">
+            <seg>Charles baiſe la terre à l'aſpect de ces feux,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Charles baise la terre à l’aspect de ces feux,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l340">
+         <tuv xml:lang="FRM">
+            <seg>Renforce ſa priere, &amp; redouble ſes vœux.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Renforce sa prière, et redouble ses vœux.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l341">
+         <tuv xml:lang="FRM">
+            <seg>Loin des murs flamboyans, qui renferment le Monde,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Loin des murs flamboyants, qui renferment le Monde,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l342">
+         <tuv xml:lang="FRM">
+            <seg>Dans le centre caché d'vne clarté profonde,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dans le centre caché d’une clarté profonde,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l343">
+         <tuv xml:lang="FRM">
+            <seg>Dieu repoſe en luy-meſme, &amp; veſtu de ſplendeur</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dieu repose en lui-même, et vêtu de splendeur</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l344">
+         <tuv xml:lang="FRM">
+            <seg>Sans bornes eſt remply de ſa propre grandeur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sans bornes est rempli de sa propre grandeur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l345">
+         <tuv xml:lang="FRM">
+            <seg>Vne triple Perſonne en vne ſeule Eſſence,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Une triple Personne en une seule Essence,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l346">
+         <tuv xml:lang="FRM">
+            <seg>Le ſupreme Pouuoir, la ſupreme Science,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le suprême Pouvoir, la suprême Science,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l347">
+         <tuv xml:lang="FRM">
+            <seg>Et le ſuprême Amour vnis en Trinité,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et le suprême Amour unis en Trinité,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l348">
+         <tuv xml:lang="FRM">
+            <seg>Dans ſon regne eternel forment ſa Majeſté.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dans son règne éternel forment sa Majesté.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l349">
+         <tuv xml:lang="FRM">
+            <seg>Vn volant bataillon de Miniſtres fidelles</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Un volant bataillon de Ministres fidèles</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l350">
+         <tuv xml:lang="FRM">
+            <seg>Deuant l'Eſtre infiny ſouſtenu ſur ſes ailes,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Devant l’Être infini soutenu sur ses ailes,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l351">
+         <tuv xml:lang="FRM">
+            <seg>Dans vn juſte concert de trois fois trois degrés,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dans un juste concert de trois fois trois degrés,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l352">
+         <tuv xml:lang="FRM">
+            <seg>Luy chante inceſſamment des cantiques ſacrés.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Lui chante incessamment des cantiques sacrés.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l353">
+         <tuv xml:lang="FRM">
+            <seg>Sous ſon throſne eſtoillé, Patriarches, Prophetes,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sous son trône étoilé, Patriarches, Prophètes,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l354">
+         <tuv xml:lang="FRM">
+            <seg>Apoſtres, Confeſſeurs, Vierges, Anachoretes,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Apôtres, Confesseurs, Vierges, Anachorètes,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l355">
+         <tuv xml:lang="FRM">
+            <seg>Et ceux qui par leur ſang ont cimenté la foy,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et ceux qui par leur sang ont cimenté la foi,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l356">
+         <tuv xml:lang="FRM">
+            <seg>L'adorent à genoux, ſaint Peuple du ſaint Roy.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’adorent à genoux, saint Peuple du saint Roi.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l357">
+         <tuv xml:lang="FRM">
+            <seg>A ſa gauche &amp; debout, la Vierge immaculée,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>À sa gauche et debout, la Vierge immaculée,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l358">
+         <tuv xml:lang="FRM">
+            <seg>Qui, de grace remplie, &amp; de vertu comblée,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui, de grâce remplie, et de vertu comblée,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l359">
+         <tuv xml:lang="FRM">
+            <seg>Conceut le Redempteur dans ſon pudique flanc,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Conçut le Rédempteur dans son pudique flanc,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l360">
+         <tuv xml:lang="FRM">
+            <seg>Entre tous les Eleus obtient le premier rang.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Entre tous les Élus obtient le premier rang.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l361">
+         <tuv xml:lang="FRM">
+            <seg>Au meſme tribunal, où tout Bon il reſide,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Au même tribunal, où tout Bon il réside,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l362">
+         <tuv xml:lang="FRM">
+            <seg>La ſage Prouidence à l'Vniuers preſide,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La sage Providence à l’Univers préside,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l363">
+         <tuv xml:lang="FRM">
+            <seg>Et plus bas, à ſes pieds, l'inflexible Deſtin</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et plus bas, à ses pieds, l’inflexible Destin</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l364">
+         <tuv xml:lang="FRM">
+            <seg>Recüeille les decrets du Iugement diuin.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Recueille les décrets du Jugement divin.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l365">
+         <tuv xml:lang="FRM">
+            <seg>De ſon Eſtre incrée tout eſt la creature,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De son Être incréé tout est la créature,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l366">
+         <tuv xml:lang="FRM">
+            <seg>Il voit rouler ſous luy l'ordre de la Nature,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il voit rouler sous lui l’ordre de la Nature,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l367">
+         <tuv xml:lang="FRM">
+            <seg>Des Elemens diuers eſt l'vnique lien,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Des Éléments divers est l’unique lien,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l368">
+         <tuv xml:lang="FRM">
+            <seg>Le Pere de la Vie &amp; la ſource du Bien.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le Père de la Vie et la source du Bien.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l369">
+         <tuv xml:lang="FRM">
+            <seg>Tranquille poſſeſſeur de ſa beatitude,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tranquille possesseur de sa béatitude,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l370">
+         <tuv xml:lang="FRM">
+            <seg>Il n'a le ſein trouble d’aucune inquietude,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il n’a le sein trouble d’aucune inquiétude,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l371">
+         <tuv xml:lang="FRM">
+            <seg>Et voyant tout ſujet aux loix du changement,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et voyant tout sujet aux lois du changement,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l372">
+         <tuv xml:lang="FRM">
+            <seg>Seul, par luy-meſme en ſoy, dure eternellement.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Seul, par lui-même en soi, dure éternellement.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l373">
+         <tuv xml:lang="FRM">
+            <seg>Ce qu'il veut vne fois eſt vne loy fatale,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ce qu’il veut une fois est une loi fatale,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l374">
+         <tuv xml:lang="FRM">
+            <seg>Qui touſiours, malgré tout, à ſoy-meſme eſt egale,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui toujours, malgré tout, à soi-même est égale,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l375">
+         <tuv xml:lang="FRM">
+            <seg>Sans que rien ſoit ſi fort, qu'il le puiſſe obliger</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sans que rien soit si fort, qu’il le puisse obliger</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l376">
+         <tuv xml:lang="FRM">
+            <seg>A ſe laiſſer jamais, ni fléchir, ni changer.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>À se laisser jamais, ni fléchir, ni changer.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l377">
+         <tuv xml:lang="FRM">
+            <seg>Du pecheur repenty la plainte lamentable,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Du pécheur repenti la plainte lamentable,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l378">
+         <tuv xml:lang="FRM">
+            <seg>Seule peut eſbranler ſon vouloir immuable,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Seule peut ébranler son vouloir immuable,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l379">
+         <tuv xml:lang="FRM">
+            <seg>Et forçant ſa juſtice, &amp; ſa ſeuerité,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et forçant sa justice, et sa sévérité,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l380">
+         <tuv xml:lang="FRM">
+            <seg>Arracher le tonnerre à ſon bras irrité.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Arracher le tonnerre à son bras irrité.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l381">
+         <tuv xml:lang="FRM">
+            <seg>Du Prince humilié la feruente priere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Du Prince humilié la fervente prière,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l382">
+         <tuv xml:lang="FRM">
+            <seg>Penetra juſqu'au fond l'abyſme de lumiere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pénétra jusqu’au fond l’abîme de lumière,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l383">
+         <tuv xml:lang="FRM">
+            <seg>Emut Dieu dans ſon throſne, &amp; pleine de vigueur,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Émut Dieu dans son trône, et pleine de vigueur,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l384">
+         <tuv xml:lang="FRM">
+            <seg>Pour le bien des François ammollit ſa rigueur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour le bien des Français amollit sa rigueur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l385">
+         <tuv xml:lang="FRM">
+            <seg>La Vierge Mere alors, la celeſte Marie,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La Vierge Mère alors, la céleste Marie,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l386">
+         <tuv xml:lang="FRM">
+            <seg>D'vn mal ſi deplorable ayant l'ame atendrie,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>D’un mal si déplorable ayant l’âme attendrie,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l387">
+         <tuv xml:lang="FRM">
+            <seg>Conjure l'Eternel de finir leurs malheurs,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Conjure l’Éternel de finir leurs malheurs,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l388">
+         <tuv xml:lang="FRM">
+            <seg>Et parle auec la voix, les ſouſpirs &amp; les pleurs.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et parle avec la voix, les soupirs et les pleurs.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l389">
+         <tuv xml:lang="FRM">
+            <seg>Contemple, luy dit-elle, ô Monarque ſupreme,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Contemple, lui dit-elle, ô Monarque suprême,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l390">
+         <tuv xml:lang="FRM">
+            <seg>Tes François accablés ſous leur miſere extreme,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tes Français accablés sous leur misère extrême,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l391">
+         <tuv xml:lang="FRM">
+            <seg>Et te ſatisfaiſant des maux qu'ils ont ſoufferts,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et te satisfaisant des maux qu’ils ont soufferts,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l392">
+         <tuv xml:lang="FRM">
+            <seg>Vueille les garantir du treſpas &amp; des fers.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Veuille les garantir du trépas et des fers.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l393">
+         <tuv xml:lang="FRM">
+            <seg>Il n'eſt point de mortel, qui d'vn ſemblable zele,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il n’est point de mortel, qui d’un semblable zèle,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l394">
+         <tuv xml:lang="FRM">
+            <seg>Ait jamais confeſſé ton Eſſence immortelle,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ait jamais confessé ton Essence immortelle,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l395">
+         <tuv xml:lang="FRM">
+            <seg>Ni qui d'vn ſentiment ſi plein d’humilité,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ni qui d’un sentiment si plein d’humilité,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l396">
+         <tuv xml:lang="FRM">
+            <seg>Ait rendu ſon hommage à ta Diuinité.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ait rendu son hommage à ta Divinité.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l397">
+         <tuv xml:lang="FRM">
+            <seg>Qu'il ſerue à ces pecheurs, pour appaiſer ton ire,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qu’il serve à ces pécheurs, pour apaiser ton ire,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l398">
+         <tuv xml:lang="FRM">
+            <seg>D'auoir en l'Vniuers fait fleurir ton Empire,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>D’avoir en l’Univers fait fleurir ton Empire,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l399">
+         <tuv xml:lang="FRM">
+            <seg>Et d'vn cœur en ta foy pleinement confirmé,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et d’un cœur en ta foi pleinement confirmé,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l400">
+         <tuv xml:lang="FRM">
+            <seg>Touſiours dans leurs beſoins ton pouuoir reclamé.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Toujours dans leurs besoins ton pouvoir reclamé.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l401">
+         <tuv xml:lang="FRM">
+            <seg>Dieu reſpond à la Vierge. Au ſon de ſes paroles,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dieu répond à la Vierge. Au son de ses paroles,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l402">
+         <tuv xml:lang="FRM">
+            <seg>La machine des Cieux chancelle ſur ſes poles,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La machine des Cieux chancelle sur ses pôles,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l403">
+         <tuv xml:lang="FRM">
+            <seg>Le feu brille d’éclairs, l'air de foudres fremit,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le feu brille d’éclairs, l’air de foudres frémit,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l404">
+         <tuv xml:lang="FRM">
+            <seg>La mer eſt agitée, &amp; la terre gemit.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La mer est agitée, et la terre gémit.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l405">
+         <tuv xml:lang="FRM">
+            <seg>Soit, dit le Tout puiſſant, &amp; ceſſe ma colere;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Soit, dit le Tout puissant, et cesse ma colère;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l406">
+         <tuv xml:lang="FRM">
+            <seg>Que le François pour luy m'eſprouue moins ſeuere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Que le Français pour lui m’éprouve moins sévère,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l407">
+         <tuv xml:lang="FRM">
+            <seg>Qu'à la rigueur en fin ſuccede la douceur;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qu’à la rigueur en fin succède la douceur;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l408">
+         <tuv xml:lang="FRM">
+            <seg>I'accorde ſon ſalut à ſon Interceſſeur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>J’accorde son salut à son Intercesseur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l409">
+         <tuv xml:lang="FRM">
+            <seg>Ie le veux de ma main tirer du precipice,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je le veux de ma main tirer du précipice,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l410">
+         <tuv xml:lang="FRM">
+            <seg>Ie veux que de la mort mon bras ſeul l'affranchiſſe,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je veux que de la mort mon bras seul l’affranchisse,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l411">
+         <tuv xml:lang="FRM">
+            <seg>Et que deſeſperé de tout ſecours humain,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et que désespéré de tout secours humain,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l412">
+         <tuv xml:lang="FRM">
+            <seg>En la main d'vne Fille il connoiſſe ma main.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>En la main d’une Fille il connaisse ma main.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l413">
+         <tuv xml:lang="FRM">
+            <seg>Pour honnorer ton ſexe, &amp; releuer ſa gloire,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour honnorer ton sexe, et relever sa gloire,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l414">
+         <tuv xml:lang="FRM">
+            <seg>Ie veux qu'en ce combat il gaigne la victoire,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je veux qu’en ce combat il gagne la victoire,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l415">
+         <tuv xml:lang="FRM">
+            <seg>Que du ſexe robuſte il ſoit le ferme appuy,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Que du sexe robuste il soit le ferme appui,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l416">
+         <tuv xml:lang="FRM">
+            <seg>Et qu'en le ſouſtenant il triomphe pour luy.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et qu’en le soutenant il triomphe pour lui.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l417">
+         <tuv xml:lang="FRM">
+            <seg>Ie veux que des Anglois la longue tyrannie,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je veux que des Anglais la longue tyrannie,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l418">
+         <tuv xml:lang="FRM">
+            <seg>Par ce foible inſtrument, ſoit à la fin punie,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par ce faible instrument, soit à la fin punie,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l419">
+         <tuv xml:lang="FRM">
+            <seg>Et que par ſes efforts leur orgueil abbatu,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et que par ses efforts leur orgueil abattu,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l420">
+         <tuv xml:lang="FRM">
+            <seg>Face dans le bas Monde éclater ma vertu.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Face dans le bas Monde éclater ma vertu.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l421">
+         <tuv xml:lang="FRM">
+            <seg>La bien-heureuſe Cour, dans vn profond ſilence,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La bienheureuse Cour, dans un profond silence,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l422">
+         <tuv xml:lang="FRM">
+            <seg>Entend du Roy des Roys la ſacrée ordonnance,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Entend du Roi des Rois la sacrée ordonnance,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l423">
+         <tuv xml:lang="FRM">
+            <seg>Puis, d'vn ton de tranſport &amp; d'applaudiſſement,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Puis, d’un ton de transport et d’applaudissement,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l424">
+         <tuv xml:lang="FRM">
+            <seg>Benit à haute voix le diuin jugement.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Bénit à haute voix le divin jugement.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l425">
+         <tuv xml:lang="FRM">
+            <seg>Pour accomplir ſon Oeuure, auſſi-toſt il commande</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour accomplir son Œuvre, aussitôt il commande</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l426">
+         <tuv xml:lang="FRM">
+            <seg>A l'vn des Meſſagers de l'Angelique bande,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>À l’un des Messagers de l’Angélique bande,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l427">
+         <tuv xml:lang="FRM">
+            <seg>Qu'il aille vers l'Ardenne, &amp; trouue dans ſon bois</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qu’il aille vers l’Ardenne, et trouve dans son bois</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l428">
+         <tuv xml:lang="FRM">
+            <seg>La Fille deſtinée à ſauuer les François.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La Fille destinée à sauver les Français.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l429">
+         <tuv xml:lang="FRM">
+            <seg>Que, par les traits ardens d'vn celeſte langage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Que, par les traits ardents d’un céleste langage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l430">
+         <tuv xml:lang="FRM">
+            <seg>Il allume en ſon cœur l'heroique courage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il allume en son cœur l’héroïque courage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l431">
+         <tuv xml:lang="FRM">
+            <seg>Qu'il diſpoſe ſon bras aux grandes actions,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qu’il dispose son bras aux grandes actions,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l432">
+         <tuv xml:lang="FRM">
+            <seg>Et chaſſe de ſon ſein les baſſes paſſions.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et chasse de son sein les basses passions.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l433">
+         <tuv xml:lang="FRM">
+            <seg>Sur les confins douteux de France &amp; de Lorraine,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sur les confins douteux de France et de Lorraine,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l434">
+         <tuv xml:lang="FRM">
+            <seg>Vne eſpaiſſe foreſt s'auance dans la plaine,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vne épaisse forêt s’avance dans la plaine,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l435">
+         <tuv xml:lang="FRM">
+            <seg>Ou des arbres chenus les troncs deſmeſurés</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ou des arbres chenus les troncs démesurés</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l436">
+         <tuv xml:lang="FRM">
+            <seg>Sont, malgré mille hyuers, par le Temps reuerés.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sont, malgré mille hivers, par le Temps révérés.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l437">
+         <tuv xml:lang="FRM">
+            <seg>Sous leur branchage courbe, &amp; leur feüille touffüe,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sous leur branchage courbe, et leur feuille touffue,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l438">
+         <tuv xml:lang="FRM">
+            <seg>L'or des rayons du jour ne frappe point la veüe,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’or des rayons du jour ne frappe point la vue,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l439">
+         <tuv xml:lang="FRM">
+            <seg>Et le brillant Soleil, quand plus fort il reluit,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et le brillant Soleil, quand plus fort il reluit,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l440">
+         <tuv xml:lang="FRM">
+            <seg>N'en ſçait point eſcarter les ombres de la nuit.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>N’en sait point écarter les ombres de la nuit.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l441">
+         <tuv xml:lang="FRM">
+            <seg>Là domine la Paix, là le Repos habite,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Là domine la Paix, là le Repos habite,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l442">
+         <tuv xml:lang="FRM">
+            <seg>Là, ni meute, ni trompe, aucun bruit ne ſuſcite,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Là, ni meute, ni trompe, aucun bruit ne suscite,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l443">
+         <tuv xml:lang="FRM">
+            <seg>Là, les rampans ruiſſeaux coulent ſans murmurer,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Là, les rampants ruisseaux coulent sans murmurer,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l444">
+         <tuv xml:lang="FRM">
+            <seg>Et là le plus doux vent n'oſeroit ſouſpirer.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et là le plus doux vent n’oserait soupirer.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l445">
+         <tuv xml:lang="FRM">
+            <seg>A l'abord de ce bois, d'vne ſoudaine crainte,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>À l’abord de ce bois, d’une soudaine crainte,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l446">
+         <tuv xml:lang="FRM">
+            <seg>Les errans voyageurs ſentent leur ame atteinte,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Les errants voyageurs sentent leur âme atteinte,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l447">
+         <tuv xml:lang="FRM">
+            <seg>Et cent fantoſmes vains à tous coups ſe formant,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et cent fantômes vains à tous coups se formant,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l448">
+         <tuv xml:lang="FRM">
+            <seg>Paſſent ſes noirs ſentiers auec fremiſſement.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Passent ses noirs sentiers avec frémissement.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l449">
+         <tuv xml:lang="FRM">
+            <seg>En cet affreux ſejour, vne modeſte Fille,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>En cet affreux séjour, une modeste Fille,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l450">
+         <tuv xml:lang="FRM">
+            <seg>Lhonneur de ſon pays, &amp; l'heur de ſa famille,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L'honneur de son pays, et l’heur de sa famille,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l451">
+         <tuv xml:lang="FRM">
+            <seg>Sous le tranquille abry des ombrages couuerts,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sous le tranquille abri des ombrages couverts,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l452">
+         <tuv xml:lang="FRM">
+            <seg>Adore inceſſamment l'Autheur de l'Vniuers.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Adore incessamment l’Auteur de l’Univers.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l453">
+         <tuv xml:lang="FRM">
+            <seg>Vn trouppeau de brebis, ainſi qu'elle innocentes,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Un trouppeau de brebis, ainsi qu’elle innocentes,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l454">
+         <tuv xml:lang="FRM">
+            <seg>Occupe de ſes ans les forces impuiſſantes,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Occupe de ses ans les forces impuissantes,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l455">
+         <tuv xml:lang="FRM">
+            <seg>Dans ce ſimple exercice elle regne en ces lieux,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dans ce simple exercice elle règne en ces lieux,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l456">
+         <tuv xml:lang="FRM">
+            <seg>Mais ſon cœur a pour but de regner dans les Cieux.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais son cœur a pour but de régner dans les Cieux.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l457">
+         <tuv xml:lang="FRM">
+            <seg>La grandeur du Tres-haut eſt ſon objet vnique,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La grandeur du Très-haut est son objet unique,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l458">
+         <tuv xml:lang="FRM">
+            <seg>Elle en repaiſt le feu de ſon amour pudique,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Elle en repait le feu de son amour pudique,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l459">
+         <tuv xml:lang="FRM">
+            <seg>Et, par les vifs elans de ſa deuote ardeur,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et, par les vifs élans de sa dévote ardeur,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l460">
+         <tuv xml:lang="FRM">
+            <seg>Monte juſqu'à ſa gloire, &amp; ſouſtient ſa ſplendeur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Monte jusqu’à sa gloire, et soutient sa splendeur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l461">
+         <tuv xml:lang="FRM">
+            <seg>Sur le Lion bruſlant l'Aſtre de la lumiere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sur le Lion brûlant l’Astre de la lumière,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l462">
+         <tuv xml:lang="FRM">
+            <seg>Marchoit auec lenteur dans ſa longue carriere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Marchait avec lenteur dans sa longue carrière,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l463">
+         <tuv xml:lang="FRM">
+            <seg>Et racourciſſant l'ombre en ralongeant le jour,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et racourcissant l’ombre en ralongeant le jour,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l464">
+         <tuv xml:lang="FRM">
+            <seg>Eſclairoit aux mortels du plus haut de ſon tour.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Éclairait aux mortels du plus haut de son tour.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l465">
+         <tuv xml:lang="FRM">
+            <seg>L’Ange, en ce meſme temps, vient d'vne aile legere</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’Ange, en ce même temps, vient d’une aile légère</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l466">
+         <tuv xml:lang="FRM">
+            <seg>Porter le grand meſſage à la ſainte Bergere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Porter le grand message à la sainte Bergère,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l467">
+         <tuv xml:lang="FRM">
+            <seg>De pompe reueſtu, de ſplendeur couronné,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De pompe revêtu, de splendeur couronné,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l468">
+         <tuv xml:lang="FRM">
+            <seg>Et d'vn globe de feu par tout enuironné.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et d’un globe de feu par tout environné.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l469">
+         <tuv xml:lang="FRM">
+            <seg>Plus pront que n'eſt l’éclair qui preuient le tonnerre,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Plus prompt que n’est l’éclair qui prévient le tonnerre,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l470">
+         <tuv xml:lang="FRM">
+            <seg>De ſphere en ſphere il paſſe, &amp; deſcend vers la terre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De sphère en sphère il passe, et descend vers la terre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l471">
+         <tuv xml:lang="FRM">
+            <seg>Le Monde voit ſa chute auec eſtonnement,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le Monde voit sa chute avec étonnement,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l472">
+         <tuv xml:lang="FRM">
+            <seg>Et croit que le Soleil tombe du Firmament.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et croit que le Soleil tombe du Firmament.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l473">
+         <tuv xml:lang="FRM">
+            <seg>Ainſi, lors que la nuit couure tout de ſon voile,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ainsi, lorsque la nuit couvre tout de son voile,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l474">
+         <tuv xml:lang="FRM">
+            <seg>On apperçoit ſouuent vne brillante eſtoille,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>On apperçoit souvent une brillante étoile,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l475">
+         <tuv xml:lang="FRM">
+            <seg>Qui du Ciel ſe detache, &amp; ſe precipitant,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui du Ciel se détache, et se précipitant,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l476">
+         <tuv xml:lang="FRM">
+            <seg>Trace l'air tenebreux d'vn ſillon éclatant.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Trace l’air ténébreux d’un sillon éclatant.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l477">
+         <tuv xml:lang="FRM">
+            <seg>Il tombe ſur le bois, où la Fille medite,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il tombe sur le bois, où la Fille médite,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l478">
+         <tuv xml:lang="FRM">
+            <seg>L'ombrage s'en eſloigne, &amp; ces flammes euite;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’ombrage s’en éloigne, et ces flammes évite;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l479">
+         <tuv xml:lang="FRM">
+            <seg>Il n'eſt tronc ni rameau, qui n'en ſemble doré,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il n’est tronc ni rameau, qui n’en semble doré,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l480">
+         <tuv xml:lang="FRM">
+            <seg>Et le fort le plus noir en demeure éclairé.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et le fort le plus noir en demeure éclairé.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l481">
+         <tuv xml:lang="FRM">
+            <seg>Ce nouuel accident interrompt ſa priere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ce nouvel accident interrompt sa prière,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l482">
+         <tuv xml:lang="FRM">
+            <seg>De frayeur elle tremble, &amp; ſille la paupiere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De frayeur elle tremble, et cille la paupière,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l483">
+         <tuv xml:lang="FRM">
+            <seg>Ses yeux perdent le jour, a forcé de clarté,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ses yeux perdent le jour, a forcé de clarté,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l484">
+         <tuv xml:lang="FRM">
+            <seg>Et d'vn trouble inconnu ſon cœur eſt agité.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et d’un trouble inconnu son cœur est agité.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l485">
+         <tuv xml:lang="FRM">
+            <seg>Du globe lumineux, qui brille autour de l’Ange,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Du globe lumineux, qui brille autour de l’Ange,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l486">
+         <tuv xml:lang="FRM">
+            <seg>Sort vne voix alors, mais vne voix eſtrange,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Sort une voix alors, mais une voix étrange,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l487">
+         <tuv xml:lang="FRM">
+            <seg>Dont le ſon pluſqu'humain, &amp; les graues accens,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dont le son plusqu’humain, et les graves accents,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l488">
+         <tuv xml:lang="FRM">
+            <seg>Luy penetrent l'eſprit, &amp; rauiſſent les ſens.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Lui pénètrent l’esprit, et ravissent les sens.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l489">
+         <tuv xml:lang="FRM">
+            <seg>Bergere, dit la voix, Pucelle juſte &amp; ſainte,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Bergère, dit la voix, Pucelle juste et sainte,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l490">
+         <tuv xml:lang="FRM">
+            <seg>Calme ton tremblement, &amp; diſſipe ta crainte,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Calme ton tremblement, et dissipe ta crainte,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l491">
+         <tuv xml:lang="FRM">
+            <seg>Du Monarque Eternel je fuis l'Ambaſſadeur,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Du Monarque Éternel je fuis l’Ambassadeur,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l492">
+         <tuv xml:lang="FRM">
+            <seg>Et te viens annoncer ta future grandeur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et te viens annoncer ta future grandeur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l493">
+         <tuv xml:lang="FRM">
+            <seg>Par ton bras aujourd'huy l'auguſte Prouidence</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par ton bras aujourd’hui l’auguste Providence</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l494">
+         <tuv xml:lang="FRM">
+            <seg>Veut redonner la vie aux Peuples de la France,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Veut redonner la vie aux Peuples de la France,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l495">
+         <tuv xml:lang="FRM">
+            <seg>Et, pour leur bien monſtrer qu'ils la doiuent aux Cieux,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et, pour leur bien montrer qu’ils la doivent aux Cieux,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l496">
+         <tuv xml:lang="FRM">
+            <seg>Te vient tirer du fond de ces ſauuages lieux.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Te vient tirer du fond de ces sauvages lieux.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l497">
+         <tuv xml:lang="FRM">
+            <seg>Ton bras ſera le bras du grand Dieu des armées,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ton bras sera le bras du grand Dieu des armées,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l498">
+         <tuv xml:lang="FRM">
+            <seg>L'Anglois verra par toy ſes forces conſumées,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’Anglais verra par toi ses forces consumées,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l499">
+         <tuv xml:lang="FRM">
+            <seg>Orleans deplore s'affranchira par toy,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Orléans déplore s’affranchira par toi,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l500">
+         <tuv xml:lang="FRM">
+            <seg>Et par toy Rheims verra le Sacre de ſon Roy.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et par toi Reims verra le Sacre de son Roi.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l501">
+         <tuv xml:lang="FRM">
+            <seg>A ces faits merueilleux prepare ton courage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>À ces faits merveilleux prépare ton courage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l502">
+         <tuv xml:lang="FRM">
+            <seg>La gloire du Tres-haut luira ſur ton viſage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La gloire du Très-haut luira sur ton visage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l503">
+         <tuv xml:lang="FRM">
+            <seg>Et, ſa vertu guerriere animant ta vertu,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et, sa vertu guerrière animant ta vertu,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l504">
+         <tuv xml:lang="FRM">
+            <seg>Fera mordre la terre à l'Anglois abatu.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Fera mordre la terre à l’Anglais abattu.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l505">
+         <tuv xml:lang="FRM">
+            <seg>La Fille à ces grands mots oppoſe ſa foibleſſe,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La Fille à ces grands mots oppose sa faiblesse,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l506">
+         <tuv xml:lang="FRM">
+            <seg>Ne peut, ni ne veut croire à la haute promeſſe,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ne peut, ni ne veut croire à la haute promesse,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l507">
+         <tuv xml:lang="FRM">
+            <seg>Et ſe renfermant toute en ſon humilité,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et se renfermant toute en son humilité,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l508">
+         <tuv xml:lang="FRM">
+            <seg>S'aneantit aux yeux de la Diuinité.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>S’anéantit aux yeux de la Divinité.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l509">
+         <tuv xml:lang="FRM">
+            <seg>Mais l'Ange qui l'obſerue, &amp; qui voit ſa penſée,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais l’Ange qui l’observe, et qui voit sa pensée,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l510">
+         <tuv xml:lang="FRM">
+            <seg>Ton ame en vain, dit-il, eſt icy balancée,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ton âme en vain, dit-il, est ici balancée,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l511">
+         <tuv xml:lang="FRM">
+            <seg>Dieu, le Dieu des combats, t'ordonne par ma voix,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dieu, le Dieu des combats, t’ordonne par ma voix,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l512">
+         <tuv xml:lang="FRM">
+            <seg>De partir, d'attaquer, de vaincre l'Anglois.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De partir, d’attaquer, de vaincre l’Anglais.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l513">
+         <tuv xml:lang="FRM">
+            <seg>Puis, d'vn celeſte feu l'ombrageant toute entiere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Puis, d’un céleste feu l’ombrageant toute entière,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l514">
+         <tuv xml:lang="FRM">
+            <seg>Luy ſouffle du Seigneur la puiſſance guerriere,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Lui souffle du Seigneur la puissance guerrière,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l515">
+         <tuv xml:lang="FRM">
+            <seg>Luy fait dans les regards éclater ſa terreur,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Lui fait dans les regards éclater sa terreur,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l516">
+         <tuv xml:lang="FRM">
+            <seg>Et luy met dans les mains les traits de ſa fureur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et lui met dans les mains les traits de sa fureur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l517">
+         <tuv xml:lang="FRM">
+            <seg>Dans le ſein, à grands flots, il luy reſpand ſes graces,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dans le sein, à grands flots, il lui répand ses grâces,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l518">
+         <tuv xml:lang="FRM">
+            <seg>Il luy fait deſdaigner les entrepriſes baſſes,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il lui fait dédaigner les entreprises basses,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l519">
+         <tuv xml:lang="FRM">
+            <seg>Et la determinant aux actes valeureux,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et la déterminant aux actes valeureux,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l520">
+         <tuv xml:lang="FRM">
+            <seg>Luy donne vn auant-gouſt du ſort des Bien-heureux.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Lui donne un avant-goût du sort des Bienheureux.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l521">
+         <tuv xml:lang="FRM">
+            <seg>Le jour s'eſteint alors, &amp; le lieu ſolitaire</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le jour s’éteint alors, et le lieu solitaire</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l522">
+         <tuv xml:lang="FRM">
+            <seg>Demeure dans l'horreur de ſa nuit ordinaire,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Demeure dans l’horreur de sa nuit ordinaire,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l523">
+         <tuv xml:lang="FRM">
+            <seg>Le ſilence y retourne, &amp; ſon ombrage eſpais</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le silence y retourne, et son ombrage épais</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l524">
+         <tuv xml:lang="FRM">
+            <seg>Redeuient le ſejour du calme &amp; de la paix.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Redevient le séjour du calme et de la paix.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l525">
+         <tuv xml:lang="FRM">
+            <seg>Elle voit le deſert tout ſemblable à luy-meſme,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Elle voit le désert tout semblable à lui-même,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l526">
+         <tuv xml:lang="FRM">
+            <seg>Mais elle ſent en elle vn changement extreme;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais elle sent en elle un changement extrême;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l527">
+         <tuv xml:lang="FRM">
+            <seg>De cette nouueauté ſon eſprit eſt confus,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De cette nouveauté son esprit est confus,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l528">
+         <tuv xml:lang="FRM">
+            <seg>Elle ſe cherche en elle, &amp; ne s'y trouue plus.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Elle se cherche en elle, et ne s’y trouve plus.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l529">
+         <tuv xml:lang="FRM">
+            <seg>Son trouppeau, ſa foreſt, ſes prés &amp; ſes fontaines,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Son troupeau, sa forêt, ses prés et ses fontaines,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l530">
+         <tuv xml:lang="FRM">
+            <seg>Pour elle deſormais ſont des images vaines,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour elle désormais sont des images vaines,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l531">
+         <tuv xml:lang="FRM">
+            <seg>Dieu, l'Anglois, le François, les ſieges, les combats,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Dieu, l’Anglais, le Français, les sièges, les combats,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l532">
+         <tuv xml:lang="FRM">
+            <seg>Seuls maintenant pour elle ont de dignes appas.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Seuls maintenant pour elle ont de dignes appas.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l533">
+         <tuv xml:lang="FRM">
+            <seg>Pour ſauuer le Royaume elle prend la campagne,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour sauver le Royaume elle prend la campagne,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l534">
+         <tuv xml:lang="FRM">
+            <seg>Rodolfe, ſon cher frere, en ſon cours l'accompagne;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Rodolphe, son cher frère, en son cours l’accompagne;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l535">
+         <tuv xml:lang="FRM">
+            <seg>Elle ſe ſent vaillante, &amp; ſa ſainte chaleur</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Elle se sent vaillante, et sa sainte chaleur</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l536">
+         <tuv xml:lang="FRM">
+            <seg>L'excite à rechercher l'objet de ſa valeur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’excite à rechercher l’objet de sa valeur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l537">
+         <tuv xml:lang="FRM">
+            <seg>Par les lieux que Betford à reduits en ſeruage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par les lieux que Bedford à réduits en servage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l538">
+         <tuv xml:lang="FRM">
+            <seg>Elle fait en marchant vn perilleux voyage,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Elle fait en marchant un périlleux voyage,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l539">
+         <tuv xml:lang="FRM">
+            <seg>Les champs &amp; les Cités, les fleuues &amp; les bois,</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Les champs et les Cités, les fleuves et les bois,</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="l540">
+         <tuv xml:lang="FRM">
+            <seg>Toute choſe eſt contre elle, en faueur de l’Anglois.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Toute chose est contre elle, en faveur de l’Anglais.</seg>
+         </tuv>
+      </tu>
+   
+   </body>
+</tmx>
