@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+   <header creationtool="NA"
+           creationtoolversion="NA"
+           datatype="XML"
+           segtype="sub-sentence"
+           adminlang="fr-FR"
+           srclang="FRM"
+           o-tmf="XML"/>
+   <body>
+   
+      <tu tuid="s1">
+         <tuv xml:lang="FRM">
+            <seg>TRAITEZ DE L’EQVILIBRE DES LIQVEVRS, ET DE LA PESANTEVR DE LA MASSE DE L'AIR.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>TRAITÉS DE L’ÉQUILIBRE DES LIQUEURS, ET DE LA PESANTEUR DE LA MASSE DE L’AIR.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s2">
+         <tuv xml:lang="FRM">
+            <seg>Contenant l’explication des cauſes de divers effets de la nature qui n’avoient point eſté bien connus juſques ici, &amp; particulieremẽt de ceux que l’on avoit attribuez à l’horreur du Vuide.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Contenant l’explication des causes de divers effets de la nature qui n’avaient point été bien connus jusqu'ici, et particulièrement de ceux que l’on avait attribués à l’horreur du Vide.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s3">
+         <tuv xml:lang="FRM">
+            <seg>Par Monſieur PASCAL. A PARIS, Chez GVILLAUME DESPREZ, ruë S. Iacques, à l’Image S. Proſper. M. DC. LXIII. AVEC PRIVILEGE DV ROY.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par Monsieur PASCAL. À PARIS, Chez GUILLAUME DESPREZ, rue S. Jacques, à l’Image S. Prosper. M. DC. LXIII. AVEC PRIVILÈGE DU ROI.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s4">
+         <tuv xml:lang="FRM">
+            <seg>SI l’on attache contre vn mur pluſieurs Vaiſſeaux, l’vn tel que celuy de la premiere Figure;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>SI l’on attache contre un mur plusieurs Vaisseaux, l’un tel que celui de la première Figure;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s5">
+         <tuv xml:lang="FRM">
+            <seg>l’autre panché, comme en la ſeconde;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>l’autre penché, comme en la seconde;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s6">
+         <tuv xml:lang="FRM">
+            <seg>l'autre fort large, comme en la troiſiéme;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>l’autre fort large, comme en la troisième;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s7">
+         <tuv xml:lang="FRM">
+            <seg>l’autre eſtroit, comme en la quatriéme;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>l’autre étroit, comme en la quatrième;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s8">
+         <tuv xml:lang="FRM">
+            <seg>l’autre qui ne ſoit qu’vn petit tuyau qui aboutiſſe à vn Vaiſſeau large par en bas, mais qui n’ait preſque point de hauteur, comme en la cinquiéme Figure;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>l’autre qui ne soit qu’un petit tuyau qui aboutisse à un Vaisseau large par en bas, mais qui n’ait presque point de hauteur, comme en la cinquième Figure;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s9">
+         <tuv xml:lang="FRM">
+            <seg>&amp; qu’on les rempliſſe tous d’eau juſques à vne meſme hauteur, &amp; qu’on faſſe à tous des ouuertures pareilles par en bas, leſquelles on bouche pour retenir l’eau: l’experience fait voir, qu’il faut vne pareille force pour empeſcher tous ces tampons de ſortir, quoy que l'eau ſoit en vne quantité toute differente en tous ces differents Vaiſſeaux;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et qu’on les remplisse tous d’eau jusqu’à une même hauteur, et qu’on fasse à tous des ouvertures pareilles par en bas, lesquelles on bouche pour retenir l’eau: l’expérience fait voir, qu’il faut une pareille force pour empêcher tous ces tampons de sortir, quoique l’eau soit en une quantité toute différente en tous ces différents Vaisseaux;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s10">
+         <tuv xml:lang="FRM">
+            <seg>parce qu’elle eſt à vne pareille hauteur en tous: &amp; la meſure de cette force eſt le poids de l’eau contenuë dans le premier Vaiſſeau, qui eſt vniforme en tout ſon corps. Car ſi cette eau peſe cent liures, il faudra vne force de cent liures, pour ſoûtenir chacun des tampons, &amp; meſme celuy du Vaiſſeau cinquiéme, quand l’eau qui y eſt ne peſeroit pas vne once.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>parce qu’elle est à une pareille hauteur en tous: et la mesure de cette force est le poids de l’eau contenue dans le premier Vaisseau, qui est uniforme en tout son corps. Car si cette eau pèse cent livres, il faudra une force de cent livres, pour soutenir chacun des tampons, et même celui du Vaisseau cinquième, quand l’eau qui y est ne pèserait pas une once.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s11">
+         <tuv xml:lang="FRM">
+            <seg>Pour l’éprouuer exactement, il faut boucher l’ouuerture du cinquiéme Vaiſſeau auec vne piece de bois ronde, enueloppée d’étoupe comme le piſton d’vne Pompe, qui entre &amp; couſe dans cette ouuerture auec tant de juſteſſe, qu’il n’y tienne pas, &amp; qu’il empeſche neanmoins l’eau d’en ſortir, &amp; attacher vn fil au milieu de ce Piſton, que l’on paſſe dans ce petit tuyau, pour l’attacher à vn bras de balance, &amp; pendre à l’autre bras vn poids de cent liures: on verra vn parfait Equilibre de ce poids de cent liures auec l'eau du petit tuyau qui peſe vne once;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pour l’éprouver exactement, il faut boucher l’ouverture du cinquième Vaisseau avec une pièce de bois ronde, enveloppée d’étoupe comme le piston d’une Pompe, qui entre et couse dans cette ouverture avec tant de justesse, qu’il n’y tienne pas, et qu’il empêche néanmoins l’eau d’en sortir, et attacher un fil au milieu de ce Piston, que l’on passe dans ce petit tuyau, pour l’attacher à un bras de balance, et pendre à l’autre bras un poids de cent livres: on verra un parfait Equilibre de ce poids de cent livres avec l’eau du petit tuyau qui pèse une once;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s12">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ſi peu qu’on diminuë de ces cent liures, le poids de l'eau fera baiſſer le Piſton, &amp; par conſequent baiſſer le bras de la balance où il eſt attaché, &amp; hauſſer celuy où pend le poids d’vn peu moins de cent liures.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et si peu qu’on diminue de ces cent livres, le poids de l’eau fera baisser le Piston, et par conséquent baisser le bras de la balance où il est attaché, et hausser celui où pend le poids d’un peu moins de cent livres.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s13">
+         <tuv xml:lang="FRM">
+            <seg>Si cette eau vient à ſe glacer, &amp; que la glace ne prenne pas au Vaiſſeau, comme en effet elle ne s’y attache pas d’ordinaire, il ne faudra à l’autre bras de la balance qu’vne once pour tenir le poids de la glace en Equilibre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Si cette eau vient à se glacer, et que la glace ne prenne pas au Vaisseau, comme en effet elle ne s’y attache pas d’ordinaire, il ne faudra à l’autre bras de la balance qu’une once pour tenir le poids de la glace en Équilibre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s14">
+         <tuv xml:lang="FRM">
+            <seg>mais ſi on approche du feu contre le Vaiſſeau, qui faſſe fondre la glace, il faudra vn poids de cent liures pour contrebalancer la peſanteur de cette glace fonduë en eau, quoy que nous ne la ſuppoſions que d’vne once.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais si on approche du feu contre le Vaisseau, qui fasse fondre la glace, il faudra un poids de cent livres pour contrebalancer la pesanteur de cette glace fondue en eau, quoique nous ne la supposions que d’une once.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s15">
+         <tuv xml:lang="FRM">
+            <seg>La meſme choſe arriueroit, quand ces ouuertures que l’on bouche ſeroient à coſté, ou meſme en haut: &amp; il ſeroit meſme plus aiſé de l’éprouuer en cette ſorte.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La même chose arriverait, quand ces ouvertures que l’on bouche seraient à côté, ou même en haut: et il serait même plus aisé de l’éprouver en cette sorte.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s16">
+         <tuv xml:lang="FRM">
+            <seg>Figure VI. Il faut auoir vn Vaiſſeau clos de tous coſtez, &amp; y faire deux ouuertures en haut, vne fort-étroitte, l'autre plus large;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure VI. Il faut avoir un Vaisseau clos de tous côtés, et y faire deux ouvertures en haut, une fort étroite, l’autre plus large;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s16">
+         <tuv xml:lang="FRM">
+            <seg>Figure VI.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure VI.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s18">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ſouder ſur l’vne &amp; ſur l’autre, des tuyaux de la groſſeur chacun de ſon ouuerture;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et souder sur l’une et sur l’autre, des tuyaux de la grosseur chacun de son ouverture;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s19">
+         <tuv xml:lang="FRM">
+            <seg>&amp; on verra que ſi on met vn Piſton au tuyau large, &amp; qu’on verſe de l’eau dans le tuyau menu, il faudra mettre ſur le Piſton vn grand poids, pour empeſcher que le poids de l’eau du petit tuyau ne le pouſſe en haut;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et on verra que si on met un Piston au tuyau large, et qu’on verse de l’eau dans le tuyau menu, il faudra mettre sur le Piston un grand poids, pour empêcher que le poids de l’eau du petit tuyau ne le pousse en haut;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s20">
+         <tuv xml:lang="FRM">
+            <seg>de la meſme ſorte que dans les premiers exemples il falloit vne force de cent liures pour empeſcher que le poids de l’eau ne les pouſsât en bas, parce que l’ouuerture eſtoit en bas;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>de la même sorte que dans les premiers exemples il fallait une force de cent livres pour empêcher que le poids de l’eau ne les poussât en bas, parce que l’ouverture était en bas;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s21">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ſi elle eſtoit à côté, il faudroit vne pareille force pour empeſcher que le poids de l’eau ne repouſsât le Piſton vers ce coſté.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et si elle était à côté, il faudrait une pareille force pour empêcher que le poids de l’eau ne repoussât le Piston vers ce côté.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s22">
+         <tuv xml:lang="FRM">
+            <seg>Et quand le tuyau plein d’eau ſeroit cent fois plus large ou cent fois plus eſtroit, pourueu que l'eau y fût roûjours à la meſme hauteur, il faudroit toûjours vn meſme poids pour contrepeſer l’eau, &amp; ſi peu qu’on diminuë le poids, l’eau baiſſera, &amp; fera monter le poids diminué.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et quand le tuyau plein d’eau serait cent fois plus large ou cent fois plus étroit, pourvu que l’eau y fût roûjours à la même hauteur, il faudrait toujours un même poids pour contre-peser l’eau, et si peu qu’on diminue le poids, l’eau baissera, et fera monter le poids diminué.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s23">
+         <tuv xml:lang="FRM">
+            <seg>Reigle de la force neceſſaire pour arreſter l'eau. Mais ſi on verſoit de l’eau dans le tuyau à vne hauteur double, il faudroit vn poids double ſur le Piſton, pour contrepeſer l’eau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Règle de la force nécessaire pour arrêter l’eau. Mais si on versait de l’eau dans le tuyau à une hauteur double, il faudrait un poids double sur le Piston, pour contre-peser l’eau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s23">
+         <tuv xml:lang="FRM">
+            <seg>Reigle de la force neceſſaire pour arreſter l'eau.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Règle de la force nécessaire pour arrêter l’eau.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s25">
+         <tuv xml:lang="FRM">
+            <seg>&amp; de meſme ſi on faiſoit l’ouuerture où eſt le Piſton, double de ce qu’elle eſt, il faudroit doubler la force neceſſaire pour ſoûtenir le Piſton double: d’où l’on voit que la force neceſſaire pour empeſcher l’eau de couler par vne ouuerture, eſt proportionnée à la hauteur de l’eau, &amp; non pas à ſa largeur;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et de même si on faisait l’ouverture où est le Piston, double de ce qu’elle est, il faudrait doubler la force nécessaire pour soutenir le Piston double: d’où l’on voit que la force nécessaire pour empêcher l’eau de couler par une ouverture, est proportionnée à la hauteur de l’eau, et non pas à sa largeur;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s26">
+         <tuv xml:lang="FRM">
+            <seg>&amp; que la meſure de cette force eſt toûjours le poids de toute l’eau qui ſeroit contenuë dans vne colomne de la hauteur de l’eau, &amp; de la groſſeur de l’ouuerture.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et que la mesure de cette force est toujours le poids de toute l’eau qui serait contenue dans une colomne de la hauteur de l’eau, et de la grosseur de l’ouverture.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s27">
+         <tuv xml:lang="FRM">
+            <seg>Ce que j'ay dit de l’eau ſe doit entendre de toute autre ſorte de Liqueurs.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ce que j’ai dit de l’eau se doit entendre de toute autre sorte de Liqueurs.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s28">
+         <tuv xml:lang="FRM">
+            <seg>ON voit par tous ces exemples, qu’vn petit filet d’eau tient vn grand poids en Equilibre: il reſte à montrer quelle eſt la cauſe de cette multiplication de force;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ON voit par tous ces exemples, qu’un petit filet d’eau tient un grand poids en Équilibre: il reste à montrer quelle est la cause de cette multiplication de force;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s29">
+         <tuv xml:lang="FRM">
+            <seg>nous l’allons faire par l’experience qui ſuit.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>nous l’allons faire par l’expérience qui suit.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s30">
+         <tuv xml:lang="FRM">
+            <seg>Figure VII. Nouuelle ſorte de Machine pour multiplier les forces. Si vn Vaiſſeau plein d’eau, clos de toutes parts a deux ouuertures, l’vne centuple de l’autre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure VII. Nouvelle sorte de Machine pour multiplier les forces. Si un Vaisseau plein d’eau, clos de toutes parts a deux ouvertures, l’une centuple de l’autre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s30">
+         <tuv xml:lang="FRM">
+            <seg>Figure VII. Nouuelle ſorte de Machine pour multiplier les forces.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure VII. Nouvelle sorte de Machine pour multiplier les forces.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s32">
+         <tuv xml:lang="FRM">
+            <seg>en mettant à chacune vn Piſton qui luy ſoit juſte, vn homme pouſſant le petit Piſton égalera la force de cent hommes qui pouſſeront celuy qui eſt cent fois plus larges &amp; en ſurmontera quatre vingt dix neuf.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>en mettant à chacune un Piston qui lui soit juste, un homme poussant le petit Piston égalera la force de cent hommes qui pousseront celui qui est cent fois plus larges et en surmontera quatre-vingt-dix-neuf.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s33">
+         <tuv xml:lang="FRM">
+            <seg>Et quelque proportion qu’ayent ces ouuertures, ſi les forces qu’on mettra ſur les Piſtons ſont comme les ouuertures, elles ſeront en Equilibre. D’où il paroiſt, qu’vn Vaiſſeau plein d’eau eſt vn nouueau principe de Mechanique, &amp; vne machine nouuelle pour multiplier les forces à tel dégré qu’on voudra, puis qu’vn homme par ce moyen pourra enleuer tel fardeau qu’on luy propoſera.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et quelque proportion qu’aient ces ouvertures, si les forces qu’on mettra sur les Pistons sont comme les ouvertures, elles seront en Équilibre. D’où il paraît, qu’un Vaisseau plein d’eau est un nouveau principe de Mécanique, et une machine nouvelle pour multiplier les forces à tel dégré qu’on voudra, puisqu’un homme par ce moyen pourra enlever tel fardeau qu’on lui proposera.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s34">
+         <tuv xml:lang="FRM">
+            <seg>Et l’on doit admirer, qu’il ſe rencontre en cette Machine nouuelle cét ordre conſtant qui ſe trouue en toutes les anciennes, ſçauoir le leuier, le tour, la vis ſans fin, &amp;c. qui eſt, que le chemin eſt augmenté en meſme proportion que la force. Car il eſt viſible, que comme vne de ces ouuerture eſt centuple de l’autre, ſi l’homme qui pouſſe le petit Piſton l’enfonçoit d’vn poulce, il ne repouſſeroit l’autre que de la centiéme partie ſeulement: car comme cette impulſion ſe fait à cauſe de la continuité de l’eau, qui communique de l’vn des Piſtons à l’autre, &amp; qui fait que l’vn ne peut ſe mouuoir ſans pouſſer l’autre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et l’on doit admirer, qu’il se rencontre en cette Machine nouvelle cet ordre constant qui se trouve en toutes les anciennes, savoir le levier, le tour, la vis sans fin, etc. qui est, que le chemin est augmenté en même proportion que la force. Car il est visible, que comme une de ces ouverture est centuple de l’autre, si l’homme qui pousse le petit Piston l’enfonçait d’un pouce, il ne repousserait l’autre que de la centième partie seulement: car comme cette impulsion se fait à cause de la continuité de l’eau, qui communique de l’un des Pistons à l’autre, et qui fait que l’un ne peut se mouvoir sans pousser l’autre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s35">
+         <tuv xml:lang="FRM">
+            <seg>il eſt viſible que quand le petit Piſton s’eſt meu d’vn poulce, l’eau qu’il a pouſſée, pouſſant l’autre Piſton, comme elle trouue ſon ouuerture cent fois plus large, elle n’y occupe que la centiéme partie de la hauteur: de ſorte que le chemin eſt au chemin, comme la force à la force. Ce que l'on peut prendre meſme pour la vraye cauſe de cét effet, eſtant clair, que c’eſt la meſme choſe de faire faire vn poulce de chemin à cent liures d’eau, que de faire faire cent poulces de chemin à vne liure d’eau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>il est visible que quand le petit Piston s’est mû d’un pouce, l’eau qu’il a poussée, poussant l’autre Piston, comme elle trouve son ouverture cent fois plus large, elle n’y occupe que la centième partie de la hauteur: de sorte que le chemin est au chemin, comme la force à la force. Ce que l’on peut prendre même pour la vraie cause de cet effet, étant clair, que c’est la même chose de faire faire un pouce de chemin à cent livres d’eau, que de faire faire cent pouces de chemin à une livre d’eau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s36">
+         <tuv xml:lang="FRM">
+            <seg>&amp; qu’ainſi, lors qu’vne liure d’eau eſt tellement ajuſtée auec cent liures d’eau, que les cent liures ne puiſſent ſe remuer vn poulce, qu’elles ne faſſent remuer la liure de cent poulces, il faut qu’elles demeurent en Equilibre, vne liure ayant autant de force pour faire faire vn poulce de chemin à cent liures, que cent liures pour faire faire cent poulces à vne liure.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et qu’ainsi, lorsqu’une livre d’eau est tellement ajustée avec cent livres d’eau, que les cent livres ne puissent se remuer un pouce, qu’elles ne fassent remuer la livre de cent poulces, il faut qu’elles demeurent en Équilibre, une livre ayant autant de force pour faire faire un pouce de chemin à cent livres, que cent livres pour faire faire cent pouces à une livre.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s37">
+         <tuv xml:lang="FRM">
+            <seg>On peut encore ajoûter pour plus grand éclairciſſement, que l’eau eſt également preſſée ſous ces deux Piſtons;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>On peut encore ajouter pour plus grand éclaircissement, que l’eau est également pressée sous ces deux Pistons;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s38">
+         <tuv xml:lang="FRM">
+            <seg>car ſi l’vn a cent fois plus de poids que l’autre, auſſi en reuanche il touche cent fois plus de parties;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car si l’un a cent fois plus de poids que l’autre, aussi en revanche il touche cent fois plus de parties;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s39">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ainſi chacune l’eſt également;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et ainsi chacune l’est également;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s40">
+         <tuv xml:lang="FRM">
+            <seg>donc toutes doiuent eſtre en repos, parce qu’il n’y a pas plus de raiſon pourquoy l’vne cede que l'autre: de ſorte que ſi vn Vaiſſeau plein d’eau n’a qu’vne ſeule ouuerture, large d’vn poulce, par exemple, où l’on mette vn Piſton chargé d’vn poids d’vne liure;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>donc toutes doivent être en repos, parce qu’il n’y a pas plus de raison pourquoi l’une cède que l’autre: de sorte que si un Vaisseau plein d’eau n’a qu’une seule ouverture, large d’un pouce, par exemple, où l’on mette un Piston chargé d’un poids d’une livre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s41">
+         <tuv xml:lang="FRM">
+            <seg>ce poids fait effort contre toutes les parties du Vaiſſeau generalement, à cauſe de la cõtinuité &amp; de la fluidité de l’eau: mais pour determiner combien chaque partie ſouffre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ce poids fait effort contre toutes les parties du Vaisseau généralement, à cause de la continuité et de la fluidité de l’eau: mais pour déterminer combien chaque partie souffre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s42">
+         <tuv xml:lang="FRM">
+            <seg>en voicy la regle. Chaque partie large d’vn poulce, comme l’ouuerture, ſouffre autant que ſi elle eſtoit pouſſée par le poids d’vne liure (ſans compter le poids de l’eau dont je ne parle pas icy, car je ne parle que du poids du Piſton) parce que le poids d’vne liure preſſe le Piſton qui eſt à l’ouuerture, &amp; chaque portion du Vaiſſeau plus ou moins grande, ſouffre preciſément plus ou moins à proportion de ſa grandeur, ſoit que cette portion ſoit vis à vis de l’ouuerture, ou à coſté, loin ou preſt;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>en voici la règle. Chaque partie large d’un pouce, comme l’ouverture, souffre autant que si elle était poussée par le poids d’une livre (sans compter le poids de l’eau dont je ne parle pas ici, car je ne parle que du poids du Piston) parce que le poids d’une livre presse le Piston qui est à l’ouverture, et chaque portion du Vaisseau plus ou moins grande, souffre precisément plus ou moins à proportion de sa grandeur, soit que cette portion soit vis-à-vis de l’ouverture, ou à côté, loin ou près;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s43">
+         <tuv xml:lang="FRM">
+            <seg>car la continuité &amp; la fluidité de l’eau rend toutes ces choſes là égales &amp; indifferentes: De ſorte qu’il faut que la matiere dont le Vaiſſeau eſt fait, ait aſſez de reſiſtances en toutes ſes parties pour ſoûtenir tous ces efforts: Si ſa reſiſtance eſt moindre en quelqu’vne, elle creve;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car la continuité et la fluidité de l’eau rend toutes ces choses là égales et indifférentes: De sorte qu’il faut que la matière dont le Vaisseau est fait, ait assez de résistances en toutes ses parties pour soutenir tous ces efforts: Si sa résistance est moindre en quelqu’une, elle crève;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s44">
+         <tuv xml:lang="FRM">
+            <seg>ſi elle eſt plus grãde, il en fournit ce qui eſt neceſſaire, &amp; le reſte demeure inutile en cette occaſion: tellement que ſi on fait vne ouuerture nouuelle à ce Vaiſſeau, il faudra pour arreſter l'eau qui en jalliroit vne force égale à la reſiſtance que cette partie deuoit auoir, c’eſt à dire, vne force qui ſoit à celle d’vne liure, comme cette derniere ouuerture eſt à la premiere.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>si elle est plus grande, il en fournit ce qui est nécessaire, et le reste demeure inutile en cette occasion: tellement que si on fait une ouverture nouvelle à ce Vaisseau, il faudra pour arrêter l’eau qui en jallirait une force égale à la résistance que cette partie devait avoir, c’est-à-dire, une force qui soit à celle d’une livre, comme cette dernière ouverture est à la première.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s45">
+         <tuv xml:lang="FRM">
+            <seg>Voicy encore une preuve qui ne pourra eſtre entenduë que par les ſeuls Geometres, &amp; peut eſtre paſſée par les autres.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Voici encore une preuve qui ne pourra être entendue que par les seuls Géomètres, et peut être passée par les autres.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s46">
+         <tuv xml:lang="FRM">
+            <seg>Ie prends pour principe, que jamais vn corps ne ſe meut par ſon poids, ſans que ſon centre de grauité deſcende. D’où je prouue que les deux Piſtõs figurez en la Figure VII. ſont en Equilibre, en cette ſorte: car leur centre de grauité cõmun, eſt au point qui diuiſe la ligne, qui joint leurs centres de grauité particuliers, en la proportion de leurs poids;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je prends pour principe, que jamais un corps ne se meut par son poids, sans que son centre de gravité descende. D’où je prouve que les deux Pistons figurés en la Figure VII. sont en Équilibre, en cette sorte: car leur centre de gravité commun, est au point qui divise la ligne, qui joint leurs centres de gravité particuliers, en la proportion de leurs poids;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s47">
+         <tuv xml:lang="FRM">
+            <seg>qu’ils ſe meuuent maintenant s’il eſt poſſible: donc leurs chemins ſeront entre eux comme leurs poids reciproquement, comme nous auons fait voir: or ſi on prend leur centre de grauité commun en cette ſeconde ſituation, on le trouuera preciſément au meſme endroit que la premiere fois;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>qu’ils se meuvent maintenant s’il est possible: donc leurs chemins seront entre eux comme leurs poids réciproquement, comme nous avons fait voir: or si on prend leur centre de gravité commun en cette seconde situation, on le trouvera précisément au même endroit que la première fois;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s48">
+         <tuv xml:lang="FRM">
+            <seg>car il ſe trouuera toûjours au point qui diuiſe la ligne, qui joint leurs centres de grauité particuliers, en la proportion de leurs poids;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car il se trouvera toujours au point qui divise la ligne, qui joint leurs centres de gravité particuliers, en la proportion de leurs poids;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s49">
+         <tuv xml:lang="FRM">
+            <seg>donc à cauſe du paralleliſme des lignes de leurs chemins, il ſe trouuera en l’interſection des deux lignes qui joignẽt les centres de grauité dans les deux ſituations: donc le centre de grauité commun ſera au meſme point qu’auparauant: donc les deux Piſtons conſiderez comme vn ſeul corps, ſe ſont meus, ſans que le centre de grauité commun ſoit deſcendu: ce qui eſt contre le principe: donc ils ne peuuent ſe mouuoir: donc ils ſeront en repos, c’eſt à dire en Equilibre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>donc à cause du parallélisme des lignes de leurs chemins, il se trouvera en l’intersection des deux lignes qui joignent les centres de gravité dans les deux situations: donc le centre de gravité commun sera au même point qu’auparavant: donc les deux Pistons considérés comme un seul corps, se sont mus, sans que le centre de gravité commun soit descendu: ce qui est contre le principe: donc ils ne peuvent se mouvoir: donc ils seront en repos, c’est à dire en Équilibre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s50">
+         <tuv xml:lang="FRM">
+            <seg>ce qu’il falloit démontrer.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ce qu’il fallait démontrer.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s51">
+         <tuv xml:lang="FRM">
+            <seg>I'ay démõtré par cette Methode dans vn petit Traitté de Mechanique, la raiſon de toutes les multiplications de forces qui ſe trouuent en tous les autres inſtrumens de Mechanique qu’on a juſques à preſent inuentez. Car je fais voir en tous, que les poids inégaux, qui ſe trouuent en Equilibre, par l’auantage des Machines, ſont tellement diſpoſez par la conſtruction des Machines, que leur centre de grauité commun ne ſçauroit jamais deſcendre, quelque ſituation qu’ils priſſent: D’où il s’enſuit qu’ils doiuent demeurer en repos, c’eſt à dire en Equilibre.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>J’ai démontré par cette Méthode dans un petit Traité de Mécanique, la raison de toutes les multiplications de forces qui se trouvent en tous les autres instruments de Mécanique qu’on a jusqu’à présent inventés. Car je fais voir en tous, que les poids inégaux, qui se trouvent en Équilibre, par l’avantage des Machines, sont tellement disposés par la construction des Machines, que leur centre de gravité commun ne saurait jamais descendre, quelque situation qu’ils prissent: D’où il s’ensuit qu’ils doivent demeurer en repos, c’est à dire en Équilibre.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s52">
+         <tuv xml:lang="FRM">
+            <seg>Prenons donc pour tres veritable, qu’vn Vaiſſeau plein d’eau, ayant des ouuertures, &amp; des forces à ces ouuertures qui leur ſoient proportionnées, elles ſont en Equilibre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Prenons donc pour très véritable, qu’un Vaisseau plein d’eau, ayant des ouvertures, et des forces à ces ouvertures qui leur soient proportionnées, elles sont en Équilibre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s53">
+         <tuv xml:lang="FRM">
+            <seg>&amp; c’eſt le fondement &amp; la raiſon de l’Equilibre des Liqueurs, dont nous allons donner pluſieurs exemples.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et c’est le fondement et la raison de l’Équilibre des Liqueurs, dont nous allons donner plusieurs exemples.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s54">
+         <tuv xml:lang="FRM">
+            <seg>cette Machine nouuelle de Mechanique fait entendre pourquoy les Liqueurs peſent ſuiuant leur hauteur. Cette, Machine de Mechanique pour multiplier les forces, eſtant bien entenduë, fait voir la raiſon pour laquelle les Liqueurs peſent ſuiuant leur hauteur, &amp; non pas ſuiuant leur largeur dans tous les effets que nous en auons rapportez.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>cette Machine nouvelle de Mécanique fait entendre pourquoi les Liqueurs pèsent suivant leur hauteur. Cette, Machine de Mécanique pour multiplier les forces, étant bien entendue, fait voir la raison pour laquelle les Liqueurs pèsent suivant leur hauteur, et non pas suivant leur largeur dans tous les effets que nous en avons rapportés.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s54">
+         <tuv xml:lang="FRM">
+            <seg>cette Machine nouuelle de Mechanique fait entendre pourquoy les Liqueurs peſent ſuiuant leur hauteur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>cette Machine nouvelle de Mécanique fait entendre pourquoi les Liqueurs pèsent suivant leur hauteur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s56">
+         <tuv xml:lang="FRM">
+            <seg>Car il eſt viſible qu’en la Figure VI. l’eau d’vn petit tuyau contrepeſe vn Piſton chargé de cent liures, parce que le Vaiſſeau du fond eſt luy meſme vn Vaiſſeau plein d’eau, ayant deux ouuertures, à l’vne deſquelles eſt le Piſton large, &amp; à l’autre l’eau du tuyau qui eſt proprement vn Piſton peſant de luy meſme, qui doit contrepeſer l’autre, ſi leurs poids ſont entr’eux comme leurs ouuertures.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Car il est visible qu’en la Figure VI l’eau d’un petit tuyau contre-pèse un Piston chargé de cent livres, parce que le Vaisseau du fond est lui-même un Vaisseau plein d’eau, ayant deux ouvertures, à l’une desquelles est le Piston large, et à l’autre l’eau du tuyau qui est proprement un Piston pesant de lui-même, qui doit contre-peser l’autre, si leurs poids sont entre eux comme leurs ouvertures.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s57">
+         <tuv xml:lang="FRM">
+            <seg>Auſſi en la Figure V. l’eau du tuyau menu eſt en Equilibre auec vn poids de cent liures;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Aussi en la Figure V l’eau du tuyau menu est en Équilibre avec un poids de cent livres;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s58">
+         <tuv xml:lang="FRM">
+            <seg>parce que le Vaiſſeau du fond qui eſt large &amp; peu haut, eſt vn Vaiſſeau clos de toutes parts, plein d’eau, ayant deux ouuertures, l’vne en bas, large, où eſt le Piſton, l’autre en haut menuë, où eſt le petit tuyau, dont l’eau eſt proprement vn Piſton peſant de luy meſme, &amp; contrepeſant l’autre, à cauſe de la proportion des poids aux ouuertures;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>parce que le Vaisseau du fond qui est large et peu haut, est un Vaisseau clos de toutes parts, plein d’eau, ayant deux ouvertures, l’une en bas, large, où est le Piston, l’autre en haut menue, où est le petit tuyau, dont l’eau est proprement un Piston pesant de lui même, et contre-pesant l’autre, à cause de la proportion des poids aux ouvertures;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s59">
+         <tuv xml:lang="FRM">
+            <seg>car il n’importe pas ſi ces ouuertures ſont vis à vis ou non, comme il a eſté dit.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car il n’importe pas si ces ouvertures sont vis-à-vis ou non, comme il a été dit.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s60">
+         <tuv xml:lang="FRM">
+            <seg>Où l’on voit que l’eau de ces tuyaux ne fait autre choſe, que ce que feroiẽt des Piſtons de cuiure égalemẽt peſans, puis qu'vn Piſton de cuiure peſant vne once, ſeroit auſſi bien en Equilibre auec le poids de cent liures, comme le petit filet d’eau peſant vne once: de ſorte que la cauſe de l’Equilibre d’vn petit poids auec vn plus grand, qui paroiſt en tous ces exemples, n’eſt pas en ce que ces corps qui peſent ſi peu, &amp; qui en contrepeſent de bien plus peſans, ſont d’vne matiere liquide, car cela n'eſt pas commun à tous les exemples, puiſque ceux où de petits Piſtons de cuiure en contrepeſent de ſi peſans, montrent la meſme choſe;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Où l’on voit que l’eau de ces tuyaux ne fait autre chose, que ce que feraient des Pistons de cuivre également pesants, puisqu’un Piston de cuivre pesant une once, serait aussi bien en Équilibre avec le poids de cent livres, comme le petit filet d’eau pesant une once: de sorte que la cause de l’Équilibre d’un petit poids avec un plus grand, qui paraît en tous ces exemples, n’est pas en ce que ces corps qui pèsent si peu, et qui en contre-pèsent de bien plus pesants, sont d’une matière liquide, car cela n’est pas commun à tous les exemples, puisque ceux où de petits Pistons de cuivre en contre-pèsent de si pesants, montrent la même chose;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s61">
+         <tuv xml:lang="FRM">
+            <seg>mais en ce que la matiere qui s’étend dans le fond des Vaiſſeaux, depuis vne ouuerture juſqu'à l'autre eſt liquide, car cela eſt commun à tous;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais en ce que la matière qui s’étend dans le fond des Vaisseaux, depuis une ouverture jusqu’à l’autre est liquide, car cela est commun à tous;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s62">
+         <tuv xml:lang="FRM">
+            <seg>&amp; c’eſt la veritable cauſe de cette multiplication.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et c’est la véritable cause de cette multiplication.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s63">
+         <tuv xml:lang="FRM">
+            <seg>Auſſi dans l’exemple de la Figure V. ſi l’eau qui eſt dans le petit tuyau ſe glaçoit, &amp; que celle qui eſt dans le Vaiſſeau large du fond demeuraſt liquide, il faudroit cent liures pour ſoûtenir le poids de cette glace;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Aussi dans l’exemple de la Figure V si l’eau qui est dans le petit tuyau se glaçait, et que celle qui est dans le Vaisseau large du fond demeurât liquide, il faudrait cent livres pour soutenir le poids de cette glace;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s64">
+         <tuv xml:lang="FRM">
+            <seg>mais ſi l’eau qui eſt dans le fond ſe glace, ſoit que l'autre ſe gele ou demeure liquide, il ne faut qu’vne once pour la contrepeſer.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais si l’eau qui est dans le fond se glace, soit que l’autre se gèle ou demeure liquide, il ne faut qu’une once pour la contre-peser.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s65">
+         <tuv xml:lang="FRM">
+            <seg>D’où il paroiſt bien clairement, que c’eſt la liquidité du corps, qui communique d’vne des ouuertures à l’autre, qui cauſe cette multiplication de forces;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>D’où il paraît bien clairement, que c’est la liquidité du corps, qui communique d’une des ouvertures à l’autre, qui cause cette multiplication de forces;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s66">
+         <tuv xml:lang="FRM">
+            <seg>parce que le fondement en eſt, comme nous auons déja dit, qu’vn Vaiſſeau plein d’eau eſt vne Machine de Mechanique pour multiplier les forces.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>parce que le fondement en est, comme nous avons déjà dit, qu’un Vaisseau plein d’eau est une Machine de Mécanique pour multiplier les forces.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s67">
+         <tuv xml:lang="FRM">
+            <seg>Paſſons aux autres effets, dont cette Machine nous découure la raiſon.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Passons aux autres effets, dont cette Machine nous découvre la raison.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s68">
+         <tuv xml:lang="FRM">
+            <seg>Figure VIII. SI vn Vaiſſeau plein d’eau a deux ouuertures, à chacune deſquelles ſoit ſoudé vn tuyau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure VIII. SI un Vaisseau plein d’eau a deux ouvertures, à chacune desquelles soit soudé un tuyau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s68">
+         <tuv xml:lang="FRM">
+            <seg>Figure VIII.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure VIII.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s70">
+         <tuv xml:lang="FRM">
+            <seg>ſi on verſe de l’eau dans l’vn &amp; dans l’autre à pareille hauteur, les deux ſeront en Equilibre.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>si on verse de l’eau dans l’un et dans l’autre à pareille hauteur, les deux seront en Équilibre.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s71">
+         <tuv xml:lang="FRM">
+            <seg>Car leurs hauteurs eſtant pareilles, elles ſeront en la proportion de leurs groſſeurs, c’eſt à dire de leurs ouuertures;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Car leurs hauteurs étant pareilles, elles seront en la proportion de leurs grosseurs, c’est-à-dire de leurs ouvertures;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s72">
+         <tuv xml:lang="FRM">
+            <seg>donc ces deux eaux de ces tuyaux ſont proprement deux Piſtons peſans à proportion des ouuertures;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>donc ces deux eaux de ces tuyaux sont proprement deux Pistons pesants à proportion des ouvertures;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s73">
+         <tuv xml:lang="FRM">
+            <seg>donc ils ſeront en Equilibre par les demonſtrations precedentes. De là vient, que ſi on verſe de l’eau dãs l’vn de ces tuyaux ſeulement, elle fera remonter l’eau dans l’autre, juſques à ce qu’elle ſoit arriuée à la meſme hauteur, &amp; lors elles demeureront en Equilibre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>donc ils seront en Équilibre par les démonstrations précédentes. De là vient, que si on verse de l’eau dans l’un de ces tuyaux seulement, elle fera remonter l’eau dans l’autre, jusqu’à ce qu’elle soit arrivée à la même hauteur, et lors elles demeureront en Équilibre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s74">
+         <tuv xml:lang="FRM">
+            <seg>car alors ce ſeront deux Piſtons peſans en la proportion de leurs ouuertures.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car alors ce seront deux Pistons pesants en la proportion de leurs ouvertures.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s75">
+         <tuv xml:lang="FRM">
+            <seg>Pourquoy l'eau monte außi haut que ſa ſource. C’eſt la raiſon pour laquelle l’eau monte auſſi haut que ſa ſource.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pourquoi l’eau monte aussi haut que sa source. C’est la raison pour laquelle l’eau monte aussi haut que sa source.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s75">
+         <tuv xml:lang="FRM">
+            <seg>Pourquoy l'eau monte außi haut que ſa ſource.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Pourquoi l’eau monte aussi haut que sa source.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s77">
+         <tuv xml:lang="FRM">
+            <seg>Ces ſortes d'experiences ne ſe peuuent faire qu'ẽ rempliſſant le Vaiſſeau juſques à l'embouchure des tuyaux, de la Liqueur la plus peſante. Que ſi l’on met des Liqueurs differentes dans les tuyaux, comme de l’eau dans vn, &amp; du vif argent dans l’autre, ces deux Liqueurs ſeront en Equilibre, quand leurs hauteurs ſerõt proportionnées à leurs peſanteurs;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ces sortes d’expériences ne se peuvent faire qu’en remplissant le Vaisseau jusqu’à l’embouchure des tuyaux, de la Liqueur la plus pesante. Que si l’on met des Liqueurs différentes dans les tuyaux, comme de l’eau dans un, et du vif-argent dans l’autre, ces deux Liqueurs seront en Équilibre, quand leurs hauteurs seront proportionnées à leurs pesanteurs;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s77">
+         <tuv xml:lang="FRM">
+            <seg>Ces ſortes d'experiences ne ſe peuuent faire qu'ẽ rempliſſant le Vaiſſeau juſques à l'embouchure des tuyaux, de la Liqueur la plus peſante.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ces sortes d’expériences ne se peuvent faire qu’en remplissant le Vaisseau jusqu’à l’embouchure des tuyaux, de la Liqueur la plus pesante.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s79">
+         <tuv xml:lang="FRM">
+            <seg>c’eſt à dire quand la hauteur de l'eau ſera quatorze fois plus grande que la hauteur du vif argent, parce que le vif argent peſe de luy meſme quatorze fois plus que l’eau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>c’est-à-dire quand la hauteur de l’eau sera quatorze fois plus grande que la hauteur du vif-argent, parce que le vif-argent pèse de lui même quatorze fois plus que l’eau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s80">
+         <tuv xml:lang="FRM">
+            <seg>car ce ſera deux Piſtons, l’vn d’eau, l’autre de vif argent, dont les poids ſeront proportionnez aux ouuertures.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car ce sera deux Pistons, l’un d’eau, l’autre de vif-argent, dont les poids seront proportionnés aux ouvertures.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s81">
+         <tuv xml:lang="FRM">
+            <seg>Et meſme quand le tuyau plein d’eau ſeroit cent fois plus menu que celuy ou ſeroit le vif argent, ce petit filet d’eau tiendroit en Equilibre toute cette large maſſe de vif argent, pourueu qu’il eût quatorze fois plus de hauteur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et même quand le tuyau plein d’eau serait cent fois plus menu que celui ou serait le vif-argent, ce petit filet d’eau tiendrait en Équilibre toute cette large masse de vif-argent, pourvu qu’il eût quatorze fois plus de hauteur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s82">
+         <tuv xml:lang="FRM">
+            <seg>Tout ce que nous auons dit juſques à cette heure des tuyaux, ſe doit entendre de quelque Vaiſſeau que ce ſoit, regulier ou non;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tout ce que nous avons dit jusqu’à cette heure des tuyaux, se doit entendre de quelque Vaisseau que ce soit, régulier ou non;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s83">
+         <tuv xml:lang="FRM">
+            <seg>car le meſme Equilibre s’y rencontre: de ſorte que ſi au lieu de ces deux tuyaux que nous auons figurez à ces deux ouuertures, on y mettoit deux Vaiſſeaux qui aboutiſſent auſſi à ces deux ouuertures;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car le même Équilibre s’y rencontre: de sorte que si au lieu de ces deux tuyaux que nous avons figurés à ces deux ouvertures, on y mettait deux Vaisseaux qui aboutissent aussi à ces deux ouvertures;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s84">
+         <tuv xml:lang="FRM">
+            <seg>mais qui fuſſent larges en quelques endroits, eſtroits en d’autres, &amp; enfin tous irreguliers dans toute leur eſtenduë;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais qui fussent larges en quelques endroits, étroits en d’autres, et enfin tous irréguliers dans toute leur étendue;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s85">
+         <tuv xml:lang="FRM">
+            <seg>en y verſant des Liqueurs à la hauteur que nous auons dit, ces Liqueurs ſeroient auſſi bien en Equilibre dans ces tuyaux irreguliers, que dans les vniformes;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>en y versant des Liqueurs à la hauteur que nous avons dit, ces Liqueurs seraient aussi bien en Équilibre dans ces tuyaux irréguliers, que dans les uniformes;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s86">
+         <tuv xml:lang="FRM">
+            <seg>parce que les Liqueurs ne peſent que ſuiuant leur hauteur, &amp; non pas ſuiuant leur largeur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>parce que les Liqueurs ne pèsent que suivant leur hauteur, et non pas suivant leur largeur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s87">
+         <tuv xml:lang="FRM">
+            <seg>Et la demonſtration en ſeroit facile, en inſcriuant en l’vn &amp; en l’autre pluſieurs petits tuyaux reguliers;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et la démonstration en serait facile, en inscrivant en l’un et en l’autre plusieurs petits tuyaux réguliers;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s88">
+         <tuv xml:lang="FRM">
+            <seg>car on feroit voir par ce que nous auons démontré, que deux de ces tuyaux inſcripts, qui ſe correſpondent dans les deux vaiſſeaux, ſont en Equilibre: donc tous ceux d’vn Vaiſſeau ſeroient en Equilibre auec tous ceux de l’autre. Ceux qui ſont accoûtumez aux inſcriptions &amp; aux circonſcriptions de la Geometrie, n’auront nulle peine à entendre cela;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car on ferait voir par ce que nous avons démontré, que deux de ces tuyaux inscrits, qui se correspondent dans les deux vaisseaux, sont en Équilibre: donc tous ceux d’un Vaisseau seraient en Équilibre avec tous ceux de l’autre. Ceux qui sont accoutumés aux inscriptions et aux circonscriptions de la Géométrie, n’auront nulle peine à entendre cela;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s89">
+         <tuv xml:lang="FRM">
+            <seg>&amp; il ſeroit bien difficile de le démontrer aux autres au moins Geometriquement.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et il serait bien difficile de le démontrer aux autres au moins Géométriquement.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s90">
+         <tuv xml:lang="FRM">
+            <seg>Figure IX. Si l’on met dans vne riuiere vn tuyau recourbé par le bout d’en bas, plein de vif argent, en ſorte toutefois que le bout d’en haut ſoit hors de l’eau, le vif argent tombera en partie, juſques à ce qu’il ſoit baiſſé à vne certaine hauteur, &amp; puis il ne baiſſera plus, mais demeurera ſuſpendu en cét eſtat;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure IX. Si l’on met dans une rivière un tuyau recourbé par le bout d’en bas, plein de vif-argent, en sorte toutefois que le bout d’en haut soit hors de l’eau, le vif-argent tombera en partie, jusqu’à ce qu’il soit baissé à une certaine hauteur, et puis il ne baissera plus, mais demeurera suspendu en cet état;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s90">
+         <tuv xml:lang="FRM">
+            <seg>Figure IX.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure IX.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s92">
+         <tuv xml:lang="FRM">
+            <seg>en ſorte que ſa hauteur ſoit la quatorziéme partie de la hauteur de l’eau au deſſus du bout recourbé;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>en sorte que sa hauteur soit la quatorzième partie de la hauteur de l’eau au-dessus du bout recourbé;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s93">
+         <tuv xml:lang="FRM">
+            <seg>de ſorte que ſi depuis le haut de l’eau juſques au bout recourbé, il y a quatorze pieds, le vif argent tombera juſques à ce qu’il ſoit arriué à vn pied ſeulement plus haut que le bout recourbé, à laquelle hauteur il demeurera ſuſpendu;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>de sorte que si depuis le haut de l’eau jusqu’au bout recourbé, il y a quatorze pieds, le vif-argent tombera jusqu’à ce qu’il soit arriué à un pied seulement plus haut que le bout recourbé, à laquelle hauteur il demeurera suspendu;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s94">
+         <tuv xml:lang="FRM">
+            <seg>car le poids du vif argent qui peſe au dedans, ſera en Equilibre auec le poids de l’eau qui peſe au dehors du tuyau, à cauſe que ces Liqueurs ont leurs hauteurs proportionnées à leurs poids, &amp; que leurs largeurs ſont indifferentes dans l’Equilibre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car le poids du vif-argent qui pèse au-dedans, sera en Équilibre avec le poids de l’eau qui pèse au-dehors du tuyau, à cause que ces Liqueurs ont leurs hauteurs proportionnées à leurs poids, et que leurs largeurs sont indifférentes dans l’Équilibre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s95">
+         <tuv xml:lang="FRM">
+            <seg>&amp; il eſt auſſi indifferent par la meſme raiſon, que le bout recourbé ſoit large ou non, &amp; qu’ainſi peu ou beaucoup d’eau y peſe.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et il est aussi indifférent par la même raison, que le bout recourbé soit large ou non, et qu’ainsi peu ou beaucoup d’eau y pèse.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s96">
+         <tuv xml:lang="FRM">
+            <seg>Auſſi ſi on enfonce le tuyau plus auant, le vif argent remonte, car le poids de l’eau eſt plus grand;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Aussi si on enfonce le tuyau plus avant, le vif-argent remonte, car le poids de l’eau est plus grand;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s97">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ſi on le hauſſe au contraire, le vif argent baiſſe, car ſon poids ſurpaſſe l’autre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et si on le hausse au contraire, le vif-argent baisse, car son poids surpasse l’autre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s98">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ſi on panche le tuyau, le vif argent remonte, juſques à ce qu’il ſoit reuenu à la hauteur neceſſaire, qui auoit eſté diminuée en le panchant;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et si on penche le tuyau, le vif-argent remonte, jusqu’à ce qu’il soit revenu à la hauteur nécessaire, qui avait été diminuée en le penchant;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s99">
+         <tuv xml:lang="FRM">
+            <seg>car vn tuyau panché n'a pas tant de hauteur que debout.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car un tuyau penché n’a pas tant de hauteur que debout.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s100">
+         <tuv xml:lang="FRM">
+            <seg>Figure X. La meſme choſe arriue en vn tuyau ſimple, c’eſt à dire qui n’eſt point recourbé;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure X. La même chose arrive en un tuyau simple, c’est-à-dire qui n’est point recourbé;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s100">
+         <tuv xml:lang="FRM">
+            <seg>Figure X.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure X.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s102">
+         <tuv xml:lang="FRM">
+            <seg>car ce tuyau ouuert par en haut &amp; par en bas, eſtant plein de vif argent, &amp; enfoncé dans vne riuiere, pourueu que le bout d’en haut ſorte hors de l’eau, ſi le bout d'en bas eſt à quatorze pieds auant dans l’eau, le vif argent tombera, juſques à ce qu’il n’en reſte plus que la hauteur d’vn pied;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car ce tuyau ouvert par en haut et par en bas, étant plein de vif-argent, et enfoncé dans une rivière, pourvu que le bout d’en haut sorte hors de l’eau, si le bout d’en bas est à quatorze pieds avant dans l’eau, le vif-argent tombera, jusqu’à ce qu’il n’en reste plus que la hauteur d’un pied;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s103">
+         <tuv xml:lang="FRM">
+            <seg>&amp; là il demeurera ſuſpendu par le poids de l’eau: ce qui eſt aiſé à entendre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et là il demeurera suspendu par le poids de l’eau: ce qui est aisé à entendre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s104">
+         <tuv xml:lang="FRM">
+            <seg>car l’eau touchant le vif argent par deſſous, &amp; non pas par deſſus, fait effort pour le pouſſer en haut, comme pour chaſſer vn Piſton, &amp; auec d’autant plus de force qu'elle a plus de hauteur;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car l’eau touchant le vif-argent par-dessous, et non pas par-dessus, fait effort pour le pousser en haut, comme pour chasser un Piston, et avec d’autant plus de force qu’elle a plus de hauteur;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s105">
+         <tuv xml:lang="FRM">
+            <seg>tellement que le poids de ce vif argent ayant autant de force pour tomber, que le poids de l’eau en a pour le pouſſer en haut, tout demeure en contrepoids.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>tellement que le poids de ce vif-argent ayant autant de force pour tomber, que le poids de l’eau en a pour le pousser en haut, tout demeure en contre-poids.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s106">
+         <tuv xml:lang="FRM">
+            <seg>Auſſi ſi le vif argent n’y eſtoit pas, il eſt viſible que l’eau entreroit dans ce tuyau, &amp; y monteroit à quatorze pieds de hauteur, qui eſt celle de ſon niueau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Aussi si le vif-argent n’y était pas, il est visible que l’eau entrerait dans ce tuyau, et y monterait à quatorze pieds de hauteur, qui est celle de son niveau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s107">
+         <tuv xml:lang="FRM">
+            <seg>donc ce pied de vif argent peſant autant que ces quatorze pieds d’eau, dont il tient la place, il eſt naturel qu’il tienne l’eau dans le meſme Equilibre ou ces quatorze pieds d’eau la tiendroient.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>donc ce pied de vif-argent pesant autant que ces quatorze pieds d’eau, dont il tient la place, il est naturel qu’il tienne l’eau dans le même Équilibre ou ces quatorze pieds d’eau la tiendraient.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s108">
+         <tuv xml:lang="FRM">
+            <seg>Mais ſi on mettoit le tuyau ſi auant dans l’eau, que le bout d’en haut y entrât, alors l’eau entreroit dans le tuyau, &amp; le vif argent tomberoit;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais si on mettait le tuyau si avant dans l’eau, que le bout d’en haut y entrât, alors l’eau entrerait dans le tuyau, et le vif-argent tomberait;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s109">
+         <tuv xml:lang="FRM">
+            <seg>car l’eau peſant auſſi bien au dedans qu’au dehors du tuyau, le vif argent ſeroit ſans vn contrepoids neceſſaire pour eſtre ſoûtenu.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car l’eau pesant aussi bien au-dedans qu’au-dehors du tuyau, le vif-argent serait sans un contre-poids nécessaire pour être soutenu.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s110">
+         <tuv xml:lang="FRM">
+            <seg>NOVS allons maintenant donner des exemples de l’Equilibre de l’eau auec des corps maſſifs, comme auec vn Cilindre de cuiure maſſif, car on le fera nager dans l’eau en cette ſorte.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>NOUS allons maintenant donner des exemples de l’Équilibre de l’eau avec des corps massifs, comme avec un Cylindre de cuivre massif, car on le fera nager dans l’eau en cette sorte.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s111">
+         <tuv xml:lang="FRM">
+            <seg>Fig. XI. Il faut auoir vn tuyau fort long, comme de vingt pieds, qui s’élargiſſe par le bout d’en bas, comme ce qu’on appelle vn entonnoir: ſi ce bout d'en bas eſt rond, &amp; qu’on y mette vn Cilindre de cuiure, fait au tour auec tant de juſteſſe, qu’il puiſſe entrer &amp; ſortir dans l’ouuerture de cét entonnoir, &amp; y couler ſans que l’eau puiſſe du tout couler entre deux, &amp; qu’il ſerue ainſi de Piſton, ce qui eſt aiſé à faire;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Fig. XI. Il faut avoir un tuyau fort long, comme de vingt pieds, qui s’élargisse par le bout d’en bas, comme ce qu’on appelle un entonnoir: si ce bout d’en bas est rond, et qu’on y mette un Cylindre de cuivre, fait au tour avec tant de justesse, qu’il puisse entrer et sortir dans l’ouverture de cet entonnoir, et y couler sans que l’eau puisse du tout couler entre deux, et qu’il serve ainsi de Piston, ce qui est aisé à faire;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s111">
+         <tuv xml:lang="FRM">
+            <seg>Fig. XI.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Fig. XI.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s113">
+         <tuv xml:lang="FRM">
+            <seg>on verra, qu’en mettant le Cilindre &amp; cét entonnoir enſemble dans vne riuiere, en ſorte toutefois que le bout du tuyau ſoit hors de l’eau, ſi l’on tient le tuyau auec la main, &amp; qu’on abandonne le Cilindre de cuiure à ce qui deura arriuer, ce Cilindre maſſif ne tõbera point, mais demeurera ſuſpendu, parce que l’eau le touche par deſſous &amp; non par deſſus (car elle ne peut entrer dans le tuyau;) &amp; ainſi l’eau le pouſſe en haut de la meſme ſorte qu'elle pouſſoit le vif argent dans l’exemple precedent, &amp; auec autant de force que le poids de cuiure en a pour tomber en bas;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>on verra, qu’en mettant le Cylindre et cet entonnoir ensemble dans une rivière, en sorte toutefois que le bout du tuyau soit hors de l’eau, si l’on tient le tuyau avec la main, et qu’on abandonne le Cylindre de cuivre à ce qui devra arriver, ce Cylindre massif ne tombera point, mais demeurera suspendu, parce que l’eau le touche par-dessous et non par-dessus (car elle ne peut entrer dans le tuyau;) et ainsi l’eau le pousse en haut de la même sorte qu’elle poussait le vif-argent dans l’exemple précédent, et avec autant de force que le poids de cuivre en a pour tomber en bas;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s114">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ainſi ces efforts contraires ſe contrebalancent. Il eſt vray qu’il faut pour cét effet qu’il ſoit aſſez auant dans l’eau, pour faire qu’elle ait la hauteur neceſſaire pour contrepeſer le cuiure: de ſorte que ſi ce Cilindre a vn pied de haut, il faut que depuis le haut de l’eau juſques au bas du Cilindre, il y ait neuf pieds, à cauſe que le cuiure peſe de luy meſme neuf fois autant que l’eau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et ainsi ces efforts contraires se contrebalancent. Il est vrai qu’il faut pour cet effet qu’il soit assez avant dans l’eau, pour faire qu’elle ait la hauteur nécessaire pour contre-peser le cuivre: de sorte que si ce Cylindre a un pied de haut, il faut que depuis le haut de l’eau jusqu’au bas du Cylindre, il y ait neuf pieds, à cause que le cuivre pèse de lui même neuf fois autant que l’eau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s115">
+         <tuv xml:lang="FRM">
+            <seg>auſſi ſi l’eau n’a pas aſſez de hauteur, comme ſi on retire le tuyau plus vers le haut de l’eau, ſon poids l’emporte, &amp; il tombe, mais ſi on l'enfonce encore plus auant qu’il ne faut, comme à vingt pieds;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>aussi si l’eau n’a pas assez de hauteur, comme si on retire le tuyau plus vers le haut de l’eau, son poids l’emporte, et il tombe, mais si on l’enfonce encore plus avant qu’il ne faut, comme à vingt pieds;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s116">
+         <tuv xml:lang="FRM">
+            <seg>tant s’en faut qu’il puiſſe tomber par ſon poids, qu’au contraire il faudroit employer vne grande force pour le ſeparer &amp; l’arracher d’auec l’entonnoir, car le poids de l’eau le pouſſe en haut auec la force de vingt pieds de haut. Mais ſi on perce le tuyau, &amp; que l’eau y entre, &amp; peſe auſſi bien ſur le Cilindre comme par deſſous, lors le Cilindre tombera par ſon poids, comme le vif argent dans l’autre exemple, parce qu’il n’a plus le contrepois qu’il faut pour le ſoûtenir.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>tant s’en faut qu’il puisse tomber par son poids, qu’au contraire il faudrait employer une grande force pour le séparer et l’arracher d’avec l’entonnoir, car le poids de l’eau le pousse en haut avec la force de vingt pieds de haut. Mais si on perce le tuyau, et que l’eau y entre, et pèse aussi bien sur le Cilindre comme par dessous, lors le Cilindre tombera par son poids, comme le vif argent dans l’autre exemple, parce qu’il n’a plus le contre-poids qu’il faut pour le soutenir.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s117">
+         <tuv xml:lang="FRM">
+            <seg>Fig. XII. Si ce tuyau tel que nous le venons de figurer eſt recourbé, &amp; qu’on y mette vn Cilindre de bois, &amp; le tout dans l’eau, en ſorte neanmoins que le bout d’en haut ſorte de l’eau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Fig. XII. Si ce tuyau tel que nous le venons de figurer est recourbé, et qu’on y mette un Cylindre de bois, et le tout dans l’eau, en sorte néanmoins que le bout d’en haut sorte de l’eau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s117">
+         <tuv xml:lang="FRM">
+            <seg>Fig. XII.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Fig. XII.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s119">
+         <tuv xml:lang="FRM">
+            <seg>le bois ne remontera pas, quoy que l’eau l’enuironne;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>le bois ne remontera pas, quoique l’eau l’environne;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s120">
+         <tuv xml:lang="FRM">
+            <seg>mais au contraire il s’enfoncera dans le tuyau, à cauſe qu’elle le touche par deſſus &amp; non pas par deſſous, car elle ne peut entrer dans le tuyau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais au contraire il s’enfoncera dans le tuyau, à cause qu’elle le touche par-dessus et non pas par-dessous, car elle ne peut entrer dans le tuyau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s121">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ainſi elle le pouſſe en bas par tout ſon poids, &amp; point du tout en haut, car elle ne le touche pas par deſſous.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et ainsi elle le pousse en bas par tout son poids, et point du tout en haut, car elle ne le touche pas par-dessous.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s122">
+         <tuv xml:lang="FRM">
+            <seg>Figure XIII. Que ſi ce Cilindre eſtoit à fleur d’eau, c’eſt à dire qu’il fût enfoncé ſeulement, en ſorte que l’eau ne fût pas au deſſus de luy, mais auſſi qu’il n’eût riẽ hors de l’eau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure XIII. Que si ce Cylindre était à fleur d’eau, c’est-à-dire qu’il fût enfoncé seulement, en sorte que l’eau ne fût pas au-dessus de lui, mais aussi qu’il n’eût rien hors de l’eau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s122">
+         <tuv xml:lang="FRM">
+            <seg>Figure XIII.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure XIII.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s124">
+         <tuv xml:lang="FRM">
+            <seg>lors il ne ſeroit pouſſé ny en haut ny en bas par le poids de l’eau, car elle ne le touche ny par deſſus ny par deſſous, puis qu’elle ne peut entrer dans le tuyau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>lors il ne serait poussé ni en haut ni en bas par le poids de l’eau, car elle ne le touche ni par-dessus ni par-dessous, puisqu’elle ne peut entrer dans le tuyau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s125">
+         <tuv xml:lang="FRM">
+            <seg>&amp; elle le touche ſeulement par tous ſes coſtez: ainſi il ne remonteroit pas, car rien ne l’éleue, &amp; il tomberoit au contraire, mais par ſon propre poids ſeulement.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et elle le touche seulement par tous ses côtés: ainsi il ne remonterait pas, car rien ne l’élève, et il tomberait au contraire, mais par son propre poids seulement.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s126">
+         <tuv xml:lang="FRM">
+            <seg>Que ſi le bout d’en bas du tuyau eſtoit tourné de coſté, comme vne croſſe, &amp; qu’on y mît vn Cilindre, &amp; le tout dans l’eau, en ſorte toûjours que le bout d’en haut ſorte hors de l’eau, le poids de l’eau le pouſſera de coſté au dedans du tuyau, parce qu'elle ne le touche pas du coſté qui luy eſt oppoſé, &amp; elle agira de cette ſorte auec d’autant plus de force, qu'elle aura plus de hauteur.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Que si le bout d’en bas du tuyau était tourné de côté, comme une crosse, et qu’on y mît un Cylindre, et le tout dans l’eau, en sorte toujours que le bout d’en haut sorte hors de l’eau, le poids de l’eau le poussera de côté au-dedans du tuyau, parce qu’elle ne le touche pas du côté qui lui est opposé, et elle agira de cette sorte avec d’autant plus de force, qu’elle aura plus de hauteur.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s127">
+         <tuv xml:lang="FRM">
+            <seg>Figure XV. NOVS voyons par là que l'eau pouſſe en haut les corps qu’elle touche par deſſous;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure XV. NOUS voyons par là que l’eau pousse en haut les corps qu’elle touche par dessous;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s127">
+         <tuv xml:lang="FRM">
+            <seg>Figure XV.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure XV.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s129">
+         <tuv xml:lang="FRM">
+            <seg>qu'elle pouſſe en bas ceux qu’elle touche par deſſus;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>qu’elle pousse en bas ceux qu’elle touche par dessus;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s130">
+         <tuv xml:lang="FRM">
+            <seg>&amp; qu'elle pouſſe de coſté ceux qu'elle touche par le coſté oppoſé: d’où il eſt aiſé de conclure, que quand vn corps eſt tout dans l’eau, comme l’eau le touche par deſſus, par deſſous, &amp; par tous les coſtez, elle fait effort pour le pouſſer en haut, en bas, &amp; vers tous les coſtés: mais comme ſa hauteur eſt la meſure de la force qu'elle a dans toutes ces impreſſions on verra bien aiſément lequel de tous ces efforts doit preualoir.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et qu’elle pousse de côté ceux qu’elle touche par le côté opposé: d’où il est aisé de conclure, que quand un corps est tout dans l’eau, comme l’eau le touche par-dessus, par-dessous, et par tous les côtés, elle fait effort pour le pousser en haut, en bas, et vers tous les côtés: mais comme sa hauteur est la mesure de la force qu’elle a dans toutes ces impressions on verra bien aisément lequel de tous ces efforts doit prévaloir.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s131">
+         <tuv xml:lang="FRM">
+            <seg>Car il paroiſt d’abord que comme elle a vne pareille hauteur ſur toutes les faces des coſtés, elle les pouſſera également;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Car il paraît d’abord que comme elle a une pareille hauteur sur toutes les faces des côtés, elle les poussera également;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s132">
+         <tuv xml:lang="FRM">
+            <seg>&amp; partant ce corps ne receura aucune impreſſion vers aucun coſté, non plus qu’vne giroüette entre deux vents égaux. Mais comme l’eau a plus de hauteur ſur la face d’en bas que ſur celle d’en haut, il eſt viſible qu’elle le pouſſera plus en haut qu'en bas;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et partant ce corps ne recevra aucune impression vers aucun côté, non plus qu’une girouette entre deux vents égaux. Mais comme l’eau a plus de hauteur sur la face d’en bas que sur celle d’en haut, il est visible qu’elle le poussera plus en haut qu’en bas;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s133">
+         <tuv xml:lang="FRM">
+            <seg>&amp; comme la difference de ces hauteurs de l’eau eſt la hauteur du corps meſme, il eſt aiſé d’entendre que l’eau le pouſſe plus en haut qu’en bas, auec vne force égale au poids d’vn volume d’eau pareil à ce corps.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et comme la différence de ces hauteurs de l’eau est la hauteur du corps même, il est aisé d’entendre que l’eau le pousse plus en haut qu’en bas, avec une force égale au poids d’un volume d’eau pareil à ce corps.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s134">
+         <tuv xml:lang="FRM">
+            <seg>Un corps dans l'eau eſt contrepeſé par un volume d'eau pareil. De ſorte qu'vn corps qui eſt dans l’eau y eſt porté de la meſme ſorte, que s’il eſtoit dans vn baſſin de balance, dont l’autre fût chargé d’vn volume d’eau égal au ſien.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Un corps dans l’eau est contre-pesé par un volume d’eau pareil. De sorte qu’un corps qui est dans l’eau y est porté de la même sorte, que s’il était dans un bassin de balance, dont l’autre fût chargé d’un volume d’eau égal au sien.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s134">
+         <tuv xml:lang="FRM">
+            <seg>Un corps dans l'eau eſt contrepeſé par un volume d'eau pareil.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Un corps dans l’eau est contre-pesé par un volume d’eau pareil.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s136">
+         <tuv xml:lang="FRM">
+            <seg>De là vient que quelques corps y tombent. D’où il paroiſt que s’il eſt de cuiure ou d’vne autre matiere qui peſe plus que l’eau en pareil volume, il tombe;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De là vient que quelques corps y tombent. D’où il paraît que s’il est de cuivre ou d’une autre matière qui pèse plus que l’eau en pareil volume, il tombe;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s136">
+         <tuv xml:lang="FRM">
+            <seg>De là vient que quelques corps y tombent.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De là vient que quelques corps y tombent.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s138">
+         <tuv xml:lang="FRM">
+            <seg>car ſon poids l’emporte ſur celuy qui le contrebalance.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car son poids l’emporte sur celui qui le contrebalance.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s139">
+         <tuv xml:lang="FRM">
+            <seg>D'autres y montent. S’il eſt de bois ou d’vne autre matiere plus legere que l’eau en pareil volume, il monte auec toute la force dont le poids de l’eau le ſurpaſſe.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>D’autres y montent. S’il est de bois ou d’une autre matière plus légère que l’eau en pareil volume, il monte avec toute la force dont le poids de l’eau le surpasse.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s139">
+         <tuv xml:lang="FRM">
+            <seg>D'autres y montent.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>D’autres y montent.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s141">
+         <tuv xml:lang="FRM">
+            <seg>D'autres n’y montent ny ne deſcendent. Et s’il peſe également, il ne deſcend ny ne monte;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>D’autres n’y montent ni ne descendent. Et s’il pèse également, il ne descend ni ne monte;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s141">
+         <tuv xml:lang="FRM">
+            <seg>D'autres n’y montent ny ne d'eſcendent.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>D’autres n’y montent ni ne descendent.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s143">
+         <tuv xml:lang="FRM">
+            <seg>comme la cire qui ſe tient à peu prés dans l’eau au lieu où on l’a met.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>comme la cire qui se tient à peu près dans l’eau au lieu où on l’a met.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s144">
+         <tuv xml:lang="FRM">
+            <seg>De là vient que le ſeau d’vn puis n’eſt pas difficile à hauſſer tant qu’il eſt dans l’eau, &amp; qu’on ne ſent ſon poids que quand il commence à en ſortir, de meſme qu’vn ſeau plein de cire ne ſeroit non plus difficile à hauſſer eſtant dans l’eau: Ce n'eſt pas que l’eau auſſi bien que la cire, ne peſent autant dans l’eau que dehors;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De là vient que le seau d’un puits n’est pas difficile à hausser tant qu’il est dans l’eau, et qu’on ne sent son poids que quand il commence à en sortir, de même qu’un seau plein de cire ne serait non plus difficile à hausser étant dans l’eau: Ce n’est pas que l’eau aussi bien que la cire, ne pèsent autant dans l’eau que dehors;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s145">
+         <tuv xml:lang="FRM">
+            <seg>mais c’eſt qu’eſtant dans l’eau, ils ont vn contrepoids qu’ils n’ont plus quand ils en ſont tirés;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais c’est qu’étant dans l’eau, ils ont un contrepoids qu’ils n’ont plus quand ils en sont tirés;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s146">
+         <tuv xml:lang="FRM">
+            <seg>de meſme qu’vn baſſin de balance chargé de cent liures n’eſt pas difficile à hauſſer, ſi l’autre l’eſt également.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>de même qu’un bassin de balance chargé de cent livres n’est pas difficile à hausser, si l’autre l’est également.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s147">
+         <tuv xml:lang="FRM">
+            <seg>Du cuiure peſe plus en l'air que dãs l'eau. De là vient que quand du cuiure eſt dans l’eau, on le ſent moins peſant preciſément du poids d’vn volume d’eau égal au ſien;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Du cuivre pèse plus en l’air que dans l’eau. De là vient que quand du cuivre est dans l’eau, on le sent moins pesant précisément du poids d’un volume d’eau égal au sien;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s147">
+         <tuv xml:lang="FRM">
+            <seg>Du cuiure peſe plus en l'air que dãs l'eau.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Du cuivre pèse plus en l’air que dans l’eau.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s149">
+         <tuv xml:lang="FRM">
+            <seg>de ſorte que s’il peſe neuf liures en l’air, il ne peſe plus que huit liures dans l’eau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>de sorte que s’il pèse neuf livres en l’air, il ne pèse plus que huit livres dans l’eau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s150">
+         <tuv xml:lang="FRM">
+            <seg>parce que l’eau en pareil volume qui le contrebalance peſe vne liure: &amp; dans l’eau de la mer il peſe moins;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>parce que l’eau en pareil volume qui le contrebalance pèse une livre: et dans l’eau de la mer il pèse moins;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s151">
+         <tuv xml:lang="FRM">
+            <seg>parce que l’eau de la mer peſe plus, à peu prés d’vne quarante-cinquieſme partie.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>parce que l’eau de la mer pèse plus, à peu près d’une quarante-cinquième partie.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s152">
+         <tuv xml:lang="FRM">
+            <seg>Deux corps eſtant en Equilibre en l'air, ne le ſont point dans l'eau. Par la meſme raiſon deux corps, l’vn de cuiure, l’autre de plomb, eſtant également peſants, &amp; par conſequent de different volume, puis qu’il faut plus de cuiure pour faire la meſme peſanteur;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Deux corps étant en Équilibre en l’air, ne le sont point dans l’eau. Par la même raison deux corps, l’un de cuivre, l’autre de plomb, étant également pesants, et par conséquent de différents volume, puisqu’il faut plus de cuivre pour faire la même pesanteur;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s152">
+         <tuv xml:lang="FRM">
+            <seg>Deux corps eſtant en Equilibre en l'air, ne le ſont point dans l'eau.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Deux corps étant en Équilibre en l’air, ne le sont point dans l’eau.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s154">
+         <tuv xml:lang="FRM">
+            <seg>on les trouuera en Equilibre, en les mettant chacun dans vn baſſin de balance: mais ſi on met cette balance dans l’eau, ils ne ſont plus en Equilibre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>on les trouvera en Équilibre, en les mettant chacun dans un bassin de balance: mais si on met cette balance dans l’eau, ils ne sont plus en Équilibre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s155">
+         <tuv xml:lang="FRM">
+            <seg>car chacun eſtant contrepeſé par vn volume d’eau égal au ſien, le volume de cuiure eſtant plus grand que celuy de plomb, il a vn plus grand contrepoids;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car chacun étant contre-pesé par un volume d’eau égal au sien, le volume de cuivre étant plus grand que celui de plomb, il a un plus grand contrepoids;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s156">
+         <tuv xml:lang="FRM">
+            <seg>&amp; partant le poids du plomb eſt le maiſtre.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et partant le poids du plomb est le maître.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s157">
+         <tuv xml:lang="FRM">
+            <seg>Ny meſmes dans l’air humide. Ainſi deux poids de differente matiere eſtant ajuſtez dans vn parfait Equilibre, de la derniere juſteſſe où les hommes peuuent arriuer;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ni mêmes dans l’air humide. Ainsi deux poids de différente matière étant ajustés dans un parfait Équilibre, de la dernière justesse où les hommes peuvent arriver;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s157">
+         <tuv xml:lang="FRM">
+            <seg>Ny meſmes dans l’air humide.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ni même dans l’air humide.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s159">
+         <tuv xml:lang="FRM">
+            <seg>s’ils ſont en Equilibre, quand l’air eſt fort ſec, ils ne le ſont plus quand l’air eſt humide.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>s’ils sont en Équilibre, quand l’air est fort sec, ils ne le sont plus quand l’air est humide.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s160">
+         <tuv xml:lang="FRM">
+            <seg>L'eau pouſſe tous les corps qui y ſont en haut par ſon poids, &amp; non pas enbas. C’eſt par le meſme principe, que quand vn homme eſt dans l’eau, tant s’en faut que le poids de l’eau le pouſſe en bas, qu’au contraire elle le pouſſe en haut;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’eau pousse tous les corps qui y sont en haut par son poids, et non pas en bas. C’est par le même principe, que quand un homme est dans l’eau, tant s’en faut que le poids de l’eau le pousse en bas, qu’au contraire elle le pousse en haut;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s160">
+         <tuv xml:lang="FRM">
+            <seg>L'eau pouſſe tous les corps qui y ſont en haut par ſon poids, &amp; non pas enbas.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’eau pousse tous les corps qui y sont en haut par son poids, et non pas en bas.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s162">
+         <tuv xml:lang="FRM">
+            <seg>mais il peſe plus qu'elle;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais il pèse plus qu’elle;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s163">
+         <tuv xml:lang="FRM">
+            <seg>&amp; c’eſt pourquoy il ne laiſſe pas de tomber, mais auec bien moins de violence qu'en l’air: parce qu’il eſt contrepeſé par vn volume d’eau pareil au ſien, qui peſe preſque autant que luy;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et c’est pourquoi il ne laisse pas de tomber, mais avec bien moins de violence qu’en l’air: parce qu’il est contre-pesé par un volume d’eau pareil au sien, qui pèse presque autant que lui;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s164">
+         <tuv xml:lang="FRM">
+            <seg>&amp; s’il peſoit autant il nageroit. Auſſi en donnant vn coup à terre, ou faiſant le moindre effort contre l’eau, il s’éleue &amp; nage: &amp; dans les bains d’eau bourbeuſe, vn homme ne ſçauroit enfoncer;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et s’il pesait autant il nagerait. Aussi en donnant un coup à terre, ou faisant le moindre effort contre l’eau, il s’élève et nage: et dans les bains d’eau bourbeuse, un homme ne saurait enfoncer;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s165">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ſi on l'enfonce, il remonte de luy meſme.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et si on l’enfonce, il remonte de lui-même.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s166">
+         <tuv xml:lang="FRM">
+            <seg>Par la meſme cauſe, quand on ſe baigne dans vne cuue, on n’a point de peine à hauſſer le bras, tant qu’il eſt dans l’eau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Par la même cause, quand on se baigne dans une cuve, on n’a point de peine à hausser le bras, tant qu’il est dans l’eau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s167">
+         <tuv xml:lang="FRM">
+            <seg>mais quand on le ſort de l’eau, on ſent qu’il peſe beaucoup;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais quand on le sort de l’eau, on sent qu’il pèse beaucoup;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s168">
+         <tuv xml:lang="FRM">
+            <seg>à cauſe qu’il n’a plus le contrepoids d’vn volume d’eau pareil au ſien, qu’il auoit eſtant dans l’eau.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>à cause qu’il n’a plus le contrepoids d’un volume d’eau pareil au sien, qu’il avait étant dans l’eau.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s169">
+         <tuv xml:lang="FRM">
+            <seg>Comment les corps nagent. Enfin, les corps qui nagent ſur l’eau, peſent preciſément autant que l’eau dont ils occupent la place;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Comment les corps nagent. Enfin, les corps qui nagent sur l’eau, pèsent précisément autant que l’eau dont ils occupent la place;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s169">
+         <tuv xml:lang="FRM">
+            <seg>Comment les corps nagent.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Comment les corps nagent.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s171">
+         <tuv xml:lang="FRM">
+            <seg>car l’eau les touchant par deſſous, &amp; non pas par deſſus, les pouſſe ſeulement en haut.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car l’eau les touchant par dessous, et non pas par dessus, les pousse seulement en haut.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s172">
+         <tuv xml:lang="FRM">
+            <seg>Et c’eſt pourquoy vne platine de plomb eſtant miſe en figure conuexe, elle nage;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et c’est pourquoi une platine de plomb étant mise en figure convexe, elle nage;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s173">
+         <tuv xml:lang="FRM">
+            <seg>parce qu’elle occupe vne grande place dans l’eau par cette figure;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>parce qu’elle occupe une grande place dans l’eau par cette figure;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s174">
+         <tuv xml:lang="FRM">
+            <seg>au lieu que ſi elle eſtoit maſſiue, elle n’occuperoit jamais dans l’eau que la place d’vn volume d’eau égal au volume de ſa matiere, qui ne ſuffiroit pas pour la contrepeſer.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>au lieu que si elle était massive, elle n’occuperait jamais dans l’eau que la place d’un volume d’eau égal au volume de sa matière, qui ne suffirait pas pour la contre-peser.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s175">
+         <tuv xml:lang="FRM">
+            <seg>ON voit par tout ce que j’ay montré, de quelle ſorte l’eau agit contre tous les corps qui y ſont, en les preſſant par tous les coſtez;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ON voit par tout ce que j’ai montré, de quelle sorte l’eau agit contre tous les corps qui y sont, en les pressant par tous les côtés;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s176">
+         <tuv xml:lang="FRM">
+            <seg>d’où il eſt aiſé à juger, que ſi vn corps compreſſible y eſt enfoncé, elle doit le comprimer en dedans vers le centre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>d’où il est aisé à juger, que si un corps compressible y est enfoncé, elle doit le comprimer en dedans vers le centre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s177">
+         <tuv xml:lang="FRM">
+            <seg>&amp; c’eſt auſſi ce qu’elle fait, comme on va voir dans les exemples ſuiuans.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et c’est aussi ce qu’elle fait, comme on va voir dans les exemples suivants.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s178">
+         <tuv xml:lang="FRM">
+            <seg>Figure XIV. Si vn ſoufflet qui a le tuyau fort long, comme de vingt pieds, eſt dans l’eau, en ſorte que le bout du fer ſorte hors de l’eau;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure XIV. Si un soufflet qui a le tuyau fort long, comme de vingt pieds, est dans l’eau, en sorte que le bout du fer sorte hors de l’eau;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s178">
+         <tuv xml:lang="FRM">
+            <seg>Figure XIV.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Figure XIV.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s180">
+         <tuv xml:lang="FRM">
+            <seg>il ſera difficile à ouurir ſi on a bouché les petits trous qui ſont à l’vne des ailes;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>il sera difficile à ouvrir si on a bouché les petits trous qui sont à l’une des ailes;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s181">
+         <tuv xml:lang="FRM">
+            <seg>au lieu qu’on l’ouuriroit ſans peine, s’il eſtoit en l’air;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>au lieu qu’on l’ouvrirait sans peine, s’il était en l’air;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s182">
+         <tuv xml:lang="FRM">
+            <seg>à cauſe que l’eau le comprime</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>à cause que l’eau le comprime</seg>
+         </tuv>
+      </tu>
+   
+   </body>
+</tmx>
