@@ -1,0 +1,2012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+   <header creationtool="NA"
+           creationtoolversion="NA"
+           datatype="XML"
+           segtype="sub-sentence"
+           adminlang="fr-FR"
+           srclang="FRM"
+           o-tmf="XML"/>
+   <body>
+   
+      <tu tuid="s1">
+         <tuv xml:lang="FRM">
+            <seg>ORAISON   DEDICATOIRE.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ORAISON DÉDICATOIRE.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s2">
+         <tuv xml:lang="FRM">
+            <seg>DOVX IESVS, mon   Seigneur, mon Sauueur,   &amp; mon Dieu, me voicy   proſterné deuant voſtre   Maieſté, vouant &amp; conſacrant cét écrit à voſtre gloire:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>DOUX JÉSUS, mon Seigneur, mon Sauveur, et mon Dieu, me voici prosterné devant votre Majesté, vouant et consacrant cet écrit à votre gloire:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s3">
+         <tuv xml:lang="FRM">
+            <seg>animez, les paroles   qui y ſont de voſtre benediction, à ce   que les ames pour leſquelles ie l'ay fait,   en puiſſent receuoir les inſpirations ſacrées que ie leur deſire, &amp; particulierement celle d'implorer ſur moy voſtre      immenſe miſericorde, afin que montrant aux autres le chemin de la deuotion en ce monde, ie ne ſois pas reprouué &amp; confondu eternellement en l'autre:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>animez, les paroles qui y sont de votre bénédiction, à ce que les âmes pour lesquelles je l’ai fait, en puissent recevoir les inspirations sacrées que je leur désire, et particulièrement celle d’implorer sur moi votre immense miséricorde, afin que montrant aux autres le chemin de la dévotion en ce monde, je ne sois pas réprouvé et confondu éternellement en l’autre:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s4">
+         <tuv xml:lang="FRM">
+            <seg>ains qu'auec eux ie chante à iamais pour cantique de triomphe, le mot   que de tout mon cœur ie prononce,   en témoignage de fidelité parmy les   hazards de cette vie mortelle VIVE   IESVS, VIVE IESVS.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ains qu’avec eux je chante à jamais pour cantique de triomphe, le mot que de tout mon cœur je prononce, en témoignage de fidélité parmi les hasards de cette vie mortelle VIVE JÉSUS, VIVE JÉSUS.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s5">
+         <tuv xml:lang="FRM">
+            <seg>Ouy, Seigneur   IESVS, viuez &amp; regnez en nos   cœurs es ſiecles des ſiecles.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Oui, Seigneur JÉSUS, vivez et régnez en nos cœurs ès siècles des siècles.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s6">
+         <tuv xml:lang="FRM">
+            <seg>Ainſi ſoit-il.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ainsi soit-il.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s7">
+         <tuv xml:lang="FRM">
+            <seg>PREMIERE PARTIE   DE L’INTRODVCTION,   CONTENANT LES AVIS ET EXERCICES   requis pour conduire l’Ame dés ſon premier   deſir de la vie deuote, iuſques à vne entiere   reſolution de l’embraſſer.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>PREMIÈRE PARTIE DE L’INTRODUCTION, CONTENANT LES AVIS ET EXERCICES requis pour conduire l’Âme dès son premier désir de la vie dévote, jusqu’à une entière résolution de l’embrasser.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s8">
+         <tuv xml:lang="FRM">
+            <seg>Deſcription de la vraye deuotion.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Description de la vraie dévotion.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s9">
+         <tuv xml:lang="FRM">
+            <seg>CHAPITRE I.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>CHAPITRE I.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s10">
+         <tuv xml:lang="FRM">
+            <seg>VOVS aſpirez à la deuotion, tres-chere Philothée, parce qu’eſtant Chreſtienne, vous ſçauez que c’eſt vne vertu extremement agreable à la diuine Maieſté.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>VOUS aspirez à la dévotion, très chère Philothée, parce qu’étant Chrétienne, vous savez que c’est une vertu extrêmement agréable à la divine Majesté.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s11">
+         <tuv xml:lang="FRM">
+            <seg>Mais dautant que les petites fautes, que l’on commet au commencement de quelque affaire, s’agrandiſſent infiniment au progrez, &amp; ſont preſque irreparables à la fin;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais d’autant que les petites fautes, que l’on commet au commencement de quelque affaire, s’agrandissent infiniment au progrès, et sont presque irréparables à la fin;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s12">
+         <tuv xml:lang="FRM">
+            <seg>il faut auant toutes choſes que vous ſçachiez que c’eſt que la vertu de deuotion:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>il faut avant toutes choses que vous sachiez que c’est que la vertu de dévotion:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s13">
+         <tuv xml:lang="FRM">
+            <seg>car dautant qu’il n’y en a qu'vne vraye, &amp; qu’il y en a vne grande quantité de fauſſes &amp; vaines, ſi vous ne cognoiſſez quelle eſt la vraye, vous pourriez vous tromper, &amp; vous amuſer à ſuiure quelque deuotion impertinente &amp; ſuperſtitieuſe.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car d’autant qu’il n’y en a qu’une vraie, et qu’il y en a une grande quantité de fausses et vaines, si vous ne connaissez quelle est la vraie, vous pourriez vous tromper, et vous amuser à suivre quelque dévotion impertinente et superstitieuse.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s14">
+         <tuv xml:lang="FRM">
+            <seg>Arelius peignoit toutes les faces des images qu’il faiſoit, à l’air &amp; reſſemblance des femmes qu’il aymoit:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Arélius peignait toutes les faces des images qu’il faisait, à l’air et ressemblance des femmes qu’il aimait:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s15">
+         <tuv xml:lang="FRM">
+            <seg>&amp; chacun peint la deuotion ſelon ſa paſſion &amp; fantaiſie.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et chacun peint la dévotion selon sa passion et fantaisie.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s16">
+         <tuv xml:lang="FRM">
+            <seg>Celuy qui eſt adonné au ieuſne, ſe tiendra pour bien deuot, pourueu qu’il ieuſne quoy que ſon cœur ſoit plein de rancune, &amp; n’oſant point tremper ſa langue dedans le vin, ny meſme dans l’eau par ſobrieté, ne ſe feindra point de la plonger dedans le ſang du prochain, par la médiſance &amp; calomnie.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Celui qui est adonné au jeûne, se tiendra pour bien dévot, pourvu qu’il jeûne quoique son cœur soit plein de rancune, et n’osant point tremper sa langue dedans le vin, ni même dans l’eau par sobrieté, ne se feindra point de la plonger dedans le sang du prochain, par la médisance et calomnie.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s17">
+         <tuv xml:lang="FRM">
+            <seg>Vn autre s’eſtimera deuot, parce qu’il dit vne grande multitude d’oraiſons tous les iours, quoy qu’apres cela ſa langue ſe fonde en toutes paroles faſcheuſes, arrogantes &amp; iniurieuſes, parmy ſes domeſtiques &amp; voiſins.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Un autre s’estimera dévot, parce qu’il dit une grande multitude d’oraisons tous les jours, quoi qu’après cela sa langue se fonde en toutes paroles fâcheuses, arrogantes et injurieuses, parmi ses domestiques et voisins.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s18">
+         <tuv xml:lang="FRM">
+            <seg>L’autre tire fort volontiers l’aumoſne de ſa bourſe, pour la donner aux pauures:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’autre tire fort volontiers l’aumône de sa bourse, pour la donner aux pauvres:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s19">
+         <tuv xml:lang="FRM">
+            <seg>mais il ne peut tirer la douceur de ſon cœur, pour pardonner à ſes ennemis:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais il ne peut tirer la douceur de son cœur, pour pardonner à ses ennemis:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s20">
+         <tuv xml:lang="FRM">
+            <seg>l’autre pardonnera à ſes ennemis, mais tenir raiſon à ſes creanciers, iamais qu’à viue force de iuſtice.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>l’autre pardonnera à ses ennemis, mais tenir raison à ses créanciers, jamais qu’à vive force de justice.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s21">
+         <tuv xml:lang="FRM">
+            <seg>Tous ces gens là ſont vulgairement tenus pour deuots, &amp; ne le ſont pourtant nullement.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Tous ces gens là sont vulgairement tenus pour dévots, et ne le sont pourtant nullement.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s22">
+         <tuv xml:lang="FRM">
+            <seg>Les gens de Saul cherchoient Dauid en ſa maiſon: Michol ayant mis vne ſtatuë dedans vn lict, &amp; l’ayant couuerte des habillemens de Dauid, leur fit accroire que c’eſtoit Dauid meſme qui dormoit malade.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Les gens de Saül cherchaient David en sa maison: Michol ayant mis une statue dedans un lit, et l’ayant couverte des habillements de David, leur fit accroire que c’était David même qui dormait malade.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s23">
+         <tuv xml:lang="FRM">
+            <seg>Ainſi beaucoup de perſonnes ſe couurent de certaines actions exterieures appartenantes à la ſaincte deuotion:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ainsi beaucoup de personnes se couvrent de certaines actions extérieures appartenantes à la sainte dévotion:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s24">
+         <tuv xml:lang="FRM">
+            <seg>&amp; le monde croit que ce ſoient gens vrayement deuots &amp; ſpirituels:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et le monde croit que ce soient gens vraiment dévots et spirituels:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s25">
+         <tuv xml:lang="FRM">
+            <seg>mais en verité ce ne ſont que des ſtatuës &amp; fantoſmes de deuotion.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais en vérité ce ne sont que des statues et fantômes de dévotion.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s26">
+         <tuv xml:lang="FRM">
+            <seg>La vraye &amp; viuante deuotion, ô Philothée, preſuppoſe l’amour de Dieu:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La vraie et vivante dévotion, ô Philothée, présuppose l’amour de Dieu:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s27">
+         <tuv xml:lang="FRM">
+            <seg>ains elle n’eſt autre choſe qu’vn vray amour de Dieu:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ains elle n’est autre chose qu’un vrai amour de Dieu:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s28">
+         <tuv xml:lang="FRM">
+            <seg>mais non pas toutesfois vn amour tel quel:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais non pas toutefois un amour tel quel:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s29">
+         <tuv xml:lang="FRM">
+            <seg>car en tant que l’amour diuin embellit noſtre ame, il s’appelle grace, nous rendant agreables à ſa diuine Maieſté;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car en tant que l’amour divin embellit notre âme, il s’appelle grâce, nous rendant agréables à sa divine Majesté;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s30">
+         <tuv xml:lang="FRM">
+            <seg>en tant qu’il nous donne la force de bien faire, il s’appelle charité:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>en tant qu’il nous donne la force de bien faire, il s’appelle charité:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s31">
+         <tuv xml:lang="FRM">
+            <seg>mais quand il eſt paruenu iuſques au degré de perfection, auquel il ne nous fait pas ſeulement bien faire, mais nous fait operer ſoigneuſement, frequemment &amp; promptement, alors il s’appelle deuotion.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais quand il est parvenu jusqu’au degré de perfection, auquel il ne nous fait pas seulement bien faire, mais nous fait opérer soigneusement, fréquemment et promptement, alors il s’appelle dévotion.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s32">
+         <tuv xml:lang="FRM">
+            <seg>Les auſtruches ne volent iamais, les poules volent peſamment, toutesfois baſſement &amp; rarement:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Les autruches ne volent jamais, les poules volent pesamment, toutefois bassement et rarement:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s33">
+         <tuv xml:lang="FRM">
+            <seg>mais les aigles, les colombes, les arondelles volent ſouuent, viſtement &amp; hautement: ainſi les pecheurs ne volent point en Dieu, ains font toutes leurs courſes en la terre, &amp; pour la terre:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais les aigles, les colombes, les arondelles volent souvent, vitement et hautement: ainsi les pecheurs ne volent point en Dieu, ains font toutes leurs courses en la terre, et pour la terre:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s34">
+         <tuv xml:lang="FRM">
+            <seg>les gens de bien, qui n’ont pas encores atteint la deuotion, volent en Dieu par leurs bonnes actions, mais rarement, lentement &amp; peſamment:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>les gens de bien, qui n’ont pas encores atteint la dévotion, volent en Dieu par leurs bonnes actions, mais rarement, lentement et pesamment:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s35">
+         <tuv xml:lang="FRM">
+            <seg>les perſonnes deuotes volent en Dieu, frequemment, promptement &amp; hautement.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>les personnes dévotes volent en Dieu, fréquemment, promptement et hautement.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s36">
+         <tuv xml:lang="FRM">
+            <seg>Bref la deuotion n’eſt autre choſe qu’vne agilité &amp; viuacité ſpirituelle, par le moyen de laquelle la charité fait ſes actions en nous, ou nous par elle promptement &amp; affectionnément;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Bref la dévotion n’est autre chose qu’une agilité et vivacité spirituelle, par le moyen de laquelle la charité fait ses actions en nous, ou nous par elle promptement et affectionnément;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s37">
+         <tuv xml:lang="FRM">
+            <seg>&amp; comme il appartient à la charité de nous faire generalement &amp; vniuerſellement pratiquer tous les commandemens de Dieu, il appartient auſſi à la deuotion de les nous faire promptement &amp; diligemment.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et comme il appartient à la charité de nous faire généralement et universellement pratiquer tous les commandements de Dieu, il appartient aussi à la dévotion de les nous faire promptement et diligemment.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s38">
+         <tuv xml:lang="FRM">
+            <seg>C’eſt pourquoy celuy qui n’obſerue tous les commandemens de Dieu, ne peut eſtre eſtimé ny bon, ny deuot, puis que pour eſtre bon, il faut auoir la charité, &amp; pour eſtre deuot, il faut auoir outre la charité, vne grande viuacité &amp; promptitude aux actions charitables.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>C’est pourquoi celui qui n’observe tous les commandements de Dieu, ne peut être estimé ni bon, ni dévot, puisque pour être bon, il faut avoir la charité, et pour être dévot, il faut avoir outre la charité, une grande vivacité et promptitude aux actions charitables.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s39">
+         <tuv xml:lang="FRM">
+            <seg>Et d’autant que la deuotion giſt en certain degré d’excellente charité, non ſeulement elle nous rend prompts, actifs &amp; diligens à l’obſeruation de tous les commandemens de Dieu: mais outre cela, elle nous prouoque à faire promptement &amp; affectionnément le plus de bonnes œuures que nous pouuons, encores qu’elles ne ſoient aucunement commandées, ains ſeulement conſeillées ou inſpirées.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et d’autant que la dévotion gît en certain degré d’excellente charité, non seulement elle nous rend prompts, actifs et diligents à l’observation de tous les commandements de Dieu: mais outre cela, elle nous provoque à faire promptement et affectionnément le plus de bonnes œuvres que nous pouvons, encore qu’elles ne soient aucunement commandées, ains seulement conseillées ou inspirées.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s40">
+         <tuv xml:lang="FRM">
+            <seg>Car tout ainſi qu’vn homme qui eſt nouuellement guery de quelque maladie, chemine autant qu’il luy eſt neceſſaire, mais lentement &amp; peſamment: de meſme le pecheur eſtant guery de ſon iniquité, il chemine autant que Dieu luy commande, peſamment neantmoins &amp; lentement, iuſques à tant qu’il ayt atteint la deuotion;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Car tout ainsi qu’un homme qui est nouvellement guéri de quelque maladie, chemine autant qu’il lui est nécessaire, mais lentement et pesamment: de même le pécheur étant gueri de son iniquité, il chemine autant que Dieu lui commande, pesamment néanmoins et lentement, jusqu’à tant qu’il ait atteint la dévotion;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s41">
+         <tuv xml:lang="FRM">
+            <seg>car alors comme vn homme bien ſain, non ſeulement il chemine, mais il court &amp; ſaute en la voye des commandemens de Dieu, &amp; de plus il paſſe &amp; court dans les ſentiers des conſeils &amp; inſpirations celeſtes.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car alors comme un homme bien sain, non seulement il chemine, mais il court et saute en la voie des commandements de Dieu, et de plus il passe et court dans les sentiers des conseils et inspirations célestes.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s42">
+         <tuv xml:lang="FRM">
+            <seg>En fin la charité &amp; la deuotion ne ſont non plus differentes l’vne de l’autre, que la flamme l’eſt du feu, d’autant que la charité eſtant vn feu ſpirituel, quand elle eſt fort enflammée, elle ſ’appelle deuotion:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Enfin la charité et la dévotion ne sont non plus différentes l’une de l’autre, que la flamme l’est du feu, d’autant que la charité étant un feu spirituel, quand elle est fort enflammée, elle s’appelle dévotion:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s43">
+         <tuv xml:lang="FRM">
+            <seg>ſi que la deuotion n’adiouſte rien au feu de la charité, ſinon la flamme, qui rend la charité prompte, actiue &amp; diligente, non ſeulement a l’obſeruation des commandemens de Dieu, mais à l’exercice des conſeils &amp; inſpirations celeſtes.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>si que la dévotion n’ajoute rien au feu de la charité, sinon la flamme, qui rend la charité prompte, active et diligente, non seulement a l’observation des commandements de Dieu, mais à l’exercice des conseils et inspirations célestes.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s44">
+         <tuv xml:lang="FRM">
+            <seg>Proprieté &amp; excellence de la deuotion.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Propriété et excellence de la dévotion.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s45">
+         <tuv xml:lang="FRM">
+            <seg>CHAPITRE II.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>CHAPITRE II.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s46">
+         <tuv xml:lang="FRM">
+            <seg>CEVX qui décourageoient les Iſraelites d'aller en la terre de promiſſion, leur diſoient que c’eſtoit vn pais qui deuoroit les habitans, c’eſt a dire, que l’air eſtoit ſi malin, qu’on n’y pouuoit viure longuement, &amp; que reciproquement les habitans eſtoient des gens ſi prodigieux, qu’ils mangeoient les autres hommes comme des locuſtes.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>CEUX qui décourageaient les Israélites d’aller en la terre de promission, leur disaient que c’était un pays qui devorait les habitants, c’est-à-dire, que l’air était si malin, qu’on n’y pouvait vivre longuement, et que réciproquement les habitants étaient des gens si prodigieux, qu’ils mangeaient les autres hommes comme des locustes.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s47">
+         <tuv xml:lang="FRM">
+            <seg>Ainſi le monde, ma chere Philothée, diffame tant qu’il peut la ſaincte deuotion, dépeignant les perſonnes deuotes auec vn viſage faſcheux, triſte &amp; chagrin:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ainsi le monde, ma chère Philothée, diffame tant qu’il peut la sainte dévotion, dépeignant les personnes dévotes avec un visage fâcheux, triste et chagrin:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s48">
+         <tuv xml:lang="FRM">
+            <seg>&amp; publiant que la deuotion donné des humeurs melancholiques &amp; inſupportables.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et publiant que la dévotion donné des humeurs mélancoliques et insupportables.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s49">
+         <tuv xml:lang="FRM">
+            <seg>Mais comme Ioſué &amp; Caleb proteſtoient que non ſeulement la terre promiſe eſtoit bonne &amp; belle, ains auſſi que la poſſeſſion en ſeroit douce &amp; agreable:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais comme Josué et Caleb protestaient que non seulement la terre promise était bonne et belle, ains aussi que la possession en serait douce et agréable:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s50">
+         <tuv xml:lang="FRM">
+            <seg>de meſme le ſainct Eſprit par la bouche de tous les Saincts, &amp; noſtre Seigneur par la ſienne meſme, nous aſſeure que la vie deuote eſt vne vie douce, heureuſe &amp; amiable.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>de même le saint Esprit par la bouche de tous les Saints, et notre Seigneur par la sienne même, nous assure que la vie dévote est une vie douce, heureuse et amiable.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s51">
+         <tuv xml:lang="FRM">
+            <seg>Le monde voit que les deuots ieuſnent, prient &amp; ſouffrent iniures, ſeruent les malades, donnent aux pauures, veillent, contraignent leur cholere, ſuffoquent &amp; eſtouffent leurs paſſions, ſe priuent des plaiſirs ſenſuels, &amp; font telles &amp; autres ſortes d’actions, leſquelles en elles meſmes, &amp; de leur propre ſubſtance &amp; qualité, ſont aſpres &amp; rigoureuſes.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Le monde voit que les dévots jeûnent, prient et souffrent injures, servent les malades, donnent aux pauvres, veillent, contraignent leur colère, suffoquent et étouffent leurs passions, se privent des plaisirs sensuels, et font telles et autres sortes d’actions, lesquelles en elles-mêmes, et de leur propre substance et qualité, sont âpres et rigoureuses.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s52">
+         <tuv xml:lang="FRM">
+            <seg>Mais le monde ne voit pas la deuotion interieure &amp; cordiale, laquelle rend toutes ces actions agreables, douces &amp; faciles.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais le monde ne voit pas la dévotion intérieure et cordiale, laquelle rend toutes ces actions agréables, douces et faciles.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s53">
+         <tuv xml:lang="FRM">
+            <seg>Regardez les abeilles ſur le thym, elles y treuuent vn ſuc fort amer:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Regardez les abeilles sur le thym, elles y trouvent un suc fort amer:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s54">
+         <tuv xml:lang="FRM">
+            <seg>mais en le ſucçant elles le conuertiſſent en miel, parce que telle eſt leur proprieté.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais en le suçant elles le convertissent en miel, parce que telle est leur propriété.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s55">
+         <tuv xml:lang="FRM">
+            <seg>O mondain! les ames deuotes treuuent beaucoup d’amertumes en leurs exercices de mortification;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ô mondain! les âmes dévotes trouvent beaucoup d’amertumes en leurs exercices de mortification;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s56">
+         <tuv xml:lang="FRM">
+            <seg>il eſt vray:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>il est vrai:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s57">
+         <tuv xml:lang="FRM">
+            <seg>mais en les faiſant elles les conuertiſſent en douceur &amp; ſuauité;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais en les faisant elles les convertissent en douceur et suavité;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s58">
+         <tuv xml:lang="FRM">
+            <seg>les feux, les flammes, les rouës, les eſpées ſembloient des fleurs &amp; des parfums aux Martyrs, par ce qu’ils eſtoient deuots.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>les feux, les flammes, les roues, les épées semblaient des fleurs et des parfums aux Martyrs, par ce qu’ils étaient dévots.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s59">
+         <tuv xml:lang="FRM">
+            <seg>Que ſi la deuotion peut donner de la douceur aux plus cruels tourmens, &amp; à la mort meſme;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Que si la dévotion peut donner de la douceur aux plus cruels tourments, et à la mort même;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s60">
+         <tuv xml:lang="FRM">
+            <seg>qu’eſt-ce qu'elle fera pour les actions de la vertu? Le ſucre adoucit les fruicts mal meurs, &amp; corrige la crudité &amp; nuiſance de ceux qui ſont bien meurs.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>qu’est-ce qu’elle fera pour les actions de la vertu? Le sucre adoucit les fruits mal mûrs, et corrige la crudité et nuisance de ceux qui sont bien mûrs.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s61">
+         <tuv xml:lang="FRM">
+            <seg>Or la deuotion eſt le vray ſucre ſpirituel, qui oſte l’amertume aux mortifications, &amp; la nuiſance aux pauures, &amp; l’empreſſement aux riches, la deſolation à l’oppreſſé, &amp; l’inſolence au fauoriſé, la triſteſſe aux ſolitaires, &amp; la diſſolution à celuy qui eſt en compagnie:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Or la dévotion est le vrai sucre spirituel, qui ôte l’amertume aux mortifications, et la nuisance aux pauvres, et l’empressement aux riches, la désolation à l’oppressé, et l’insolence au favorisé, la tristesse aux solitaires, et la dissolution à celui qui est en compagnie:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s62">
+         <tuv xml:lang="FRM">
+            <seg>elle ſert de feu en Hiuer, &amp; de roſée en Eſté:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>elle sert de feu en Hiver, et de rosée en Été:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s63">
+         <tuv xml:lang="FRM">
+            <seg>elle ſçait abonder &amp; ſouffrir pauureté, elle rend également vtile l’honneur &amp; le mépris:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>elle sait abonder et souffrir pauvreté, elle rend également utile l’honneur et le mépris:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s64">
+         <tuv xml:lang="FRM">
+            <seg>elle reçoit le plaiſir &amp; la douleur auec vn cœur preſque touſiours ſemblable, &amp; nous remplit d’vne ſuauité merueilleuſe.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>elle reçoit le plaisir et la douleur avec un cœur presque toujours semblable, et nous remplit d’une suavité merveilleuse.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s65">
+         <tuv xml:lang="FRM">
+            <seg>Contemplez l’eſchelle de Iacob, (car c'eſt le vray portrait de la vie deuote) les deux coſtez entre leſquels on monte, &amp; auſquels les eſchellons ſe tiennent, repreſentent l’oraiſon, qui impetre l’amour de Dieu, &amp; les Sacremens, qui le conferent:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Contemplez l’échelle de Jacob, (car c’est le vrai portrait de la vie dévote) les deux côtés entre lesquels on monte, et auxquels les échelons se tiennent, représentent l’oraison, qui impètre l’amour de Dieu, et les Sacrements, qui le confèrent:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s66">
+         <tuv xml:lang="FRM">
+            <seg>les eſchellons ne ſont autre choſe, que les diuers degrez de charité, par leſquels l’on va de vertu en vertu, ou deſcendant par l’action au ſecours &amp; ſupport du prochain, ou montant par la contemplation en l’vnion amoureuſe de Dieu.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>les échelons ne sont autre chose, que les divers degrés de charité, par lesquels l’on va de vertu en vertu, ou descendant par l’action au secours et support du prochain, ou montant par la contemplation en l’union amoureuse de Dieu.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s67">
+         <tuv xml:lang="FRM">
+            <seg>Or voyez, ie vous prie, ceux qui ſont ſur l’eſchelle, ce ſont des hommes qui ont des cœurs angeliques, ou des Anges qui ont des corps humains.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Or voyez, je vous prie, ceux qui sont sur l’échelle, ce sont des hommes qui ont des cœurs angéliques, ou des Anges qui ont des corps humains.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s68">
+         <tuv xml:lang="FRM">
+            <seg>Ils ne ſont pas ieunes:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ils ne sont pas jeunes:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s69">
+         <tuv xml:lang="FRM">
+            <seg>mais ils le ſemblent eſtre, parce qu’ils ſont pleins de vigueur &amp; agilité ſpirituelle.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais ils le semblent être, parce qu’ils sont pleins de vigueur et agilité spirituelle.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s70">
+         <tuv xml:lang="FRM">
+            <seg>Ils ont des aiſles pour voler, &amp; s’élancent en Dieu par la ſaincte oraiſon:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ils ont des ailes pour voler, et s’élancent en Dieu par la sainte oraison:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s71">
+         <tuv xml:lang="FRM">
+            <seg>mais ils ont des pieds pour cheminer auec les hommes par vne ſaincte &amp; amiable conuerſation:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais ils ont des pieds pour cheminer avec les hommes par une sainte et amiable conversation:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s72">
+         <tuv xml:lang="FRM">
+            <seg>leurs viſages ſont beaux &amp; gays, dautant qu’ils reçoiuent toutes choſes auec douceur &amp; ſuauité:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>leurs visages sont beaux et gais, d’autant qu’ils reçoivent toutes choses avec douceur et suavité:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s73">
+         <tuv xml:lang="FRM">
+            <seg>leurs iambes, leurs bras &amp; leurs teſtes ſont tout à deſcouuert, dautant que leurs penſées, leurs affections &amp; leurs actions n’ont aucun deſſein, ny motif que de plaire à Dieu:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>leurs jambes, leurs bras et leurs têtes sont tout à découvert, d’autant que leurs pensées, leurs affections et leurs actions n’ont aucun dessein, ni motif que de plaire à Dieu:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s74">
+         <tuv xml:lang="FRM">
+            <seg>le reſte de leurs corps eſt couuert, mais d’vne belle &amp; legere robbe, par ce qu’ils vſent voirement de ce monde &amp; des choſes mondaines:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>le reste de leurs corps est couvert, mais d’une belle et légère robe, par ce qu’ils usent voirement de ce monde et des choses mondaines:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s75">
+         <tuv xml:lang="FRM">
+            <seg>mais d’vne façon toute pure &amp; ſincere, n’en prenant que legerement ce qui eſt requis pour leur condition, telles ſont les perſonnes deuotes.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais d’une façon toute pure et sincère, n’en prenant que légèrement ce qui est requis pour leur condition, telles sont les personnes dévotes.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s76">
+         <tuv xml:lang="FRM">
+            <seg>Croyez moy, chere Philothée, la deuotion eſt la douceur des douceurs, &amp; la Royne des vertus, c'eſt la perfection de la charité.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Croyez moi, chere Philothée, la dévotion est la douceur des douceurs, et la Reine des vertus, c’est la perfection de la charité.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s77">
+         <tuv xml:lang="FRM">
+            <seg>Si la charité eſt vn laict, la deuotion en eſt la creſme;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Si la charité est un lait, la dévotion en est la crême;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s78">
+         <tuv xml:lang="FRM">
+            <seg>ſi elle eſt vne plante, la deuotion en eſt la fleur;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>si elle est une plante, la dévotion en est la fleur;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s79">
+         <tuv xml:lang="FRM">
+            <seg>ſi elle eſt vne pierre precieuſe, la deuotion en eſt l’eſclat:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>si elle est une pierre précieuse, la dévotion en est l’éclat:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s80">
+         <tuv xml:lang="FRM">
+            <seg>ſi elle eſt vne bauſme precieux, la deuotion en eſt l’odeur, &amp; l’odeur de ſuauité, qui conforte les hommes, &amp; reſiouït les Anges.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>si elle est une baume précieux, la dévotion en est l’odeur, et l’odeur de suavité, qui conforte les hommes, et réjouit les Anges.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s81">
+         <tuv xml:lang="FRM">
+            <seg>Que la deuotion eſt conuenable à toutes ſortes de vacations &amp; profeſſions.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Que la dévotion est convenable à toutes sortes de vacations et professions.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s82">
+         <tuv xml:lang="FRM">
+            <seg>CHAPITRE III.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>CHAPITRE III.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s83">
+         <tuv xml:lang="FRM">
+            <seg>DIEV commanda en la creation aux plantes de porter leurs fruicts chacune ſelon ſon genre, ainſi commande t’il aux Chreſtiens, qui ſont les plantes viuantes de ſon Egliſe, qu’ils produiſent des fruicts de deuotion, vn chacun ſelon ſa qualité &amp; vocation.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>DIEU commanda en la création aux plantes de porter leurs fruits chacune selon son genre, ainsi commande-t-il aux Chrétiens, qui sont les plantes vivantes de son Église, qu’ils produisent des fruits de dévotion, un chacun selon sa qualité et vocation.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s84">
+         <tuv xml:lang="FRM">
+            <seg>La deuotion doit eſtre differemment exercée par le Gentil-homme, par l’artiſan, par le valet, par le Prince, par la vefue, par la fille, par la mariée, &amp; non ſeulement cela:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La dévotion doit être différemment exercée par le Gentilhomme, par l’artisan, par le valet, par le Prince, par la veuve, par la fille, par la mariée, et non seulement cela:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s85">
+         <tuv xml:lang="FRM">
+            <seg>mais il faut accommoder la pratique de la deuotion aux forces, aux affaires, &amp; aux deuoirs de chaque particulier.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais il faut accommoder la pratique de la dévotion aux forces, aux affaires, et aux devoirs de chaque particulier.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s86">
+              <tuv xml:lang="FRM">
+            <seg>Ie vous prie, Philothée, ſeroit-il à propos, que l’Eueſque vouluſt eſtre ſolitaire comme les Chartreux? Et ſi les mariez ne vouloient rien amaſſer non plus que les Capucins, ſi l’artiſan eſtoit tout le iour à l’Egliſe comme le Religieux, &amp; le Religieux touſiours expoſé à toutes ſortes de rencontres pour le ſeruice du prochain, comme l’Eueſque;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je vous prie, Philothée, serait-il à propos, que l’Évêque voulût être solitaire comme les Chartreux? Et si les mariés ne voulaient rien amasser non plus que les Capucins, si l’artisan était tout le jour à l’Église comme le Religieux, et le Religieux toujours exposé à toutes sortes de rencontres pour le service du prochain, comme l’Évêque;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s87">
+         <tuv xml:lang="FRM">
+            <seg>cette deuotion ne ſeroit-elle pas ridicule, déreglée &amp; inſupportable? Cette faute neantmoins arriue bien ſouuent, &amp; le monde qui ne diſcerne pas, ou ne veut pas diſcerner entre la deuotion &amp; l’indiſcretion de ceux qui penſent eſtre deuots, murmure &amp; blaſme la deuotion, laquelle ne peut mais de ces deſordres.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>cette dévotion ne serait-elle pas ridicule, déréglée et insupportable? Cette faute néanmoins arrive bien souvent, et le monde qui ne discerne pas, ou ne veut pas discerner entre la dévotion et l’indiscretion de ceux qui pensent être dévots, murmure et blâme la dévotion, laquelle ne peut mais de ces désordres.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s88">
+         <tuv xml:lang="FRM">
+            <seg>Non Philothée, la deuotion ne gaſte rien quand elle eſt vraye, ains elle perfectionne tout: &amp; lors qu’elle ſe rend contraire à la legitime vocation de quelqu’vn, elle eſt ſans doute fauſſe.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Non Philothée, la dévotion ne gâte rien quand elle est vraie, ains elle perfectionne tout: et lorsqu’elle se rend contraire à la légitime vocation de quelqu’un, elle est sans doute fausse.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s89">
+         <tuv xml:lang="FRM">
+            <seg>L’abeille, dit Ariſtote, tire ſon miel des fleurs, ſans les intereſſer, les laiſſant entieres &amp; fraiſches, comme elle les a trouuées;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’abeille, dit Aristote, tire son miel des fleurs, sans les interesser, les laissant entières et fraîches, comme elle les a trouvées;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s90">
+         <tuv xml:lang="FRM">
+            <seg>mais la vraye deuotion fait encore mieux:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais la vraie dévotion fait encore mieux:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s91">
+         <tuv xml:lang="FRM">
+            <seg>car non ſeulement elle ne gaſte nulle ſorte de vocation ny d’affaires, ains au contraire elle les orne &amp; embellit.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car non seulement elle ne gâte nulle sorte de vocation ni d’affaires, ains au contraire elle les orne et embellit.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s92">
+         <tuv xml:lang="FRM">
+            <seg>Toutes ſortes de pierreries iettées dedans le miel, en deuiennent plus eſclattantes, chacune ſelon ſa couleur;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Toutes sortes de pierreries jettées dedans le miel, en deviennent plus éclatantes, chacune selon sa couleur;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s93">
+         <tuv xml:lang="FRM">
+            <seg>&amp; chacun deuient plus agreable en ſa vocation la conioignant à la deuotion:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et chacun devient plus agréable en sa vocation la conjoignant à la dévotion:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s94">
+         <tuv xml:lang="FRM">
+            <seg>le ſoin de la famille en eſt rendu paiſible, l’amour du mary &amp; de la femme plus ſincere, le ſeruice du Prince plus fidele, &amp; toutes ſortes d’occupations plus ſuaues &amp; amiables.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>le soin de la famille en est rendu paisible, l’amour du mari et de la femme plus sincère, le service du Prince plus fidèle, et toutes sortes d’occupations plus suaves et amiables.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s95">
+         <tuv xml:lang="FRM">
+            <seg>C’eſt vn erreur, ains vne hereſie, de vouloir bannir la vie deuote de la compagnie des ſoldats, de la boutique des artiſans, de la cour des Princes, du meſnage des gens mariez.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>C’est un erreur, ains une hérésie, de vouloir bannir la vie dévote de la compagnie des soldats, de la boutique des artisans, de la cour des Princes, du ménage des gens mariés.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s96">
+         <tuv xml:lang="FRM">
+            <seg>Il eſt vray, Philothée, que la deuotion purement contemplatiue, monaſtique &amp; religieuſe, ne peut eſtre exercée en ces vacations là:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il est vrai, Philothée, que la dévotion purement contemplative, monastique et religieuse, ne peut être exercée en ces vacations-là:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s97">
+         <tuv xml:lang="FRM">
+            <seg>mais auſſi outre ces trois ſortes de deuotion, il y en a pluſieurs autres propres à perfectionner ceux qui viuent és eſtats ſeculiers.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais aussi outre ces trois sortes de dévotion, il y en a plusieurs autres propres à perfectionner ceux qui vivent ès états séculiers.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s98">
+         <tuv xml:lang="FRM">
+            <seg>Abraham, Iſaac, &amp; Iacob, Dauid, Iob, Tobie, Sara, Rebecca, &amp; Iudith en font foy par l’ancien Teſtament:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Abraham, Isaac, et Jacob, David, Job, Tobie, Sara, Rebecca, et Judith en font foi par l’ancien Testament:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s99">
+         <tuv xml:lang="FRM">
+            <seg>&amp; quant au nouueau, ſainct Ioſeph, Lydia, &amp; ſainct Creſpin furent parfaitement deuots en leurs boutiques:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et quant au nouveau, saint Joseph, Lydia, et saint Crépin furent parfaitement dévots en leurs boutiques:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s100">
+         <tuv xml:lang="FRM">
+            <seg>ſaincte Anne, ſaincte Marthe, ſaincte Monique, Aquila, Priſcilla en leurs ménages;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>sainte Anne, sainte Marthe, sainte Monique, Aquila, Priscilla en leurs ménages;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s101">
+         <tuv xml:lang="FRM">
+            <seg>Cornelius, ſainct Sebaſtien, ſainct Maurice parmy les armes:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Cornélius, saint Sébastien, saint Maurice parmi les armes:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s102">
+         <tuv xml:lang="FRM">
+            <seg>Conſtantin, Helene, ſainct Louys, le B. Amé, ſainct Edoüard, en leurs ſaincts thrones.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Constantin, Hélène, saint Louis, le B. Amé, saint Édouard, en leurs saints trônes.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s103">
+         <tuv xml:lang="FRM">
+            <seg>Il eſt meſme arriué que pluſieurs ont perdu la perfection en la ſolitude, qui eſt neantmoins ſi deſirable pour la perfection, &amp; l’ont conſeruée parmy la multitude, qui ſemble ſi peu fauorable à la perfection.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il est même arrivé que plusieurs ont perdu la perfection en la solitude, qui est néanmoins si désirable pour la perfection, et l’ont conservée parmi la multitude, qui semble si peu favorable à la perfection.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s104">
+         <tuv xml:lang="FRM">
+            <seg>Loth, dit ſainct Gregoire, qui fut ſi chaſte en la ville, ſe ſoüilla en la ſolitude:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Loth, dit saint Grégoire, qui fut si chaste en la ville, se souilla en la solitude:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s105">
+         <tuv xml:lang="FRM">
+            <seg>où que nous ſoyons, nous pouuons &amp; deuons aſpirer à la vie parfaite.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>où que nous soyons, nous pouvons et devons aspirer à la vie parfaite.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s106">
+         <tuv xml:lang="FRM">
+            <seg>De la neceſſité d'vn conducteur pour entrer, &amp; faire progrez en la deuotion.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De la nécessité d’un conducteur pour entrer, et faire progrès en la dévotion.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s107">
+         <tuv xml:lang="FRM">
+            <seg>CHAPITRE IV.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>CHAPITRE IV.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s108">
+         <tuv xml:lang="FRM">
+            <seg>LE ieune Tobie commandé d’aller en Ragés;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>LE jeune Tobie commandé d’aller en Ragès;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s109">
+         <tuv xml:lang="FRM">
+            <seg>ie ne ſçay nullement le chemin, dit il: va donc, replique le pere, &amp; cherche quelque homme qui te conduiſe.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>je ne sais nullement le chemin, dit-il: va donc, réplique le père, et cherche quelque homme qui te conduise.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s110">
+         <tuv xml:lang="FRM">
+            <seg>Ie vous en dis de meſme, ma Philothée, voulez vous à bon eſcient vous acheminer à la deuotion? cherchez quelque homme de bien qui vous guide &amp; conduiſe.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Je vous en dis de même, ma Philothée, voulez-vous à bon escient vous acheminer à la dévotion? cherchez quelque homme de bien qui vous guide et conduise.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s111">
+         <tuv xml:lang="FRM">
+            <seg>C’eſt icy l’aduertiſſement des aduertiſſemens, quoy que vous cherchiez, dit le deuot Auila, vous ne trouuerez iamais ſi aſſeurément la volonté de Dieu, que par le chemin de cette humble obeïſſance tant recommandée, &amp; pratiquée par tous les anciens deuots.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>C’est ici l’avertissement des avertissements, quoi que vous cherchiez, dit le dévot Avila, vous ne trouverez jamais si assurément la volonté de Dieu, que par le chemin de cette humble obéissance tant recommandée, et pratiquée par tous les anciens dévots.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s112">
+         <tuv xml:lang="FRM">
+            <seg>La bien-heureuſe mere Thereſe, voyant que madame Catherine de Cordoüe faiſoit de grandes penitences, deſira fort de l’imiter en cela, contre l’aduis de ſon Confeſſeur, qui le luy defendoit, auquel elle eſtoit tentée de ne point obeïr pour ce regard.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La bienheureuse mère Thérèse, voyant que madame Catherine de Cordoue faisait de grandes pénitences, désira fort de l’imiter en cela, contre l’avis de son Confesseur, qui le lui défendait, auquel elle était tentée de ne point obéir pour ce regard.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s113">
+         <tuv xml:lang="FRM">
+            <seg>Et Dieu luy dit;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et Dieu lui dit;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s114">
+         <tuv xml:lang="FRM">
+            <seg>ma fille, tu tiens vn bon &amp; aſſeuré chemin, vois tu la penitence qu’elle fait? mais moy ie fais plus de cas de ton obeïſſance:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ma fille, tu tiens un bon et assuré chemin, vois tu la pénitence qu’elle fait? mais moi je fais plus de cas de ton obéissance:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s115">
+         <tuv xml:lang="FRM">
+            <seg>auſſi elle aimoit tant cette vertu, qu’outre l’obeïſſance quelle deuoit à ſes Superieurs elle en voüa vne toute particuliere à vn excellent homme s’obligeant de ſuiure ſa direction &amp; conduite, dont elle fut infiniment conſolée;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>aussi elle aimait tant cette vertu, qu’outre l’obéissance quelle devait à ses Supérieurs elle en voua une toute particulière à un excellent homme s’obligeant de suivre sa direction et conduite, dont elle fut infiniment consolée;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s116">
+         <tuv xml:lang="FRM">
+            <seg>comme apres, &amp; deuant elle pluſieurs bonnes ames, qui pour ſe mieux aſſuiettir à Dieu, ont ſouſmis leur volonté à celle de ſes ſeruiteurs:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>comme après, et devant elle plusieurs bonnes âmes, qui pour se mieux assujettir à Dieu, ont soumis leur volonté à celle de ses serviteurs:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s117">
+         <tuv xml:lang="FRM">
+            <seg>ce que ſaincte Catherine de Sienne loüe infiniment en ſes dialogues.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ce que sainte Catherine de Sienne loue infiniment en ses dialogues.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s118">
+         <tuv xml:lang="FRM">
+            <seg>La deuote Princeſſe ſaincte Elizabeth ſe ſouſmit auec vne extréme obeïſſance au Docteur M. Conrad.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La dévote Princesse sainte Élisabeth se soumit avec une extrême obéissance au Docteur M. Conrad.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s119">
+         <tuv xml:lang="FRM">
+            <seg>Et voicy l’vn des aduis que le grand ſainct Louys fit à ſon fils auant que mourir:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et voici l’un des avis que le grand saint Louis fit à son fils avant que mourir:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s120">
+         <tuv xml:lang="FRM">
+            <seg>Confeſſe toy ſouuent, élis vn Confeſſeur idoine, qui ſoit preud’homme, &amp; qui te puiſſe ſeurement enſeigner à faire les choſes qui te ſont neceſſaires.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Confesse-toi souvent, élis un Confesseur idoine, qui soit prud’homme, et qui te puisse sûrement enseigner à faire les choses qui te sont nécessaires.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s121">
+         <tuv xml:lang="FRM">
+            <seg>L’amy fidelle, dit l’Eſcriture ſaincte, eſt vne forte protection:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’ami fidèle, dit l’Écriture sainte, est une forte protection:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s122">
+         <tuv xml:lang="FRM">
+            <seg>celuy qui l’a trouué, a trouué vn threſor.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>celui qui l’a trouvé, a trouvé un trésor.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s123">
+         <tuv xml:lang="FRM">
+            <seg>L’amy fidelle eſt vn medicament de vie, &amp; d’immortalité:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’ami fidèle est un médicament de vie, et d’immortalité:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s124">
+         <tuv xml:lang="FRM">
+            <seg>ceux qui craignent Dieu le treuuent.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ceux qui craignent Dieu le trouvent.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s125">
+         <tuv xml:lang="FRM">
+            <seg>Ces diuines paroles regardent principalement l’immortalité, comme vous voyez, pour laquelle il faut ſur toutes choſes auoir cét amy fidelle, qui garde nos actions par ſes aduis &amp; conſeils, &amp; par ce moyen nous garentir des embuſches &amp; tromperies du malin:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ces divines paroles regardent principalement l’immortalité, comme vous voyez, pour laquelle il faut sur toutes choses avoir cet ami fidèle, qui garde nos actions par ses avis et conseils, et par ce moyen nous garantir des embûches et tromperies du malin:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s126">
+         <tuv xml:lang="FRM">
+            <seg>il nous ſera comme vn threſor de ſapience en nos afflictions, triſteſſes &amp; cheutes:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>il nous sera comme un trésor de sapience en nos afflictions, tristesses et chutes:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s127">
+         <tuv xml:lang="FRM">
+            <seg>il nous ſeruira de medicament, pour alleger &amp; conſoler nos cœurs és maladies ſpirituelles:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>il nous servira de médicament, pour alléger et consoler nos cœurs ès maladies spirituelles:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s128">
+         <tuv xml:lang="FRM">
+            <seg>il nous gardera du mal, &amp; rendra noſtre bien meilleur, &amp; quand il nous arriuera quelque infirmité, il empeſchera qu’elle ne ſoit pas à la mort, car il nous en releuera.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>il nous gardera du mal, et rendra notre bien meilleur, et quand il nous arrivera quelque infirmité, il empêchera qu’elle ne soit pas à la mort, car il nous en relèvera.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s129">
+         <tuv xml:lang="FRM">
+            <seg>Mais qui trouuera cet amy? le Sage reſpond, ceux qui craignent Dieu, c’eſt à dire les humbles, qui deſirent fort leur aduancement ſpirituel.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais qui trouvera cet ami? le Sage répond, ceux qui craignent Dieu, c’est-à-dire les humbles, qui désirent fort leur avancement spirituel.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s130">
+         <tuv xml:lang="FRM">
+            <seg>Puis qu’il vous importe tant, Philothée, d’aller auec vne bonne guide en ce ſainct voyage de deuotion, priez Dieu auec vne grande inſtance, qu’il vous en fourniſſe d’vne qui ſoit ſelon ſon cœur:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Puisqu’il vous importe tant, Philothée, d’aller avec une bonne guide en ce saint voyage de dévotion, priez Dieu avec une grande instance, qu’il vous en fournisse d’une qui soit selon son cœur:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s131">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ne doutez point, car quand il deuroit enuoyer vn Ange du ciel, comme il fit au ieune Tobie, il vous en donnera vne bonne &amp; fidele.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et ne doutez point, car quand il devrait envoyer un Ange du ciel, comme il fit au jeune Tobie, il vous en donnera une bonne et fidèle.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s132">
+         <tuv xml:lang="FRM">
+            <seg>Or ce doit touſiours eſtre vn Ange pour vous, c’eſt à dire, quand vous l’aurez trouuée, ne la conſiderez pas comme vn ſimple homme, &amp; ne vous confiez point en icelle, ny en ſon ſçauoir humain, mais en Dieu, lequel vous fauoriſera, &amp; parlera par l'entremiſe de cet homme, mettant dedans le cœur &amp; dedans la bouche d’iceluy, ce qui ſera requis pour voſtre bon-heur:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Or ce doit toujours être un Ange pour vous, c’est-à-dire, quand vous l’aurez trouvée, ne la considérez pas comme un simple homme, et ne vous confiez point en icelle, ni en son savoir humain, mais en Dieu, lequel vous favorisera, et parlera par l’entremise de cet homme, mettant dedans le cœur et dedans la bouche d’icelui, ce qui sera requis pour votre bonheur:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s133">
+         <tuv xml:lang="FRM">
+            <seg>ſi que vous le deuez eſcouter comme vn Ange, qui deſcend du Ciel pour vous y mener.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>si que vous le devez écouter comme un Ange, qui descend du Ciel pour vous y mener.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s134">
+         <tuv xml:lang="FRM">
+            <seg>Traitez auec luy à cœur ouuert, en toute ſincerité &amp; fidelité, luy manifeſtant clairement voſtre bien &amp; voſtre mal, ſans feintiſe, ny diſſimulation:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Traitez avec lui à cœur ouvert, en toute sincérité et fidélité, lui manifestant clairement votre bien et votre mal, sans feintise, ni dissimulation:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s135">
+         <tuv xml:lang="FRM">
+            <seg>&amp; par ce moyen voſtre bien ſera examiné &amp; plus aſſeuré, &amp; voſtre mal ſera corrigé &amp; remedié;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et par ce moyen votre bien sera examiné et plus assuré, et votre mal sera corrigé et remédié;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s136">
+         <tuv xml:lang="FRM">
+            <seg>vous en ſerez allegée &amp; fortifiée en vos afflictions, moderee &amp; reglée en vos conſolations:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>vous en serez allégée et fortifiée en vos afflictions, moderée et reglée en vos consolations:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s137">
+         <tuv xml:lang="FRM">
+            <seg>ayez en luy vne extreme confiance meſlée d’vne ſacrée reuerence, en ſorte que la reuerence ne diminuë point la confiance, &amp; que la confiance n’empeſche point la reuerence:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ayez en lui une extrême confiance mêlée d’une sacrée révérence, en sorte que la révérence ne diminue point la confiance, et que la confiance n’empêche point la révérence:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s138">
+         <tuv xml:lang="FRM">
+            <seg>confiez vous en luy auec le reſpect d’vne fille enuers ſon pere, reſpectez-le auec la confiance d’vn fils enuers ſa mere:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>confiez-vous en lui avec le respect d’une fille envers son père, respectez-le avec la confiance d’un fils envers sa mère:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s139">
+         <tuv xml:lang="FRM">
+            <seg>Bref cette amitié doit eſtre forte &amp; douce, toute ſaincte, toute ſacrée, toute diuine, &amp; toute ſpirituelle.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Bref cette amitié doit être forte et douce, toute sainte, toute sacrée, toute divine, et toute spirituelle.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s140">
+         <tuv xml:lang="FRM">
+            <seg>Et pour cela choiſiſſez-en vn entre mille, dit Auila;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et pour cela choisissez-en un entre mille, dit Avila;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s141">
+         <tuv xml:lang="FRM">
+            <seg>&amp; moy ie dis entre dix mille:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et moi je dis entre dix mille:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s142">
+         <tuv xml:lang="FRM">
+            <seg>car il s’en trouue moins que l’on ne ſçauroit dire, qui ſoient capables de cet office:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car il s’en trouve moins que l’on ne saurait dire, qui soient capables de cet office:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s143">
+         <tuv xml:lang="FRM">
+            <seg>il le faut plein de charité, de ſcience, &amp; de prudence:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>il le faut plein de charité, de science, et de prudence:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s144">
+         <tuv xml:lang="FRM">
+            <seg>ſi l’vne de ces trois parties luy manque, il y a du danger:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>si l’une de ces trois parties lui manque, il y a du danger:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s145">
+         <tuv xml:lang="FRM">
+            <seg>mais ie vous dis derechef, demandez-le à Dieu, &amp; l’ayant obtenu beniſſez ſa diuine Maieſté, demeurez ferme, &amp; n’en cherchez point d’autres, ains allez ſimplement humblement, &amp; confidemment:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais je vous dis derechef, demandez-le à Dieu, et l’ayant obtenu bénissez sa divine Majesté, demeurez ferme, et n’en cherchez point d’autres, ains allez simplement humblement, et confidemment:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s146">
+         <tuv xml:lang="FRM">
+            <seg>car vous ferez vn tres-heureux voyage.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>car vous ferez un très heureux voyage.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s147">
+         <tuv xml:lang="FRM">
+            <seg>Qu'il faut commencer par la purgation de l'ame.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qu’il faut commencer par la purgation de l’âme.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s148">
+         <tuv xml:lang="FRM">
+            <seg>CHAPITRE V.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>CHAPITRE V.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s149">
+         <tuv xml:lang="FRM">
+            <seg>LES fleurs, dit l’Eſpoux ſacré, apparoiſſent en noſtre terre;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>LES fleurs, dit l’Époux sacré, apparaissent en notre terre;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s150">
+         <tuv xml:lang="FRM">
+            <seg>le temps d’émonder &amp; tailler eſt venu.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>le temps d’émonder et tailler est venu.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s151">
+         <tuv xml:lang="FRM">
+            <seg>Qui ſont les fleurs de nos cœurs, ô Philothée, ſinon les bons deſirs? Or auſſi toſt qu’ils paroiſſent, il faut mettre la main à la ſerpe pour retrancher de noſtre conſcience toutes les œuures mortes &amp; ſuperfluës:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Qui sont les fleurs de nos cœurs, ô Philothée, sinon les bons désirs? Or aussitôt qu’ils paraissent, il faut mettre la main à la serpe pour retrancher de notre conscience toutes les œuvres mortes et superflues:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s152">
+         <tuv xml:lang="FRM">
+            <seg>la fille eſtrangere pour eſpouſer l’Iſraëlite, deuoit oſter la robbe de ſa captiuité, roigner ſes ongles, &amp; raſer ſes cheueux:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>la fille étrangère pour épouser l’Israélite, devait ôter la robe de sa captivité, rogner ses ongles, et raser ses cheveux:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s153">
+         <tuv xml:lang="FRM">
+            <seg>&amp; l'ame qui aſpire à l’honneur d’eſtre eſpouſe du fils de Dieu, ſe doit dépoüiller du vieil homme, &amp; ſe reueſtir du nouueau, quittant le peché:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et l’âme qui aspire à l’honneur d’être épouse du fils de Dieu, se doit dépouiller du vieil homme, et se revêtir du nouveau, quittant le péché:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s154">
+         <tuv xml:lang="FRM">
+            <seg>puis roigner &amp; raſer toutes ſortes d’empeſchemens, qui la détournent de l’amour de Dieu: c’eſt le commencement de noſtre ſanté, que d'eſtre purgé de nos humeurs peccantes.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>puis rogner et raser toutes sortes d’empêchements, qui la détournent de l’amour de Dieu: c’est le commencement de notre santé, que d’être purgé de nos humeurs peccantes.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s155">
+         <tuv xml:lang="FRM">
+            <seg>Sainct Paul tout en vn moment fut purgé d’vne purgation parfaicte, comme fut auſſi ſaincte Catherine de Gennes, ſaincte Magdelaine, ſainct Pelagie, &amp; quelques autres:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Saint Paul tout en un moment fut purgé d’une purgation parfaite, comme fut aussi sainte Catherine de Gennes, sainte Madeleine, saint Pélagie, et quelques autres:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s156">
+         <tuv xml:lang="FRM">
+            <seg>mais ceſte ſorte de purgation eſt toute miraculeuſe &amp; extraordinaire en la grace, comme la reſurrection des morts en la nature, ſi que nous ne deuons pas y pretendre.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais cette sorte de purgation est toute miraculeuse et extraordinaire en la grâce, comme la résurrection des morts en la nature, si que nous ne devons pas y prétendre.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s157">
+         <tuv xml:lang="FRM">
+            <seg>La purgation &amp; gueriſon ordinaire, ſoit des corps, ſoit des eſprits, ne ſe fait que petit à petit, par progrez d’auancement en auancement, auec peine &amp; loiſir.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>La purgation et guérison ordinaire, soit des corps, soit des esprits, ne se fait que petit à petit, par progrès d’avancement en avancement, avec peine et loisir.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s158">
+         <tuv xml:lang="FRM">
+            <seg>Les Anges ont des aiſles ſur l’eſchelle de Iacob:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Les Anges ont des ailes sur l’échelle de Jacob:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s159">
+         <tuv xml:lang="FRM">
+            <seg>mais ils ne volent pas;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais ils ne volent pas;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s160">
+         <tuv xml:lang="FRM">
+            <seg>ains montent &amp; deſcendent par ordre, d’eſchellon en eſchellon.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ains montent et descendent par ordre, d’échelon en échelon.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s161">
+         <tuv xml:lang="FRM">
+            <seg>L’ame qui remonte du peché à la deuotion eſt comparée à l’Aube, laquelle s’eſleuant ne chaſſe pas les tenebres en vn inſtant, mais petit à petit:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’âme qui remonte du péché à la dévotion est comparée à l’Aube, laquelle s’élevant ne chasse pas les ténèbres en un instant, mais petit à petit:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s162">
+         <tuv xml:lang="FRM">
+            <seg>la gueriſon (dit l’Aphoriſme) qui ſe fait tout bellement, eſt touſiours plus aſſeurée;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>la guérison (dit l’Aphorisme) qui se fait tout bellement, est toujours plus assurée;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s163">
+         <tuv xml:lang="FRM">
+            <seg>les maladies du cœur, auſſi bien que celles du corps, viennent à cheual &amp; en poſte:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>les maladies du cœur, aussi bien que celles du corps, viennent à cheval et en poste:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s164">
+         <tuv xml:lang="FRM">
+            <seg>mais elles s’en reuont à pied &amp; au petit pas.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>mais elles s’en revont à pied et au petit pas.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s165">
+         <tuv xml:lang="FRM">
+            <seg>Il faut donc eſtre courageuſe &amp; patiente, ô Philothée, en ceſte entrepriſe.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il faut donc être courageuse et patiente, ô Philothée, en cette entreprise.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s166">
+         <tuv xml:lang="FRM">
+            <seg>Helas! quelle pitié eſt-ce des ames, leſquelles ſe voyans ſubiettes à pluſieurs imperfections, apres s’eſtre exercées quelque temps en la deuotion, commencent à s'inquieter, ſe troubler &amp; deſcourager, laiſſant preſque emporter leur cœur à la tentation de tout quitter &amp; retourner en arriere; mais auſſi de l’autre coſté, n’eſt ce pas vn extréme danger aux ames, leſquelles par vne tentation contraire ſe font accroire d’eſtre purgées de leurs imperfections le premier iour de leur purgation, ſe tenans pour parfaictes auant preſque que d’eſtre faictes, en ſe mettant au vol ſans aiſles? ô Philothée, qu’elles ſont en grand peril de recheoir pour s’eſtre trop toſt oſtées d’entre les mains du medecin! Ha! ne vous leuez pas auant que la lumière ſoit arriuée dit le Prophete:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Helas! quelle pitié est-ce des âmes, lesquelles se voyant sujettes à plusieurs imperfections, après s’être exercées quelque temps en la dévotion, commencent à s’inquiéter, se troubler et décourager, laissant presque emporter leur cœur à la tentation de tout quitter et retourner en arrière; mais aussi de l’autre côté, n’est ce pas un extrême danger aux âmes, lesquelles par une tentation contraire se font accroire d’être purgées de leurs imperfections le premier jour de leur purgation, se tenant pour parfaites avant presque que d’être faites, en se mettant au vol sans ailes? ô Philothée, qu’elles sont en grand péril de rechoir pour s’être trop tôt ôtées d’entre les mains du médecin! Ha! ne vous levez pas avant que la lumière soit arrivée dit le Prophète:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s167">
+         <tuv xml:lang="FRM">
+            <seg>Leuez vous apres que vous aurez eſté aſſis:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Levez-vous après que vous aurez été assis:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s168">
+         <tuv xml:lang="FRM">
+            <seg>&amp; luy meſme pratiquant ceſte leçon &amp; ayant eſté deſia laué &amp; nettoié, demande de l’eſtre derechef.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et lui même pratiquant cette leçon et ayant été déjà lavé et nettoyé, demande de l’être derechef.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s169">
+         <tuv xml:lang="FRM">
+            <seg>L’exercice de la purgation de l'ame ne ſe peut, ny doit finir qu’auec noſtre vie:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>L’exercice de la purgation de l’âme ne se peut, ni doit finir qu’avec notre vie:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s170">
+         <tuv xml:lang="FRM">
+            <seg>ne nous troublons donc point de nos imperfections, car noſtre perfection conſiſte à les combatre:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ne nous troublons donc point de nos imperfections, car notre perfection consiste à les combattre:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s171">
+         <tuv xml:lang="FRM">
+            <seg>&amp; nous ne ſçaurions les combatre ſans les voir, ny les vaincre ſans les rencontrer:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et nous ne saurions les combattre sans les voir, ni les vaincre sans les rencontrer:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s172">
+         <tuv xml:lang="FRM">
+            <seg>noſtre victoire ne giſt pas à ne les ſentir point, mais à ne point leur conſentir.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>notre victoire ne gît pas à ne les sentir point, mais à ne point leur consentir.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s173">
+         <tuv xml:lang="FRM">
+            <seg>Mais ce n’eſt pas leur conſentir, que d’en eſtre incommodé, il faut bien que pour l’exercice de noſtre humilité nous ſoyons quelquesfois bleſſez en cette bataille ſpirituelle:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais ce n’est pas leur consentir, que d’en être incommodé, il faut bien que pour l’exercice de notre humilité nous soyons quelquefois blessés en cette bataille spirituelle:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s174">
+         <tuv xml:lang="FRM">
+            <seg>neantmoins nous ne ſommes iamais vaincus, ſinon lors que nous auons perdu ou la vie ou le courage.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>néanmoins nous ne sommes jamais vaincus, sinon lorsque nous avons perdu ou la vie ou le courage.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s175">
+         <tuv xml:lang="FRM">
+            <seg>Or les imperfections &amp; pechez veniels ne nous ſçauroient oſter la vie ſpirituelle, car elle ne ſe perd que par le peché mortel.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Or les imperfections et péchés véniels ne nous sauraient ôter la vie spirituelle, car elle ne se perd que par le péché mortel.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s176">
+         <tuv xml:lang="FRM">
+            <seg>Il reſte doncques ſeulement qu’elles ne nous facent point perdre le courage.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il reste donc seulement qu’elles ne nous fassent point perdre le courage.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s177">
+         <tuv xml:lang="FRM">
+            <seg>Deliure moy Seigneur, diſoit Dauid, de la coüardiſe &amp; découragement:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Délivre moi Seigneur, disait David, de la couardise et découragement:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s178">
+         <tuv xml:lang="FRM">
+            <seg>c’eſt vne heureuſe condition pour nous en cette guerre, que nous ſoyons touſiours vainqueurs, pourueu que nous voulions combattre.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>c’est une heureuse condition pour nous en cette guerre, que nous soyons toujours vainqueurs, pourvu que nous voulions combattre.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s179">
+         <tuv xml:lang="FRM">
+            <seg>De la premiere purgation, qui eſt celle des pechez mortels.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De la première purgation, qui est celle des peéhés mortels.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s180">
+         <tuv xml:lang="FRM">
+            <seg>CHAPITRE VI.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>CHAPITRE VI.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s181">
+         <tuv xml:lang="FRM">
+            <seg>LA premiere purgation qu’il faut faire, c’eſt celle du peché;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>LA première purgation qu’il faut faire, c’est celle du péché;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s182">
+         <tuv xml:lang="FRM">
+            <seg>le moyen de la faire, c'eſt le S. Sacrement de penitence:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>le moyen de la faire, c’est le S. Sacrement de pénitence:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s183">
+         <tuv xml:lang="FRM">
+            <seg>cherchez le plus digne Confeſſeur que vous pourrez, prenez en main quelqu’vn des petits liures qui ont eſté faicts pour ayder les conſciences à ſe bien confeſſer, comme Grenade, Bruno, Arias, Auger;</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>cherchez le plus digne Confesseur que vous pourrez, prenez en main quelqu’un des petits livres qui ont été faits pour aider les consciences à se bien confesser, comme Grenade, Bruno, Arias, Auger;</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s184">
+         <tuv xml:lang="FRM">
+            <seg>liſez les bien, &amp; remarquez de poinct en poinct en quoy vous auez offencé, à prendre depuis que vous euſtes l’vſage de raiſon iuſques à l’heure preſente.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>lisez-les bien, et remarquez de point en point en quoi vous avez offensé, à prendre depuis que vous eûtes l’usage de raison jusqu’à l’heure présente.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s185">
+         <tuv xml:lang="FRM">
+            <seg>Et ſi vous vous défiez de voſtre memoire, mettez en eſcrit ce que vous aurez remarqué:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Et si vous vous défiez de votre mémoire, mettez en écrit ce que vous aurez remarqué:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s186">
+         <tuv xml:lang="FRM">
+            <seg>&amp; ayant ainſi preparé &amp; ramaſſé les humeurs peccantes de voſtre conſcience, deteſtez-les, &amp; les reiettez par vne contrition &amp; deſplaiſir auſſi grand que voſtre cœur pourra ſouffrir, conſiderant ces quâtre choſes:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et ayant ainsi préparé et ramassé les humeurs peccantes de votre conscience, détestez-les, et les rejettez par une contrition et déplaisir aussi grand que votre cœur pourra souffrir, considérant ces quatre choses:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s187">
+         <tuv xml:lang="FRM">
+            <seg>que par le peché vous auez perdu la grace de Dieu, quitté voſtre part de Paradis, accepté les peines eternelles de l’Enfer, &amp; renoncé à l’amour eternel, de Dieu.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>que par le péché vous avez perdu la grâce de Dieu, quitté votre part de Paradis, accepté les peines éternelles de l’Enfer, et renoncé à l’amour éternel, de Dieu.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s188">
+         <tuv xml:lang="FRM">
+            <seg>Vous voyez bien, Philothée, que ie parle d’vne confeſſion generale de toute la vie, laquelle certes ie confeſſe bien n’eſtre pas touſiours abſoluëment neceſſaire, mais ie conſidere bien auſſi qu’elle vous ſera extrémement vtile en ce commencement:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Vous voyez bien, Philothée, que je parle d’une confession générale de toute la vie, laquelle certes je confesse bien n’être pas toujours absoluement nécessaire, mais je considère bien aussi qu’elle vous sera extrêmement utile en ce commencement:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s189">
+         <tuv xml:lang="FRM">
+            <seg>c’eſt pourquoy ie vous la conſeille extrémement.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>c’est pourquoi je vous la conseille extrêmement.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s190">
+         <tuv xml:lang="FRM">
+            <seg>Il arriue ſouuent que les confeſſions ordinaires de ceux qui viuent d’vne vie commune &amp; vulgaire, ſont pleines de grands defauts.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Il arrive souvent que les confessions ordinaires de ceux qui vivent d’une vie commune et vulgaire, sont pleines de grands défauts.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s191">
+         <tuv xml:lang="FRM">
+            <seg>Car ſouuent on ne ſe prepare point, ou fort peu, on n’a point la contrition requiſe:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Car souvent on ne se prépare point, ou fort peu, on n’a point la contrition requise:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s192">
+         <tuv xml:lang="FRM">
+            <seg>ains il aduient maintesfois que l’on ſe va confeſſer auec vne volonté tacite de retourner au peché, dautãt qu’on ne veut pas éuiter l’occaſion du peché, ny prendre les expediens neceſſaires à l’amẽdement de la vie:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>ains il advient maintes fois que l’on se va confesser avec une volonté tacite de retourner au peché, d'autant qu’on ne veut pas éviter l’occasion du péché, ni prendre les expédients nécessaires à l’amendement de la vie:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s193">
+         <tuv xml:lang="FRM">
+            <seg>&amp; en tous ces cas icy la confeſſion generale eſt requiſe pour aſſeurer l'ame.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>et en tous ces cas ici la confession générale est requise pour assurer l’âme.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s194">
+         <tuv xml:lang="FRM">
+            <seg>Mais outre cela la confeſſion generale nous appelle à la cognoiſſance de nous meſme, nous prouoque à vne ſalutaire confuſion pour noſtre vie paſſée, nous fait admirer la miſericorde de Dieu, qui nous a attendu en patience, elle appaiſe nos cœurs, délaſſe nos eſprits, excite en nous des bons propos, donne ſubiect à noſtre pere ſpirituel de nous faire des aduis plus conuenables à noſtre condition, &amp; nous ouure le cœur, pour auec confiance nous bien déclarer aux confeſſions ſuiuantes.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Mais outre cela la confession générale nous appelle à la connaissance de nous-même, nous provoque à une salutaire confusion pour notre vie passée, nous fait admirer la miséricorde de Dieu, qui nous a attendu en patience, elle appaise nos cœurs, délasse nos esprits, excite en nous des bons propos, donne sujet à notre père spirituel de nous faire des avis plus convenables à notre condition, et nous ouvre le cœur, pour avec confiance nous bien déclarer aux confessions suivantes.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s195">
+         <tuv xml:lang="FRM">
+            <seg>Parlant doncques d’vn renouuellement general de noſtre cour, &amp; d’vne conuerſion vniuerſelle de noſtre ame à Dieu, par l’entrepriſe de la vie deuote, i’ay bien raiſon, ce me ſemble, Philothée, de vous conſeiller cette confeſſion.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Parlant donc d’un renouvellement général de notre cour, et d’une conversion universelle de notre âme à Dieu, par l’entreprise de la vie dévote, j’ai bien raison, ce me semble, Philothée, de vous conseiller cette confession.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s196">
+         <tuv xml:lang="FRM">
+            <seg>De la ſeconde purgation, qui eſt celle des affections du peché</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>De la seconde purgation, qui est celle des affections du péché</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s197">
+         <tuv xml:lang="FRM">
+            <seg>CHAPITRE VII.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>CHAPITRE VII.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s198">
+         <tuv xml:lang="FRM">
+            <seg>TOVS les Iſraëlites ſortirent en effect de la terre d’Egypte, mais ils n’en ſortirent pas tous d’affection:</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>TOUS les Israélites sortirent en effet de la terre d’Égypte, mais ils n’en sortirent pas tous d’affection:</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s199">
+         <tuv xml:lang="FRM">
+            <seg>c’eſt pourquoy emmy le deſert pluſieurs d’entr’eux regrettoient de n’auoir pas les oignons &amp; les chairs d’Egypte.</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>c’est pourquoi emmi le désert plusieurs d’entre eux regrettaient de n’avoir pas les oignons et les chairs d’Égypte.</seg>
+         </tuv>
+      </tu>
+   
+   
+      <tu tuid="s200">
+         <tuv xml:lang="FRM">
+            <seg>Ainſi il y a des penitens, qui ſortent en effect du</seg>
+         </tuv>
+         <tuv xml:lang="FR">
+            <seg>Ainsi il y a des penitents, qui sortent en effect du</seg>
+         </tuv>
+      </tu>
+   
+   </body>
+</tmx>
