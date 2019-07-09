@@ -17,6 +17,13 @@ Ligatures which have disappeared ( *ſt*, *st*, *ct*) are not kept, but not thos
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>.
 
+## Use the normaliser
+To use the tool, you need to:
+1. Download and install NMTPYTORCH ([you can find some help here](https://github.com/lium-lst/nmtpytorch/wiki/Installation)).
+2. Download the ```NORM17``` folder from this repository
+3. Prepare the text running ```./prepare_data.bash <NAME_OF_FILE>```
+4. Normalise the text running ```./translate_file.bash <NAME_OF_FILE.tok>```
+
 ## Contribute
 If you want to contribute, you can do so by cloning the repository and sending us a pull request, or by sending an email at simon.gabay[at]unine.ch.
 
