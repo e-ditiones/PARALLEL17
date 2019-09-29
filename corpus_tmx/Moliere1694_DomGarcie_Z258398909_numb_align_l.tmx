@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
    <header creationtool="NA"
-      creationtoolversion="NA"
-      datatype="XML"
-      segtype="sub-sentence"
-      adminlang="fr-FR"
-      srclang="FRM"
-      o-tmf="XML"/>
+           creationtoolversion="NA"
+           datatype="XML"
+           segtype="sub-sentence"
+           adminlang="fr-FR"
+           srclang="FRM"
+           o-tmf="XML"/>
    <body>
       <tu tuid="l1">
          <tuv xml:lang="FRM">
-            <seg>NOn, ce n’eſt point un choix, qui pour ces deuxAmans,</seg>
+            <seg>NOn, ce n’eſt point un choix, qui pour ces deux Amans,</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>Non, ce n'est point un choix, qui pour ces deux Amants,</seg>
@@ -45,7 +45,7 @@
             <seg>D. Sylve comme lui fit briller à mes yeux</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>D. Sylve, comme lui, fit briller à mes yeux</seg>
+            <seg>D. Sylve comme lui, fit briller à mes yeux</seg>
          </tuv>
       </tu>
       <tu tuid="l6">
@@ -205,7 +205,7 @@
             <seg>Et Dom Silve, aprés tout, dans les ſoins amoureux</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Et Don Sylve, après tout, dans ses soins amoureux</seg>
+            <seg>Et Dom Sylve, après tout, dans ses soins amoureux</seg>
          </tuv>
       </tu>
       <tu tuid="l26">
@@ -341,7 +341,7 @@
             <seg>L’amitié vous unit cette Comteſſe &amp; vous.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>L'amitié vous unit, cette Comtesse et vous,</seg>
+            <seg>L'amitié vous unit, cette Comtesse et vous.</seg>
          </tuv>
       </tu>
       <tu tuid="l43">
@@ -906,7 +906,7 @@
       </tu>
       <tu tuid="l113">
          <tuv xml:lang="FRM">
-            <seg>Le Prince D. Garde eſt cher à mes deſirs,</seg>
+            <seg>Le Prince D. Garcie eſt cher à mes deſirs,</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>Le Prince D. Garcie est cher à mes désirs,</seg>
@@ -1309,7 +1309,7 @@
             <seg>Dom Alphonſe vient-il, a t'on lieu de l'attendre?</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Don Alphonse vient-il, a-t-on lieu de l'attendre?</seg>
+            <seg>Dom Alphonse vient-il, a-t-on lieu de l'attendre?</seg>
          </tuv>
       </tu>
       <tu tuid="l165">
@@ -1493,7 +1493,7 @@
             <seg>On inveſtit Leon, &amp; Dom Silve en perſonne</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>On investit Léon, et Don Sylve en personne</seg>
+            <seg>On investit Léon, et Dom Sylve en personne</seg>
          </tuv>
       </tu>
       <tu tuid="l188">
@@ -2365,7 +2365,7 @@
             <seg>Entre Dom Sylve &amp; vous, mon ame pourroit faire;</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Entre Don Sylve et vous, mon âme pourrait faire;</seg>
+            <seg>Entre Dom Sylve et vous, mon âme pourrait faire;</seg>
          </tuv>
       </tu>
       <tu tuid="l293">
@@ -2957,7 +2957,7 @@
             <seg>Oui, je m'en réjoüis, &amp; pour vous, &amp; pour moi.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Oui, ke m'en réjouis, et pour vous, et pour moi.</seg>
+            <seg>Oui, je m'en réjouis, et pour vous, et pour moi.</seg>
          </tuv>
       </tu>
       <tu tuid="l363">
@@ -2973,7 +2973,7 @@
             <seg>Le Tyran toûjours m’aime, &amp; depuis vôtre abſence,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Le tyran toujours m'aime, et depuis votre absence,</seg>
+            <seg>Le Tyran toujours m'aime, et depuis votre absence,</seg>
          </tuv>
       </tu>
       <tu tuid="l365">
@@ -3133,7 +3133,7 @@
             <seg>Hé, quoi vous croyez donc....</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Hé quoi! Vous croyez donc…? Je crois ce qu'il faut croire.</seg>
+            <seg>Hé quoi! Vous croyez donc…</seg>
          </tuv>
       </tu>
       <tu tuid="l">
@@ -3141,7 +3141,7 @@
             <seg>Je croi ce qu’il faut croire....</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg/>
+            <seg>Je crois ce qu'il faut croire…</seg>
          </tuv>
       </tu>
       <tu tuid="l385">
@@ -3237,7 +3237,7 @@
             <seg>Mais ce qui me ſurprend, Dom Lope, c’eſt d’entendre</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Mais ce qui me surprend, Don Lope, c'est d'entendre</seg>
+            <seg>Mais ce qui me surprend, Dom Lope, c'est d'entendre</seg>
          </tuv>
       </tu>
       <tu tuid="l397">
@@ -3269,7 +3269,7 @@
             <seg>Encor un coup, Dom Lope, une ame bien épriſe</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Encore un coup, Don Lope, une âme bien éprise</seg>
+            <seg>Encore un coup, Dom Lope, une âme bien éprise</seg>
          </tuv>
       </tu>
       <tu tuid="l401">
@@ -4933,7 +4933,7 @@
             <seg>Que D. Lope venant dans mon appartement,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Que Don Lope venant dans mon appartement,</seg>
+            <seg>Que D. Lope venant dans mon appartement,</seg>
          </tuv>
       </tu>
       <tu tuid="l600">
@@ -4989,7 +4989,7 @@
             <seg>Dom Lope auſſi-tôt prenant un prompt effort,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Don Lope aussitôt prenant un prompt essor,</seg>
+            <seg>Dom Lope aussitôt prenant un prompt essor,</seg>
          </tuv>
       </tu>
       <tu tuid="l607">
@@ -5045,7 +5045,7 @@
             <seg>Au Prince Dom Garcie! ah.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Au Prince Don Garcie. Ah.</seg>
+            <seg>Au Prince Dom Garcie! ah.</seg>
          </tuv>
       </tu>
       <tu tuid="l">
@@ -5101,7 +5101,7 @@
             <seg>Je cheris tendrement ce qu’à fait Dom Garcie,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Je chéris tendrement ce qu'a fait Don Garcie,</seg>
+            <seg>Je chéris tendrement ce qu'a fait Dom Garcie,</seg>
          </tuv>
       </tu>
       <tu tuid="l619">
@@ -6797,7 +6797,7 @@
             <seg>Mais ô Ciel! en ces lieux, D. Silve de Caſtille,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Mais ô Ciel! en ces lieux Don Sylve de Castille,</seg>
+            <seg>Mais ô Ciel! en ces lieux D. Sylve de Castille,</seg>
          </tuv>
       </tu>
       <tu tuid="l822">
@@ -7085,7 +7085,7 @@
             <seg>Il donne en ſes Etats un azile à mon Frere.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Il donne en ses états un asile à mon Frère.</seg>
+            <seg>Il donne en ses États un asile à mon Frère.</seg>
          </tuv>
       </tu>
       <tu tuid="l858">
@@ -9069,7 +9069,7 @@
             <seg>Dom Lope prevenu d’une fauſſe lumiere,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Don Lope prévenu d'une fausse lumière,</seg>
+            <seg>Dom Lope prévenu d'une fausse lumière,</seg>
          </tuv>
       </tu>
       <tu tuid="l1105">
@@ -9093,7 +9093,7 @@
             <seg>A de l’abord du Comte éventé le ſecret,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>A de l'abord du comte éventé le secret,</seg>
+            <seg>A de l'abord du Comte éventé le secret,</seg>
          </tuv>
       </tu>
       <tu tuid="l1108">
@@ -9149,7 +9149,7 @@
             <seg>Et D. Lope, qu’il chaſſe, eſt un viſible effet,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Et Don Lope qu'il chasse est un visible effet,</seg>
+            <seg>Et D. Lope qu'il chasse est un visible effet,</seg>
          </tuv>
       </tu>
       <tu tuid="l1115">
@@ -9205,7 +9205,7 @@
             <seg>Mais, D. Alvar, de grace,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Mais, Don Alvar, de grâce,</seg>
+            <seg>Mais, D. Alvar, de grâce,</seg>
          </tuv>
       </tu>
       <tu tuid="l1121">
@@ -9653,7 +9653,7 @@
             <seg>Voi-je pas D. Alvar?</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Vois-je pas Don Alvar?</seg>
+            <seg>Vois-je pas D. Alvar?</seg>
          </tuv>
       </tu>
       <tu tuid="l">
@@ -10197,7 +10197,7 @@
             <seg>I’en mourrai, D. Alvar, la choſe eſt bien certaine.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>J'en mourrai, Don Alvar, la chose est bien certaine.</seg>
+            <seg>J'en mourrai, D. Alvar, la chose est bien certaine.</seg>
          </tuv>
       </tu>
       <tu tuid="l1238">
@@ -10261,7 +10261,7 @@
             <seg>D. Alvar, c’en eſt trop que ſoutenir ſa gloire,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Don Alvar, c'en est trop que soutenir sa gloire,</seg>
+            <seg>D. Alvar, c'en est trop que soutenir sa gloire,</seg>
          </tuv>
       </tu>
       <tu tuid="l1245">
@@ -10309,7 +10309,7 @@
             <seg>D. Alvar, laissez moi je vous prie,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Don Alvar, laissez-moi, je vous prie,</seg>
+            <seg>D. Alvar, laissez-moi, je vous prie,</seg>
          </tuv>
       </tu>
       <tu tuid="l1250">
@@ -11893,7 +11893,7 @@
             <seg>O Ciel?</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>ô Ciel!</seg>
+            <seg>Ô Ciel!</seg>
          </tuv>
       </tu>
       <tu tuid="l">
@@ -12205,7 +12205,7 @@
             <seg>Ah! D. Alvar, je voi que vous avez raiſon,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Ah! Don Alvar, je vois que vous avez raison,</seg>
+            <seg>Ah! D. Alvar, je vois que vous avez raison,</seg>
          </tuv>
       </tu>
       <tu tuid="l1483">
@@ -12325,7 +12325,7 @@
             <seg>Non, D. Alvar, ma mort eſt neceſſaire,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Non, Don Alvar, ma mort est nécessaire,</seg>
+            <seg>Non, D. Alvar, ma mort est nécessaire,</seg>
          </tuv>
       </tu>
       <tu tuid="l1497">
@@ -12597,7 +12597,7 @@
             <seg>Et pouſſe dans ce jour, Dom Alphonſe à paroître,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Et pousse dans ce jour Don Alphonse à paraître,</seg>
+            <seg>Et pousse dans ce jour Dom Alphonse à paraître,</seg>
          </tuv>
       </tu>
       <tu tuid="l1530">
@@ -12661,7 +12661,7 @@
             <seg>Et du vieux Dom Loüis les trouve confirmées.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Et du vieux Don Louis les trouve confirmées.</seg>
+            <seg>Et du vieux Dom Louis les trouve confirmées.</seg>
          </tuv>
       </tu>
       <tu tuid="l1538">
@@ -12677,7 +12677,7 @@
             <seg>De Dom Alphonſe, &amp; d’elle, attend l’heureux retour,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>De Don Alphonse, et d'elle attend l'heureux retour,</seg>
+            <seg>De Dom Alphonse, et d'elle attend l'heureux retour,</seg>
          </tuv>
       </tu>
       <tu tuid="l1540">
@@ -12709,7 +12709,7 @@
             <seg>Que Dom Sylve eſt l’époux qu’elle doit recevoir.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Que Don Sylve est l'époux qu'elle doit recevoir.</seg>
+            <seg>Que Dom Sylve est l'époux qu'elle doit recevoir.</seg>
          </tuv>
       </tu>
       <tu tuid="l1544">
@@ -12789,7 +12789,7 @@
             <seg>FAites Dom Alvar venir la Princeſſe ici,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Faites, Don Alvar, venir la Princesse ici,</seg>
+            <seg>Faites, Dom Alvar, venir la Princesse ici,</seg>
          </tuv>
       </tu>
       <tu tuid="l1552">
@@ -13469,7 +13469,7 @@
             <seg>Oüi, bien tôt dans ces lieux, Dom Alphonſe doit étre,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Oui, bientôt dans ces lieux Don Alphonse doit être,</seg>
+            <seg>Oui, bientôt dans ces lieux Dom Alphonse doit être,</seg>
          </tuv>
       </tu>
       <tu tuid="l1637">
@@ -13493,7 +13493,7 @@
             <seg>Pour recevoir le prix du Tyran immolé;</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Pour recevoir le prix du tyran immolé;</seg>
+            <seg>Pour recevoir le prix du Tyran immolé;</seg>
          </tuv>
       </tu>
       <tu tuid="l1640">
@@ -14237,7 +14237,7 @@
             <seg>Laiſſant par D. Loüis êchaufer ſon devoir,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Laissant par Don Louis échauffer son devoir,</seg>
+            <seg>Laissant par D. Louis échauffer son devoir,</seg>
          </tuv>
       </tu>
       <tu tuid="l1732">
@@ -14277,7 +14277,7 @@
             <seg>D. Loüis fit ſemer par une feinte utile,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Don Louis fit semer par une feinte utile,</seg>
+            <seg>D. Louis fit semer par une feinte utile,</seg>
          </tuv>
       </tu>
       <tu tuid="l1737">
@@ -14357,7 +14357,7 @@
             <seg>Oüi, je ſuis Dom Alphonſe, &amp; mon ſort conſervé,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Oui, je suis Don Alphonse, et mon sort conservé,</seg>
+            <seg>Oui, je suis Dom Alphonse, et mon sort conservé,</seg>
          </tuv>
       </tu>
       <tu tuid="l1747">
@@ -14389,7 +14389,7 @@
             <seg>Dom Loüis du ſecret à toutes les clartez,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Don Louis du secret a toutes les clartés,</seg>
+            <seg>Dom Louis du secret a toutes les clartés,</seg>
          </tuv>
       </tu>
       <tu tuid="l1751">
@@ -14797,7 +14797,7 @@
             <seg>Que j’aime vôtre choix, &amp; benis l’avanture,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Que j'aime votre choix et bénis l'aventure,</seg>
+            <seg>Que j'aime votre choix, et bénis l'aventure,</seg>
          </tuv>
       </tu>
       <tu tuid="l1801">
@@ -15133,7 +15133,7 @@
             <seg>C’eſt Dom Alphonſe, enfin, dont on a tant parlé;</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>C'est Don Alphonse enfin, dont on a tant parlé;</seg>
+            <seg>C'est Dom Alphonse enfin, dont on a tant parlé;</seg>
          </tuv>
       </tu>
       <tu tuid="l1843">
@@ -15429,7 +15429,7 @@
             <seg>Donner le dernier coup au parti des Tyrans.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Donner le dernier coup au parti des tyrans.</seg>
+            <seg>Donner le dernier coup au parti des Tyrans.</seg>
          </tuv>
       </tu>
    </body>
