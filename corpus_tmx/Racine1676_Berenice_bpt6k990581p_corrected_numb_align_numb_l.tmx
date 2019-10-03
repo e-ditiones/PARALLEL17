@@ -13,7 +13,7 @@
             <seg>ARRESTONS un moment. La pompe de ces Lieux,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Arrêtons un moment. La pompe de ces lieux,</seg>
+            <seg>ARRÊTONS un moment. La pompe de ces lieux,</seg>
          </tuv>
       </tu>
       <tu tuid="l2">
@@ -125,7 +125,7 @@
             <seg>Quoy déja de Titus l'Epouſe en eſperance,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Quoi déjà de Titus Épouse en espérance,</seg>
+            <seg>Quoi déjà de Titus l'Épouse en espérance,</seg>
          </tuv>
       </tu>
       <tu tuid="l16">
@@ -157,7 +157,7 @@
             <seg>HE' bien, Antiochus, es-tu toujours le meſme?</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Hé bien, Antiochus, es-tu toujours le même?</seg>
+            <seg>HÉ bien, Antiochus, es-tu toujours le même?</seg>
          </tuv>
       </tu>
       <tu tuid="l20">
@@ -413,7 +413,7 @@
             <seg>ARſace, entrerons-nous?</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Arsace, entrerons-nous?</seg>
+            <seg>ARsace, entrerons-nous?</seg>
          </tuv>
       </tu>
       <tu tuid="l">
@@ -906,7 +906,7 @@
       </tu>
       <tu tuid="l107">
          <tuv xml:lang="FRM">
-            <seg>Sur leur triplé rempart les Ennemis tranquiles</seg>
+            <seg>Sur leur triple rempart les Ennemis tranquiles</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>Sur leur triple rempart les Ennemis tranquilles</seg>
@@ -1010,7 +1010,7 @@
       </tu>
       <tu tuid="l120">
          <tuv xml:lang="FRM">
-            <seg>Attendez pour partir que Céſâr vous renvoye</seg>
+            <seg>Attendez pour partir que Céſar vous renvoye</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>Attendez pour partir que César vous renvoie</seg>
@@ -1306,7 +1306,7 @@
       </tu>
       <tu tuid="l154">
          <tuv xml:lang="FRM">
-            <seg>Avoit, meſme en ſecret ſuſpendu ſon amour.</seg>
+            <seg>Avoit meſme en ſecret ſuſpendu ſon amour.</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>Avait même en secret suspendu son amour.</seg>
@@ -2058,7 +2058,7 @@
       </tu>
       <tu tuid="l245">
          <tuv xml:lang="FRM">
-            <seg>Mais toujours quelque eſpoir flattoit-mes déplaiſirs.</seg>
+            <seg>Mais toujours quelque eſpoir flattoit mes déplaiſirs.</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>Mais toujours quelque espoir flattait mes déplaisirs.</seg>
@@ -2589,7 +2589,7 @@
             <seg>Et ces Lauriers encore témoins de ſa victoire,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Et ces lauriers encor témoins de sa victoire,</seg>
+            <seg>Et ces Lauriers encor témoins de sa victoire,</seg>
          </tuv>
       </tu>
       <tu tuid="l309">
@@ -2869,7 +2869,7 @@
             <seg>HE' bien, de mes deſſeins Rome encore incertaine</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Hé bien, de mes desseins Rome encore incertaine</seg>
+            <seg>HÉ bien, de mes desseins Rome encore incertaine</seg>
          </tuv>
       </tu>
       <tu tuid="l340">
@@ -3013,7 +3013,7 @@
             <seg>Paulin, Je me propoſe un plus ample Theatre;</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Paulin. Je me propose un plus noble Théâtre;</seg>
+            <seg>Paulin. Je me propose un plus ample Théâtre;</seg>
          </tuv>
       </tu>
       <tu tuid="l357">
@@ -3026,7 +3026,7 @@
       </tu>
       <tu tuid="l358">
          <tuv xml:lang="FRM">
-            <seg>Je veux par voſtre bouche entendre tous les Coeurs.</seg>
+            <seg>Je veux par voſtre bouche entendre tous les Cœurs.</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>Je veux par votre bouche entendre tous les Cœurs.</seg>
@@ -3645,7 +3645,7 @@
             <seg>Tout cela (qu’un Amant ſçait mal ce qu'il deſire!)</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Tout cela (qu’un amant sait mal ce qu’il désire!)</seg>
+            <seg>Tout cela (qu’un Amant sait mal ce qu’il désire!)</seg>
          </tuv>
       </tu>
       <tu tuid="l436">
@@ -4349,7 +4349,7 @@
             <seg>Je luy diray, Partez &amp; ne me voyez plus.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Je lui dirai, partez, et ne me voyez plus.</seg>
+            <seg>Je lui dirai, Partez, et ne me voyez plus.</seg>
          </tuv>
       </tu>
       <tu tuid="l523">
@@ -4597,7 +4597,7 @@
             <seg>BErenice, Seigneur, demande à tous parler.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Bérénice, Seigneur, demande à vous parler.</seg>
+            <seg>BÉrénice, Seigneur, demande à vous parler.</seg>
          </tuv>
       </tu>
       <tu tuid="l554">
@@ -4645,7 +4645,7 @@
             <seg>NE vous offenſez pas, ſi mon zele indiſcret</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Ne vous offensez pas, si mon zèle indiscret</seg>
+            <seg>NE vous offensez pas, si mon zèle indiscret</seg>
          </tuv>
       </tu>
       <tu tuid="l558">
@@ -5253,7 +5253,7 @@
             <seg>QUoy me quitter ſi-toſt, &amp; ne me dire rien?</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Quoi me quitter sitôt, et ne me dire rien?</seg>
+            <seg>QUoi me quitter sitôt, et ne me dire rien?</seg>
          </tuv>
       </tu>
       <tu tuid="l626">
@@ -5597,7 +5597,7 @@
             <seg>QUoy, Prince, vous partiez? Quelle raiſon ſubite</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Quoi, Prince, vous partiez? Quelle raison subite</seg>
+            <seg>QUoi, Prince, vous partiez? Quelle raison subite</seg>
          </tuv>
       </tu>
       <tu tuid="l668">
@@ -6157,7 +6157,7 @@
             <seg>Si le Peuple demain ne voit partir la Reyne.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Si le peuple demain ne voit partir la Reine.</seg>
+            <seg>Si le Peuple demain ne voit partir la Reine.</seg>
          </tuv>
       </tu>
       <tu tuid="l733">
@@ -6266,7 +6266,7 @@
       </tu>
       <tu tuid="l746">
          <tuv xml:lang="FRM">
-            <seg>Fortez-luy mes Adieux, &amp; recevez les ſiens.</seg>
+            <seg>Portez-luy mes Adieux, &amp; recevez les ſiens.</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>Portez-lui mes Adieux, et recevez les siens.</seg>
@@ -6282,7 +6282,7 @@
       </tu>
       <tu tuid="l748">
          <tuv xml:lang="FRM">
-            <seg>Qiu de noſtre conſtance accableroit le reſte.</seg>
+            <seg>Qui de noſtre conſtance accableroit le reſte.</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>Qui de notre constance accablerait le reste.</seg>
@@ -6674,7 +6674,7 @@
       </tu>
       <tu tuid="l797">
          <tuv xml:lang="FRM">
-            <seg>N’en doutez point, Seigneur, tout ſuccede a vos vœux.</seg>
+            <seg>N’en doutez point, Seigneur, tout ſuccede à vos vœux.</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>N’en doutez point, Seigneur, tout succède à vos vœux.</seg>
@@ -7698,7 +7698,7 @@
       </tu>
       <tu tuid="l912">
          <tuv xml:lang="FRM">
-            <seg>Allons le voir. Je veux luy parler tout a l’heure.</seg>
+            <seg>Allons le voir. Je veux luy parler tout à l’heure.</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>Allons le voir. Je veux lui parler tout à l’heure.</seg>
@@ -7802,7 +7802,7 @@
       </tu>
       <tu tuid="l924">
          <tuv xml:lang="FRM">
-            <seg>Elle croit m affliger. Sa haine me fait grace.</seg>
+            <seg>Elle croit m'affliger. Sa haine me fait grace.</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>Elle croit m’affliger. Sa haine me fait grâce.</seg>
@@ -8045,7 +8045,7 @@
             <seg>PHenice ne vient point? Momens trop rigoureux,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Phénice ne vient point? Moments trop rigoureux,</seg>
+            <seg>PHénice ne vient point? Moments trop rigoureux,</seg>
          </tuv>
       </tu>
       <tu tuid="l954">
@@ -8117,7 +8117,7 @@
             <seg>CHere Phénice, hé bien, as-tu veu l’Empereur?</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Chère Phénice, hé bien, as-tu vu l’Empereur?</seg>
+            <seg>CHère Phénice, hé bien, as-tu vu l’Empereur?</seg>
          </tuv>
       </tu>
       <tu tuid="l963">
@@ -8301,7 +8301,7 @@
             <seg>DE la Reyne, Paulin, flattez l’inquiétude.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>De la Reine, Paulin, flattez l’inquiétude.</seg>
+            <seg>DE la Reine, Paulin, flattez l’inquiétude.</seg>
          </tuv>
       </tu>
       <tu tuid="l984">
@@ -8349,7 +8349,7 @@
             <seg>HE' bien, Titus, que viens-tu faire?</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Hé bien, Titus, que viens-tu faire?</seg>
+            <seg>HÉ bien, Titus, que viens-tu faire?</seg>
          </tuv>
       </tu>
       <tu tuid="l988">
@@ -10277,7 +10277,7 @@
             <seg>Tous les Temples ouverts fument en voſtre nom.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Tous les temples ouverts fument en votre nom.</seg>
+            <seg>Tous les Temples ouverts fument en votre nom.</seg>
          </tuv>
       </tu>
       <tu tuid="l1223">
@@ -10733,7 +10733,7 @@
             <seg>Le Peuple avec tranſport l’arreſte, &amp; l’environne,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Le peuple avec transport l’arrête, et l’environne,</seg>
+            <seg>Le Peuple avec transport l’arrête, et l’environne,</seg>
          </tuv>
       </tu>
       <tu tuid="l1272">
@@ -10861,7 +10861,7 @@
             <seg>DEmeurez, qu’on ne me ſuive pas.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Demeurez, qu'on ne me suive pas.</seg>
+            <seg>DEmeurez, qu'on ne me suive pas.</seg>
          </tuv>
       </tu>
       <tu tuid="l1287">
@@ -10997,7 +10997,7 @@
             <seg>NOn, je n’écoute rien. Me voilà reſoluë.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Non, je n’écoute rien. Me voilà résolue.</seg>
+            <seg>NOn, je n’écoute rien. Me voilà résolue.</seg>
          </tuv>
       </tu>
       <tu tuid="l1304">
@@ -11541,7 +11541,7 @@
             <seg>MAdame, il faut vous faire un aveu veritable,</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Madame, il faut vous faire un aveu véritable,</seg>
+            <seg>MAdame, il faut vous faire un aveu véritable,</seg>
          </tuv>
       </tu>
       <tu tuid="l1364">
@@ -12053,7 +12053,7 @@
             <seg>VEnez, Prince, venez, je vous ay fait chercher.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Venez, Prince, venez, je vous ai fait chercher.</seg>
+            <seg>VEnez, Prince, venez, je vous ai fait chercher.</seg>
          </tuv>
       </tu>
       <tu tuid="l1427">
