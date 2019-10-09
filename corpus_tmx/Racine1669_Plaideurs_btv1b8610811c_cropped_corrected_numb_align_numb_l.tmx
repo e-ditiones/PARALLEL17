@@ -3741,7 +3741,7 @@
             <seg>Il ſe tourmente. Il vous.... fera voir aujourd’huy</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Il se tourmente. Il vous...</seg>
+            <seg>Il se tourmente. Il vous… fera voir aujourd’hui</seg>
          </tuv>
       </tu>
       <tu tuid="l363">
@@ -3749,7 +3749,7 @@
             <seg>Que l’on ne gaigne guere à plaider contre luy.</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Que l’on ne gagne rien à plaider contre lui.</seg>
+            <seg>Que l’on ne gagne guère à plaider contre lui.</seg>
          </tuv>
       </tu>
       <tu tuid="l364">
@@ -3826,7 +3826,7 @@
       </tu>
       <tu tuid="l373">
          <tuv xml:lang="FRM">
-            <seg>Ils me feront-plaiſir, ie les mets à pis faire.</seg>
+            <seg>Ils me feront plaiſir, ie les mets à pis faire.</seg>
          </tuv>
          <tuv xml:lang="FR">
             <seg>Ils me feront plaisir, je les mets à pis faire.</seg>
@@ -6573,7 +6573,7 @@
             <seg>Contre vn de nos Voiſins....</seg>
          </tuv>
          <tuv xml:lang="FR">
-            <seg>Contre un de vos voisins...</seg>
+            <seg>Contre un de vos Voisins…</seg>
          </tuv>
       </tu>
       <tu tuid="l">
