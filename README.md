@@ -27,7 +27,7 @@ To use the tool, you need to:
 If you want to contribute, you can do so by cloning the repository and sending us a pull request, or by sending an email at simon.gabay[at]unige.ch.
 
 ## Acknowledgments
-Additional data and corrections have been provided by Philippe Gambette ([GitHub](https://github.com/PhilippeGambette)) and his colleagues from Gustave Eiffel university.
+Additional data and corrections have been provided by Philippe Gambette ([GitHub](https://github.com/PhilippeGambette)) and Jonathan Poinhos.
 
 ## Cite this repository
 Please use one of the following publications, preferably the latest.
