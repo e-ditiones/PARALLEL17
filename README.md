@@ -27,12 +27,50 @@ To use the tool, you need to:
 4. Normalise the text running ```./translate_file.bash <NAME_OF_FILE.tok>```
 
 ## Contribute
-If you want to contribute, you can do so by cloning the repository and sending us a pull request, or by sending an email at simon.gabay[at]unine.ch.
+If you want to contribute, you can do so by cloning the repository and sending us a pull request, or by sending an email at simon.gabay[at]unige.ch.
+
+## Acknowledgment
+Additional data and corrections have been provided by Philippe Gambette ([GitHub](https://github.com/PhilippeGambette)) and his colleagues from Gustave Eiffel university.
 
 ## Cite this repository
-Simon Gabay (éd.), _PARALLEL17: a parallel corpus (diplomatic vs normalised) of 17th c. French texts_, Neuchâtel: Université de Neuchâtel, 2019, [https://github.com/e-ditiones/PARALLEL17](https://github.com/e-ditiones/PARALLEL17).
+Please use one of the following publications, preferably the latest.
+
+```bibtex
+@inproceedings{gabay:hal-02276150,
+  TITLE = {{A Workflow For On The Fly Normalisation Of 17th c. French}},
+  AUTHOR = {Gabay, Simon and Riguet, Marine and Barrault, Lo{\"i}c},
+  URL = {https://hal.archives-ouvertes.fr/hal-02276150},
+  BOOKTITLE = {{DH2019}},
+  ADDRESS = {Utrecht, Netherlands},
+  ORGANIZATION = {{ADHO}},
+  YEAR = {2019},
+  MONTH = Jul,
+  KEYWORDS = {17th Century France ; Parallel corpus building},
+  PDF = {https://hal.archives-ouvertes.fr/hal-02276150/file/DH2019_final.pdf},
+  HAL_ID = {hal-02276150},
+  HAL_VERSION = {v1},
+}
+```
+
+```
+@inproceedings{gabay:hal-02596669,
+  TITLE = {{Traduction automatique pour la normalisation du fran{\c c}ais du XVII e si{\`e}cle}},
+  AUTHOR = {Gabay, Simon and Barrault, Lo{\"i}c},
+  URL = {https://hal.archives-ouvertes.fr/hal-02596669},
+  BOOKTITLE = {{TALN 2020}},
+  ADDRESS = {Nancy, France},
+  ORGANIZATION = {{ATALA}},
+  SERIES = {27{\`e}me Conf{\'e}rence sur le Traitement Automatique des Langues Naturelles},
+  YEAR = {2020},
+  MONTH = Jun,
+  KEYWORDS = {Normalisation ; 17th c French ; Neural Machine Translation (NMT) ; Statistical Machine Translation (SMT) ; Digital humanities ; Humanit{\'e}s num{\'e}riques ; Fran{\c c}ais classique ; Traduction automatique neuronale ; Traduction automatique statistique},
+  PDF = {https://hal.archives-ouvertes.fr/hal-02596669/file/main.pdf},
+  HAL_ID = {hal-02596669},
+  HAL_VERSION = {v1},
+}
+```
 
 Please keep me posted if you use this data! simon.gabay[at]unine.ch
 
 ## Contact
-simon.gabay[at]unine.ch
+simon.gabay[at]unige.ch
