@@ -16,9 +16,6 @@ A detailed list of the corpus is available [here](https://github.com/e-ditiones/
 Transcripts are almost diplomatic. Long *ſ* is maintained ( *plaiſir* and not *plaisir*).
 Ligatures which have disappeared ( *ſt*, *st*, *ct*) are not kept, but not those that are maintained in contemporary French (*œ*, *æ*).
 
-## Licence
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>.
-
 ## Use the normaliser
 To use the tool, you need to:
 1. Download and install NMTPYTORCH ([you can find some help here](https://github.com/lium-lst/nmtpytorch/wiki/Installation)).
@@ -52,7 +49,7 @@ Please use one of the following publications, preferably the latest.
 }
 ```
 
-```
+```bibtex
 @inproceedings{gabay:hal-02596669,
   TITLE = {{Traduction automatique pour la normalisation du fran{\c c}ais du XVII e si{\`e}cle}},
   AUTHOR = {Gabay, Simon and Barrault, Lo{\"i}c},
@@ -70,7 +67,10 @@ Please use one of the following publications, preferably the latest.
 }
 ```
 
-Please keep me posted if you use this data! simon.gabay[at]unine.ch
+Please keep me posted if you use this data! simon.gabay[at]unige.ch
 
 ## Contact
 simon.gabay[at]unige.ch
+
+## Licence
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>.
