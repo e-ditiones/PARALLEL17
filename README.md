@@ -8,7 +8,7 @@ The corpus is available in two different formats:
 1. TSV ([corpus_tsv folder](https://github.com/e-ditiones/PARALLEL17/tree/master/corpus_tsv))
 2. XML-TMX ([corpus_tmx folder](https://github.com/e-ditiones/PARALLEL17/tree/master/corpus_tmx))
 
-<span style="color:red"><b>WARNING</b> Part of the TSV files have been corrected and not the XML-TMX files.</span>
+<span style="color:red;"><b>WARNING</b> Part of the TSV files have been corrected and not the XML-TMX files.</span>
 
 A detailed list of the corpus is available [here](https://github.com/e-ditiones/PARALLEL17/blob/master/TableOfContent.tsv).
 
