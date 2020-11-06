@@ -8,7 +8,7 @@ The corpus is available in two different formats:
 1. TSV ([corpus_tsv folder](https://github.com/e-ditiones/PARALLEL17/tree/master/corpus_tsv))
 2. XML-TMX ([corpus_tmx folder](https://github.com/e-ditiones/PARALLEL17/tree/master/corpus_tmx))
 
-<span style="color:red;"><b>WARNING</b> Part of the TSV files have been corrected and not the XML-TMX files.</span>
+<b>WARNING Part of the TSV files have been corrected and not the XML-TMX files.</b>
 
 A detailed list of the corpus is available [here](https://github.com/e-ditiones/PARALLEL17/blob/master/TableOfContent.tsv).
 
@@ -26,7 +26,7 @@ To use the tool, you need to:
 ## Contribute
 If you want to contribute, you can do so by cloning the repository and sending us a pull request, or by sending an email at simon.gabay[at]unige.ch.
 
-## Acknowledgment
+## Acknowledgments
 Additional data and corrections have been provided by Philippe Gambette ([GitHub](https://github.com/PhilippeGambette)) and his colleagues from Gustave Eiffel university.
 
 ## Cite this repository
