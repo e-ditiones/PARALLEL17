@@ -39,17 +39,17 @@ with open(os.path.join(folder,"TableOfContent.tsv"), newline='', encoding="utf-8
    for row in reader:
       fileNb += 1
       # Display info about this file of the corpus
-      print("Treating file #" + str(fileNb) + " (" + row["Fichier"] + ") in category " + row["Sous-corpus"])
+      print("Treating file #" + str(fileNb) + " (" + row["file"] + ") in category " + row["Sub-corpus"])
       # Read the file
       try:
-         with open(os.path.join(os.path.join(folder, "corpus_tsv"), row["Fichier"]), newline='', encoding="utf-8") as treatedFile:
+         with open(os.path.join(os.path.join(folder, "corpus_tsv"), row["file"]), newline='', encoding="utf-8") as treatedFile:
             spamreader = csv.reader(treatedFile, delimiter='\t', quotechar='"')
             # create the corresponding train/dev/test empty files
-            csvTrainFile = open(os.path.join(trainFolder, row["Fichier"]), 'w', newline='', encoding="utf-8")
+            csvTrainFile = open(os.path.join(trainFolder, row["file"]), 'w', newline='', encoding="utf-8")
             trainWriter = csv.writer(csvTrainFile, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-            csvDevFile = open(os.path.join(devFolder, row["Fichier"]), 'w', newline='', encoding="utf-8")
+            csvDevFile = open(os.path.join(devFolder, row["file"]), 'w', newline='', encoding="utf-8")
             devWriter = csv.writer(csvDevFile, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-            csvTestFile = open(os.path.join(testFolder, row["Fichier"]), 'w', newline='', encoding="utf-8")
+            csvTestFile = open(os.path.join(testFolder, row["file"]), 'w', newline='', encoding="utf-8")
             testWriter = csv.writer(csvTestFile, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             
             outputFiles = {"train": trainWriter, "dev": devWriter, "test": testWriter}
@@ -62,7 +62,7 @@ with open(os.path.join(folder,"TableOfContent.tsv"), newline='', encoding="utf-8
                   print("Line " + str(inputLineNb) + " contains a typo in the original version: ignored!")
                else:
                   # add the current line to the right file
-                  outputFiles[subcorpora[row["Sous-corpus"]][outputLineNb%10]].writerow(line)
+                  outputFiles[subcorpora[row["Sub-corpus"]][outputLineNb%10]].writerow(line)
                   outputLineNb += 1
             
             # close the created train/dev/test files
