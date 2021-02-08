@@ -44,6 +44,7 @@ with open(os.path.join(folder,"TableOfContent.tsv"), newline='', encoding="utf-8
       try:
          with open(os.path.join(os.path.join(folder, "corpus_tsv"), row["file"]), newline='', encoding="utf-8") as treatedFile:
             spamreader = csv.reader(treatedFile, delimiter='\t', quotechar='"')
+            
             # create the corresponding train/dev/test empty files
             csvTrainFile = open(os.path.join(trainFolder, row["file"]), 'w', newline='', encoding="utf-8")
             trainWriter = csv.writer(csvTrainFile, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
@@ -61,8 +62,9 @@ with open(os.path.join(folder,"TableOfContent.tsv"), newline='', encoding="utf-8
                if len(line) > 2:
                   print("Line " + str(inputLineNb) + " contains a typo in the original version: ignored!")
                else:
-                  # add the current line to the right file
-                  outputFiles[subcorpora[row["Sub-corpus"]][outputLineNb%10]].writerow(line)
+                  # add the current line to the right file,
+                  # replacing ' by ’ in the normalized column
+                  outputFiles[subcorpora[row["Sub-corpus"]][outputLineNb%10]].writerow([line[0],line[1].replace("'","’")])
                   outputLineNb += 1
             
             # close the created train/dev/test files
