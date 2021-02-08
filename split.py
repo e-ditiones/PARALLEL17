@@ -7,10 +7,7 @@ folder = os.path.abspath(os.path.dirname(sys.argv[0]))
 
 # Split each text according to its category following the instructions below
 # For each category, the (n%10)-th cell of the associated list indicates
-# where the n-th line of the file should go, ignoring the lines containing two \t
-# (that is lines where there is a typo in the original book,
-# which should not be taken into account for normalization 
-# as this typo cannot be automatically detected)
+# where the n-th line of the file should go
 subcorpora = {
 "1-standard":["train","train","test","train","train","dev","train","train","train","train"],
 "2-test":["test","test","test","test","test","test","test","test","test","test"],
@@ -59,8 +56,13 @@ with open(os.path.join(folder,"TableOfContent.tsv"), newline='', encoding="utf-8
             # fill in the corresponding train/dev/test files
             for line in spamreader:
                inputLineNb += 1
-               if len(line) > 2:
-                  print("Line " + str(inputLineNb) + " contains a typo in the original version: ignored!")
+               if len(line) > 2 and len(line[2])>0 and line[2]!=" ":
+                  # if there exist a third column which is neither empty nor a single whitespace
+                  # it should contain a corrected version of the erroneous first column in the original edition:
+                  # use this third column instead of the first column for this line!
+                  print("Line " + str(inputLineNb) + " contains a typo in the original version: we will use the corrected version!")
+                  outputFiles[subcorpora[row["Sub-corpus"]][outputLineNb%10]].writerow([line[2],line[1].replace("'","’")])
+                  outputLineNb += 1
                else:
                   # add the current line to the right file,
                   # replacing ' by ’ in the normalized column
