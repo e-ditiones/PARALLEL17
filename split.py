@@ -9,6 +9,7 @@ folder = os.path.abspath(os.path.dirname(sys.argv[0]))
 # For each category, the (n%10)-th cell of the associated list indicates
 # where the n-th line of the file should go
 subcorpora = {
+"0-out":["out","out","out","out","out","out","out","out","out","out"],
 "1-standard":["train","train","test","train","train","dev","train","train","train","train"],
 "2-test":["test","test","test","test","test","test","test","test","test","test"],
 "3-test+train":["test","test","test","train","test","test","test","test","test","test"],
@@ -27,6 +28,8 @@ devFolder = os.path.join(os.path.join(folder, "split"), "dev")
 os.system("mkdir " + devFolder)
 testFolder = os.path.join(os.path.join(folder, "split"), "test")
 os.system("mkdir " + testFolder)
+outFolder = os.path.join(os.path.join(folder, "split"), "out")
+os.system("mkdir " + outFolder)
 
 # Treat the corpus
 fileNb = 0
@@ -41,7 +44,7 @@ with open(os.path.join(folder,"TableOfContent.tsv"), newline='', encoding="utf-8
       try:
          with open(os.path.join(os.path.join(folder, "corpus_tsv"), row["file"]), newline='', encoding="utf-8") as treatedFile:
             spamreader = csv.reader(treatedFile, delimiter='\t', quotechar='"')
-            
+
             # create the corresponding train/dev/test empty files
             csvTrainFile = open(os.path.join(trainFolder, row["file"]), 'w', newline='', encoding="utf-8")
             trainWriter = csv.writer(csvTrainFile, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
@@ -49,8 +52,10 @@ with open(os.path.join(folder,"TableOfContent.tsv"), newline='', encoding="utf-8
             devWriter = csv.writer(csvDevFile, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             csvTestFile = open(os.path.join(testFolder, row["file"]), 'w', newline='', encoding="utf-8")
             testWriter = csv.writer(csvTestFile, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-            
-            outputFiles = {"train": trainWriter, "dev": devWriter, "test": testWriter}
+            csvOutFile = open(os.path.join(outFolder, row["file"]), 'w', newline='', encoding="utf-8")
+            outWriter = csv.writer(csvOutFile, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+
+            outputFiles = {"train": trainWriter, "dev": devWriter, "test": testWriter, "out": outWriter}
             inputLineNb = 0
             outputLineNb = 0
             # fill in the corresponding train/dev/test files
@@ -68,7 +73,7 @@ with open(os.path.join(folder,"TableOfContent.tsv"), newline='', encoding="utf-8
                   # replacing ' by ’ in the normalized column
                   outputFiles[subcorpora[row["Sub-corpus"]][outputLineNb%10]].writerow([line[0],line[1].replace("'","’")])
                   outputLineNb += 1
-            
+
             # close the created train/dev/test files
             csvTrainFile.close()
             csvDevFile.close()
