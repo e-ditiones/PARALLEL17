@@ -2,6 +2,10 @@
 
 Parallel corpus (diplomatic vs normalised) of 17th c. French texts
 
+```diff
+- WARNING: This repository is now deprecated. See https://github.com/FreEM-corpora/FreEMnorm for the new repo.
+```
+
 ## Corpus
 
 The corpus is available in the [corpus_tsv folder](https://github.com/e-ditiones/PARALLEL17/tree/master/corpus_tsv).
